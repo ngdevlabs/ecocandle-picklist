@@ -1,0 +1,108 @@
+[
+    {
+        "main_product_id": 123,
+        "picklist_options": [
+            {
+                "Choose Large Candle": [
+                    {
+                        "id": 122,
+                        "sku": "DTC",
+                        "name": "Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516"
+                    },
+                    {
+                        "id": 86,
+                        "sku": "ABS",
+                        "name": "[Sample] Able Brewing System"
+                    },
+                    {
+                        "id": 97,
+                        "sku": "TWB",
+                        "name": "[Sample] Tiered Wire Basket"
+                    },
+                    {
+                        "id": 121,
+                        "sku": "DER",
+                        "name": "Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine"
+                    }
+                ]
+            },
+            {
+                "Choose Small Candle": [
+                    {
+                        "id": 122,
+                        "sku": "DTC",
+                        "name": "Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516"
+                    },
+                    {
+                        "id": 97,
+                        "sku": "TWB",
+                        "name": "[Sample] Tiered Wire Basket"
+                    },
+                    {
+                        "id": 86,
+                        "sku": "ABS",
+                        "name": "[Sample] Able Brewing System"
+                    },
+                    {
+                        "id": 121,
+                        "sku": "DER",
+                        "name": "Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "main_product_id": 124,
+        "picklist_options": [
+            {
+                "Choose Large Candle": [
+                    {
+                        "id": 122,
+                        "sku": "DTC",
+                        "name": "Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516"
+                    },
+                    {
+                        "id": 86,
+                        "sku": "ABS",
+                        "name": "[Sample] Able Brewing System"
+                    },
+                    {
+                        "id": 97,
+                        "sku": "TWB",
+                        "name": "[Sample] Tiered Wire Basket"
+                    },
+                    {
+                        "id": 121,
+                        "sku": "DER",
+                        "name": "Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine"
+                    }
+                ]
+            },
+            {
+                "Choose Small Candle": [
+                    {
+                        "id": 122,
+                        "sku": "DTC",
+                        "name": "Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516"
+                    },
+                    {
+                        "id": 97,
+                        "sku": "TWB",
+                        "name": "[Sample] Tiered Wire Basket"
+                    },
+                    {
+                        "id": 86,
+                        "sku": "ABS",
+                        "name": "[Sample] Able Brewing System"
+                    },
+                    {
+                        "id": 121,
+                        "sku": "DER",
+                        "name": "Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine"
+                    }
+                ]
+            }
+        ]
+    }
+]

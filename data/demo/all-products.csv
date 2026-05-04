@@ -1,9 +1,9 @@
-c,,,,
-GBCBLG,DTC,Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516, Choose Large Candle,122,,,,
-,ABS,[Sample] Able Brewing System,Choose Large Candle,86,,123,MEC-GAR MAG FITS GLK 19 9MM 15RD AFCe,GBCBMD
-,TWB,[Sample] Tiered Wire Basket,Choose Large Candle,97,,124,"PRECISION RFLX 6.8 25RD MAG, AR15",GBCBLG
-,DER,Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine, Choose Large Candle,121,,,,
-GBCBMD,DTC,Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516, Choose Small Candle,122,,,,
-,TWB,[Sample] Tiered Wire Basket,Choose Small Candle,97,,124,"PRECISION RFLX 6.8 25RD MAG, AR15",GBCBLG
-,ABS,[Sample] Able Brewing System,Choose Small Candle,86,,123,MEC-GAR MAG FITS GLK 19 9MM 15RD AFCe,GBCBMD
-,DER,Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine, Choose Small Candle,121,,,,
+main_product_id,product_sku,product_title,dropdown_title,product_id
+"123,124",DTC,Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516, Choose Large Candle,122
+,ABS,[Sample] Able Brewing System,Choose Large Candle,86
+,TWB,[Sample] Tiered Wire Basket,Choose Large Candle,97
+,DER,Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine, Choose Large Candle,121
+"124,123",DTC,Sig Sauer PMAG GEN 3 Magazine Window 30 Rounds 5.56 NATO for P556 MCX SIG516, Choose Small Candle,122
+,TWB,[Sample] Tiered Wire Basket,Choose Small Candle,97
+,ABS,[Sample] Able Brewing System,Choose Small Candle,86
+,DER,Mission First Tactical Extreme Duty .308 10 Round Translucent Smoke Magazine, Choose Small Candle,121

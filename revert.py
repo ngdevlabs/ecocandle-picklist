@@ -2,6 +2,8 @@ import json
 from config import BACKUP_FILE
 from client import ApiClient
 
+api = ApiClient()
+
 def restore_products():
     
     with open(BACKUP_FILE, "r", encoding="utf-8") as f:
@@ -29,7 +31,7 @@ def restore_products():
             "is_visible": product["is_visible"]
         }
 
-        ApiClient(f"/catalog/products/{product_id}").put(product_payload)
+        api.put(f"/catalog/products/{product_id}", product_payload)
 
         # Recreate modifiers
         for modifier in item["modifiers"]:
@@ -38,7 +40,7 @@ def restore_products():
                 if k not in ["id", "product_id", "option_values"]
             }
 
-            created_modifier = ApiClient(f"/catalog/products/{product_id}/modifiers").post(modifier_payload)
+            created_modifier = api.post(f"/catalog/products/{product_id}/modifiers", modifier_payload)
 
             new_modifier_id = created_modifier["data"]["id"]
 
@@ -47,7 +49,7 @@ def restore_products():
                     k: v for k, v in value.items()
                     if k not in ["id", "option_id"]
                 }
-                ApiClient(f"/catalog/products/{product_id}/modifiers/{new_modifier_id}/values").post(value_payload)
+                api.post(f"/catalog/products/{product_id}/modifiers/{new_modifier_id}/values", value_payload)
 
         print(f"Restored product {product_id}")
 
