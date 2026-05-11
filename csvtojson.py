@@ -63,4 +63,4 @@ def convert_csv_to_json(input_file, output_file):
     print(f"Successfully converted {input_file} to {output_file}")
 
 if __name__ == "__main__":
-    convert_csv_to_json('data/demo/all-products.csv', 'data/demo/clean.json')
+    convert_csv_to_json('data/production/all-products.csv', 'data/production/clean.json')

@@ -11,6 +11,6 @@
 ## v1.0.0 [04-05-2026]
 
 ## Added
-- file_formater.py formats the csv file to a clean json for processing
+- csvtojson.py formats the csv file to a clean json for processing
 - topicklist.py using the newly form json file to create picklist and remove the previous dropdowns
 - todropdown.py incase of any error reverts the products back to dropdown
