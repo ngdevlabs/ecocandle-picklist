@@ -1,0 +1,1033 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-14T18:03:32.795861Z",
+  "store_hash": "jc035k9ixd",
+  "original_product_id": 124,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 124,
+    "name": "PRECISION RFLX 6.8 25RD MAG, AR15,",
+    "type": "physical",
+    "sku": "GBCBLG",
+    "description": "PRECISION RFLX 6.8 25RD MAG, AR15,",
+    "weight": 1,
+    "width": 0,
+    "depth": 0,
+    "height": 0,
+    "price": 39.73,
+    "cost_price": 39.73,
+    "retail_price": 39.73,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 39.73,
+    "categories": [],
+    "brand_id": 0,
+    "option_set_id": 25,
+    "option_set_display": "right",
+    "inventory_level": 5,
+    "inventory_warning_level": 1,
+    "inventory_tracking": "product",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 0,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2025-12-14T23:59:14+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "",
+    "meta_keywords": [],
+    "meta_description": "",
+    "date_created": "2025-12-14T23:59:22+00:00",
+    "date_modified": "2026-05-14T14:45:10+00:00",
+    "view_count": 0,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/precision-rflx-6-8-25rd-mag-ar15/",
+      "is_customized": true
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 145,
+        "product_id": 124,
+        "sku": "GBCBLG-RE-ME",
+        "sku_id": 164,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 174,
+            "label": "Red",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 178,
+            "label": "Medium",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "product_id": 124,
+        "sku": "GBCBLG-RE-LA",
+        "sku_id": 165,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 174,
+            "label": "Red",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 179,
+            "label": "Large",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 147,
+        "product_id": 124,
+        "sku": "GBCBLG-GR-SM",
+        "sku_id": 166,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 175,
+            "label": "Green",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 177,
+            "label": "Small",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 148,
+        "product_id": 124,
+        "sku": "GBCBLG-GR-ME",
+        "sku_id": 167,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 175,
+            "label": "Green",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 178,
+            "label": "Medium",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "product_id": 124,
+        "sku": "GBCBLG-GR-LA",
+        "sku_id": 168,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 175,
+            "label": "Green",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 179,
+            "label": "Large",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 150,
+        "product_id": 124,
+        "sku": "GBCBLG-BL-SM",
+        "sku_id": 169,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 176,
+            "label": "Blue",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 177,
+            "label": "Small",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "product_id": 124,
+        "sku": "GBCBLG-BL-ME",
+        "sku_id": 170,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 176,
+            "label": "Blue",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 178,
+            "label": "Medium",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "product_id": 124,
+        "sku": "GBCBLG-BL-LA",
+        "sku_id": 171,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 176,
+            "label": "Blue",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 179,
+            "label": "Large",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "product_id": 124,
+        "sku": "GBCBLG-RE-SM",
+        "sku_id": 172,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 174,
+            "label": "Red",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 177,
+            "label": "Small",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 145,
+      "option_label": "Red / Medium",
+      "option_values": [
+        {
+          "id": 174,
+          "label": "Red",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 178,
+          "label": "Medium",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 145,
+        "product_id": 124,
+        "sku": "GBCBLG-RE-ME",
+        "sku_id": 164,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 174,
+            "label": "Red",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 178,
+            "label": "Medium",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 143,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 146,
+      "option_label": "Red / Large",
+      "option_values": [
+        {
+          "id": 174,
+          "label": "Red",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 179,
+          "label": "Large",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 146,
+        "product_id": 124,
+        "sku": "GBCBLG-RE-LA",
+        "sku_id": 165,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 174,
+            "label": "Red",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 179,
+            "label": "Large",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 144,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 147,
+      "option_label": "Green / Small",
+      "option_values": [
+        {
+          "id": 175,
+          "label": "Green",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 177,
+          "label": "Small",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 147,
+        "product_id": 124,
+        "sku": "GBCBLG-GR-SM",
+        "sku_id": 166,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 175,
+            "label": "Green",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 177,
+            "label": "Small",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 145,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 148,
+      "option_label": "Green / Medium",
+      "option_values": [
+        {
+          "id": 175,
+          "label": "Green",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 178,
+          "label": "Medium",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 148,
+        "product_id": 124,
+        "sku": "GBCBLG-GR-ME",
+        "sku_id": 167,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 175,
+            "label": "Green",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 178,
+            "label": "Medium",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 146,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 149,
+      "option_label": "Green / Large",
+      "option_values": [
+        {
+          "id": 175,
+          "label": "Green",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 179,
+          "label": "Large",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 149,
+        "product_id": 124,
+        "sku": "GBCBLG-GR-LA",
+        "sku_id": 168,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 175,
+            "label": "Green",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 179,
+            "label": "Large",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 147,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 150,
+      "option_label": "Blue / Small",
+      "option_values": [
+        {
+          "id": 176,
+          "label": "Blue",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 177,
+          "label": "Small",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 150,
+        "product_id": 124,
+        "sku": "GBCBLG-BL-SM",
+        "sku_id": 169,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 176,
+            "label": "Blue",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 177,
+            "label": "Small",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 148,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 151,
+      "option_label": "Blue / Medium",
+      "option_values": [
+        {
+          "id": 176,
+          "label": "Blue",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 178,
+          "label": "Medium",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 151,
+        "product_id": 124,
+        "sku": "GBCBLG-BL-ME",
+        "sku_id": 170,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 176,
+            "label": "Blue",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 178,
+            "label": "Medium",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 149,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 152,
+      "option_label": "Blue / Large",
+      "option_values": [
+        {
+          "id": 176,
+          "label": "Blue",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 179,
+          "label": "Large",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 152,
+        "product_id": 124,
+        "sku": "GBCBLG-BL-LA",
+        "sku_id": 171,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 176,
+            "label": "Blue",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 179,
+            "label": "Large",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 150,
+      "images": [],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 153,
+      "option_label": "Red / Small",
+      "option_values": [
+        {
+          "id": 174,
+          "label": "Red",
+          "option_id": 135,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 177,
+          "label": "Small",
+          "option_id": 136,
+          "option_display_name": "Size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 153,
+        "product_id": 124,
+        "sku": "GBCBLG-RE-SM",
+        "sku_id": 172,
+        "price": null,
+        "calculated_price": 39.73,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": null,
+        "calculated_weight": 1,
+        "width": null,
+        "height": null,
+        "depth": null,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": null,
+        "upc": "",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 174,
+            "label": "Red",
+            "option_id": 135,
+            "option_display_name": "Color"
+          },
+          {
+            "id": 177,
+            "label": "Small",
+            "option_id": 136,
+            "option_display_name": "Size"
+          }
+        ]
+      },
+      "new_product_id": 151,
+      "images": [],
+      "custom_fields": []
+    }
+  ]
+}
