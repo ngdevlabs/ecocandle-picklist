@@ -42,7 +42,6 @@ def build_new_product_payload(original: dict, variant: dict) -> dict:
     option_label = " / ".join(ov["label"] for ov in option_values) if option_values else ""
     new_name = f"{original['name']} - {option_label}" if option_label else original["name"]
 
-    print(variant.get("sku", "No Found varient") or original.get("sku", ""), 'skuuuuu')
     payload = {
         "name": new_name,
         "type": "physical",
