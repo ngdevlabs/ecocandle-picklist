@@ -1,0 +1,1984 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:03:33.676524Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 4960,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 4960,
+    "name": "hand-dipped incense 10pk",
+    "type": "physical",
+    "sku": "INC",
+    "description": "10 pack of hand-dipped bamboo incense sticks",
+    "weight": 0.1,
+    "width": 0.1,
+    "depth": 10,
+    "height": 0.1,
+    "price": 2.5,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 2.5,
+    "categories": [
+      145,
+      93,
+      141,
+      176,
+      152,
+      151,
+      139,
+      234,
+      161,
+      140,
+      142,
+      175,
+      224,
+      164,
+      168,
+      143,
+      1,
+      182,
+      185,
+      154,
+      179,
+      172,
+      171,
+      183
+    ],
+    "brand_id": 1,
+    "option_set_id": 1420,
+    "option_set_display": "right",
+    "inventory_level": 15629,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 711,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-03-12T22:52:24+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "",
+    "meta_keywords": [],
+    "meta_description": "",
+    "date_created": "2023-08-07T17:14:30+00:00",
+    "date_modified": "2026-05-22T00:11:03+00:00",
+    "view_count": 221,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/home-fragrance/hand-dipped-incense-10pk/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8345,
+        "product_id": 4960,
+        "sku": "INCBRB",
+        "sku_id": 3546,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5035_source_1771429189.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCBRB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6563,
+            "label": "bourbon vanilla",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8346,
+        "product_id": 4960,
+        "sku": "INCCHM",
+        "sku_id": 3547,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5034_source_1771429186.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCCHM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6562,
+            "label": "chamomile sage",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8347,
+        "product_id": 4960,
+        "sku": "INCESA",
+        "sku_id": 3548,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5033_source_1771429184.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCESA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 969,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6561,
+            "label": "eucalyptus sage",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8348,
+        "product_id": 4960,
+        "sku": "INCGOD",
+        "sku_id": 3549,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5032_source_1771429181.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCGOD",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 892,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6560,
+            "label": "goddess",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8350,
+        "product_id": 4960,
+        "sku": "INCLVY",
+        "sku_id": 3551,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5046_source_1771429176.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCLVY",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 973,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6558,
+            "label": "lovely",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8351,
+        "product_id": 4960,
+        "sku": "INCMOE",
+        "sku_id": 3552,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5045_source_1771429174.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCMOE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 979,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6557,
+            "label": "mother earth",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8352,
+        "product_id": 4960,
+        "sku": "INCNAG",
+        "sku_id": 3553,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5044_source_1771429171.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCNAG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 971,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6556,
+            "label": "nag champa",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8353,
+        "product_id": 4960,
+        "sku": "INCOCE",
+        "sku_id": 3554,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5043_source_1771429169.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCOCE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 996,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6555,
+            "label": "ocean waves",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8354,
+        "product_id": 4960,
+        "sku": "INCPRE",
+        "sku_id": 3555,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5042_source_1771429166.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCPRE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6554,
+            "label": "precious woods",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8355,
+        "product_id": 4960,
+        "sku": "INCSPA",
+        "sku_id": 3556,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5041_source_1771429164.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCSPA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6553,
+            "label": "spa day",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8356,
+        "product_id": 4960,
+        "sku": "INCVER",
+        "sku_id": 3557,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5040_source_1771429161.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCVER",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 995,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6552,
+            "label": "verbena basil",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8357,
+        "product_id": 4960,
+        "sku": "INCLAV",
+        "sku_id": 3558,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5031_source_1771429179.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCLAV",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6559,
+            "label": "lavender dreams",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8358,
+        "product_id": 4960,
+        "sku": "INCVAM",
+        "sku_id": 3559,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5039_source_1771429159.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCVAM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 969,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6551,
+            "label": "vintage amber",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8359,
+        "product_id": 4960,
+        "sku": "INCWTG",
+        "sku_id": 3560,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5038_source_1771429156.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCWTG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 994,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6550,
+            "label": "white tea & ginger",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9629,
+        "product_id": 4960,
+        "sku": "INCCED",
+        "sku_id": 3988,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5550_source_1771429151.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCCED",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 997,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10215,
+            "label": "cedar & sandalwood",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9630,
+        "product_id": 4960,
+        "sku": "INCBOT",
+        "sku_id": 3989,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5551_source_1771429154.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCBOT",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 998,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10214,
+            "label": "botanica",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 15467,
+        "product_id": 4960,
+        "is_thumbnail": false,
+        "sort_order": 6,
+        "description": "",
+        "image_file": "n/418/1536908a-c846-405d-8751-059fe0501cec__68007.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.80.80.jpg?c=2",
+        "date_modified": "2024-11-21T20:39:42+00:00"
+      },
+      {
+        "id": 15468,
+        "product_id": 4960,
+        "is_thumbnail": false,
+        "sort_order": 3,
+        "description": "",
+        "image_file": "d/854/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.80.80.jpg?c=2",
+        "date_modified": "2024-11-21T20:39:42+00:00"
+      },
+      {
+        "id": 15469,
+        "product_id": 4960,
+        "is_thumbnail": false,
+        "sort_order": 2,
+        "description": "",
+        "image_file": "f/120/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.80.80.jpg?c=2",
+        "date_modified": "2024-11-21T20:39:42+00:00"
+      },
+      {
+        "id": 15470,
+        "product_id": 4960,
+        "is_thumbnail": false,
+        "sort_order": 4,
+        "description": "",
+        "image_file": "z/302/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.80.80.jpg?c=2",
+        "date_modified": "2024-11-21T20:39:42+00:00"
+      },
+      {
+        "id": 15471,
+        "product_id": 4960,
+        "is_thumbnail": false,
+        "sort_order": 5,
+        "description": "",
+        "image_file": "y/478/f0087c1a-bb21-496d-b64b-181783215d16__67869.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.80.80.jpg?c=2",
+        "date_modified": "2024-11-21T20:39:42+00:00"
+      },
+      {
+        "id": 18974,
+        "product_id": 4960,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "i/656/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.80.80.PNG?c=2",
+        "date_modified": "2024-11-21T20:39:43+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8345,
+      "option_label": "bourbon vanilla",
+      "option_values": [
+        {
+          "id": 6563,
+          "label": "bourbon vanilla",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8345,
+        "product_id": 4960,
+        "sku": "INCBRB",
+        "sku_id": 3546,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5035_source_1771429189.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCBRB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6563,
+            "label": "bourbon vanilla",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6295,
+      "images": [
+        {
+          "new_image_id": 21717,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21718,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21719,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21720,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21721,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21722,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8346,
+      "option_label": "chamomile sage",
+      "option_values": [
+        {
+          "id": 6562,
+          "label": "chamomile sage",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8346,
+        "product_id": 4960,
+        "sku": "INCCHM",
+        "sku_id": 3547,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5034_source_1771429186.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCCHM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6562,
+            "label": "chamomile sage",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6296,
+      "images": [
+        {
+          "new_image_id": 21723,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21724,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21725,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21726,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21727,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21728,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8347,
+      "option_label": "eucalyptus sage",
+      "option_values": [
+        {
+          "id": 6561,
+          "label": "eucalyptus sage",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8347,
+        "product_id": 4960,
+        "sku": "INCESA",
+        "sku_id": 3548,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5033_source_1771429184.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCESA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 969,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6561,
+            "label": "eucalyptus sage",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6297,
+      "images": [
+        {
+          "new_image_id": 21729,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21730,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21731,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21732,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21733,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21734,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8348,
+      "option_label": "goddess",
+      "option_values": [
+        {
+          "id": 6560,
+          "label": "goddess",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8348,
+        "product_id": 4960,
+        "sku": "INCGOD",
+        "sku_id": 3549,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5032_source_1771429181.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCGOD",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 892,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6560,
+            "label": "goddess",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6298,
+      "images": [
+        {
+          "new_image_id": 21735,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21737,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21738,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21739,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21740,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21741,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8350,
+      "option_label": "lovely",
+      "option_values": [
+        {
+          "id": 6558,
+          "label": "lovely",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8350,
+        "product_id": 4960,
+        "sku": "INCLVY",
+        "sku_id": 3551,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5046_source_1771429176.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCLVY",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 973,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6558,
+            "label": "lovely",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6301,
+      "images": [
+        {
+          "new_image_id": 21743,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21745,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21746,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21747,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21748,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21749,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8351,
+      "option_label": "mother earth",
+      "option_values": [
+        {
+          "id": 6557,
+          "label": "mother earth",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8351,
+        "product_id": 4960,
+        "sku": "INCMOE",
+        "sku_id": 3552,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5045_source_1771429174.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCMOE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 979,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6557,
+            "label": "mother earth",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6304,
+      "images": [
+        {
+          "new_image_id": 21751,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21753,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21755,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21756,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21757,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21758,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8352,
+      "option_label": "nag champa",
+      "option_values": [
+        {
+          "id": 6556,
+          "label": "nag champa",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8352,
+        "product_id": 4960,
+        "sku": "INCNAG",
+        "sku_id": 3553,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5044_source_1771429171.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCNAG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 971,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6556,
+            "label": "nag champa",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6309,
+      "images": [
+        {
+          "new_image_id": 21761,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21763,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21765,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21766,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21767,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21769,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8353,
+      "option_label": "ocean waves",
+      "option_values": [
+        {
+          "id": 6555,
+          "label": "ocean waves",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8353,
+        "product_id": 4960,
+        "sku": "INCOCE",
+        "sku_id": 3554,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5043_source_1771429169.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCOCE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 996,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6555,
+            "label": "ocean waves",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6314,
+      "images": [
+        {
+          "new_image_id": 21771,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21773,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21775,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21776,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21777,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21778,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8354,
+      "option_label": "precious woods",
+      "option_values": [
+        {
+          "id": 6554,
+          "label": "precious woods",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8354,
+        "product_id": 4960,
+        "sku": "INCPRE",
+        "sku_id": 3555,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5042_source_1771429166.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCPRE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6554,
+            "label": "precious woods",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6319,
+      "images": [
+        {
+          "new_image_id": 21781,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21782,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21784,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21786,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21787,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21788,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8355,
+      "option_label": "spa day",
+      "option_values": [
+        {
+          "id": 6553,
+          "label": "spa day",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8355,
+        "product_id": 4960,
+        "sku": "INCSPA",
+        "sku_id": 3556,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5041_source_1771429164.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCSPA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6553,
+            "label": "spa day",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6324,
+      "images": [
+        {
+          "new_image_id": 21791,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21792,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21795,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21796,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21797,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21798,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8356,
+      "option_label": "verbena basil",
+      "option_values": [
+        {
+          "id": 6552,
+          "label": "verbena basil",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8356,
+        "product_id": 4960,
+        "sku": "INCVER",
+        "sku_id": 3557,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5040_source_1771429161.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCVER",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 995,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6552,
+            "label": "verbena basil",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6331,
+      "images": [
+        {
+          "new_image_id": 21801,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21802,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21803,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21804,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21805,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21806,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8357,
+      "option_label": "lavender dreams",
+      "option_values": [
+        {
+          "id": 6559,
+          "label": "lavender dreams",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8357,
+        "product_id": 4960,
+        "sku": "INCLAV",
+        "sku_id": 3558,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5031_source_1771429179.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCLAV",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6559,
+            "label": "lavender dreams",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6332,
+      "images": [
+        {
+          "new_image_id": 21807,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21808,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21809,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21810,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21811,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21812,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8358,
+      "option_label": "vintage amber",
+      "option_values": [
+        {
+          "id": 6551,
+          "label": "vintage amber",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8358,
+        "product_id": 4960,
+        "sku": "INCVAM",
+        "sku_id": 3559,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5039_source_1771429159.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCVAM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 969,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6551,
+            "label": "vintage amber",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6333,
+      "images": [
+        {
+          "new_image_id": 21813,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21814,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21815,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21816,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21817,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21818,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8359,
+      "option_label": "white tea & ginger",
+      "option_values": [
+        {
+          "id": 6550,
+          "label": "white tea & ginger",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8359,
+        "product_id": 4960,
+        "sku": "INCWTG",
+        "sku_id": 3560,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5038_source_1771429156.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCWTG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 994,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6550,
+            "label": "white tea & ginger",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6334,
+      "images": [
+        {
+          "new_image_id": 21819,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21820,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21821,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21822,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21823,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21824,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9629,
+      "option_label": "cedar & sandalwood",
+      "option_values": [
+        {
+          "id": 10215,
+          "label": "cedar & sandalwood",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9629,
+        "product_id": 4960,
+        "sku": "INCCED",
+        "sku_id": 3988,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5550_source_1771429151.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCCED",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 997,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10215,
+            "label": "cedar & sandalwood",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6335,
+      "images": [
+        {
+          "new_image_id": 21825,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21826,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21827,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21828,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21829,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21830,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9630,
+      "option_label": "botanica",
+      "option_values": [
+        {
+          "id": 10214,
+          "label": "botanica",
+          "option_id": 6452,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9630,
+        "product_id": 4960,
+        "sku": "INCBOT",
+        "sku_id": 3989,
+        "price": 2.5,
+        "calculated_price": 2.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 0.1,
+        "height": 0.1,
+        "depth": 10,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5551_source_1771429154.jpeg",
+        "cost_price": 0.5,
+        "upc": "INCBOT",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 998,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10214,
+            "label": "botanica",
+            "option_id": 6452,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6336,
+      "images": [
+        {
+          "new_image_id": 21831,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/18974/1ac30c1c-db4b-4d66-9888-0795b4e167c9__78770.1732221583.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21832,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15469/da5ee5e4-b816-4aad-a5e7-399c9e67f20d__57744.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21833,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15468/422ca61e-54ba-4a42-abc0-d68aad5bc5e5__71144.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21834,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15470/f6e43a3b-0920-4ba8-82a2-7bc9fa9a3974__57494.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21835,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15471/f0087c1a-bb21-496d-b64b-181783215d16__67869.1732221582.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21836,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4960/images/15467/1536908a-c846-405d-8751-059fe0501cec__68007.1732221582.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

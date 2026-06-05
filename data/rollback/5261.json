@@ -1,0 +1,3907 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:07:38.339894Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 5261,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 5261,
+    "name": "diffuser oil refill + reeds YEAR-ROUND",
+    "type": "physical",
+    "sku": "REF",
+    "description": "<p><span style=\"font-family: georgia, palatino; color: #888888; font-size: medium;\">Already have a jar? Then a diffuser REFILL is for you! Plus you save $4&nbsp;<br /><br />- 4 ounce REFILL of premium fragrance oil and 12 replacement reed sticks.</span></p>\n<p><span style=\"font-family: georgia, palatino; color: #888888; font-size: medium;\">- Phthalate-free fragrance and essential oil blends.&nbsp;</span></p>\n<p><span style=\"color: #888888; font-family: georgia, palatino; font-size: medium;\">- Simply pour the&nbsp;refill oil into your current diffuser jar. We recommend replacing the sticks, but some people like to leave&nbsp;the old ones as well. &nbsp;</span></p>\n<p><span style=\"font-size: medium; color: #888888;\"><span style=\"font-family: georgia, palatino;\">-&nbsp;Low maintenance home fragrance that lasts up to 4 months! Just insert the natural reed sticks into the jar and flip the sticks occasionally to intensify the scent.</span></span></p>\n<p><span style=\"color: #888888; font-size: medium;\">&nbsp;</span></p>",
+    "weight": 1.2,
+    "width": 3,
+    "depth": 3,
+    "height": 12,
+    "price": 22,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 22,
+    "categories": [
+      234,
+      184,
+      162,
+      145,
+      142,
+      225,
+      168,
+      154,
+      180,
+      156,
+      165,
+      170,
+      235,
+      176,
+      185,
+      167,
+      181,
+      153,
+      171,
+      224,
+      140,
+      151,
+      148,
+      155,
+      177,
+      159,
+      141,
+      182,
+      164,
+      150,
+      175,
+      1,
+      172,
+      161,
+      163,
+      179,
+      157,
+      166,
+      178,
+      223,
+      160,
+      139,
+      152,
+      158,
+      16,
+      254,
+      143
+    ],
+    "brand_id": 1,
+    "option_set_id": 1415,
+    "option_set_display": "right",
+    "inventory_level": 7713,
+    "inventory_warning_level": 660,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 1425,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-03-12T20:35:07+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "",
+    "gift_wrapping_options_type": "none",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "reed diffuser oil REFILL with new reeds | Eco Candle Co.",
+    "meta_keywords": [],
+    "meta_description": "Reuse your jar and save money! Our diffuser refills come with 4oz of premium oil and 12 new reed sticks to keep the enjoyment going!",
+    "date_created": "2024-03-11T02:24:55+00:00",
+    "date_modified": "2026-05-20T21:52:11+00:00",
+    "view_count": 0,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/home-fragrance/diffuser-refill-sticks/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 7919,
+        "product_id": 5261,
+        "sku": "REFCUP",
+        "sku_id": 3121,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4642_source_1772214490.png",
+        "cost_price": 4.1,
+        "upc": "REFCUP",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 197,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6084,
+            "label": "cupcake",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7920,
+        "product_id": 5261,
+        "sku": "REFCOB",
+        "sku_id": 3122,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4643_source_1772214494.png",
+        "cost_price": 4.1,
+        "upc": "REFCOB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 197,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6085,
+            "label": "coffee bean",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7921,
+        "product_id": 5261,
+        "sku": "REFCSD",
+        "sku_id": 3123,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4644_source_1772214501.png",
+        "cost_price": 4.1,
+        "upc": "REFCSD",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 177,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6086,
+            "label": "clean sheet day",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7922,
+        "product_id": 5261,
+        "sku": "REFCIT",
+        "sku_id": 3124,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4645_source_1772214505.png",
+        "cost_price": 4.1,
+        "upc": "REFCIT",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 174,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6087,
+            "label": "citrus squeeze",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7923,
+        "product_id": 5261,
+        "sku": "REFCHM",
+        "sku_id": 3125,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4646_source_1772214508.png",
+        "cost_price": 4.1,
+        "upc": "REFCHM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 192,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6088,
+            "label": "chamomile sage",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7924,
+        "product_id": 5261,
+        "sku": "REFCAR",
+        "sku_id": 3126,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4647_source_1772213630.png",
+        "cost_price": 4.1,
+        "upc": "REFCAR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 196,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6089,
+            "label": "caramel rum cake",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7925,
+        "product_id": 5261,
+        "sku": "REFBRB",
+        "sku_id": 3127,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4648_source_1772213633.png",
+        "cost_price": 4.1,
+        "upc": "REFBRB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 193,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6090,
+            "label": "bourbon vanilla",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7926,
+        "product_id": 5261,
+        "sku": "REFBOT",
+        "sku_id": 3128,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4649_source_1772213637.png",
+        "cost_price": 4.1,
+        "upc": "REFBOT",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 192,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6091,
+            "label": "botanica",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7927,
+        "product_id": 5261,
+        "sku": "REFBON",
+        "sku_id": 3129,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4650_source_1772213640.png",
+        "cost_price": 4.1,
+        "upc": "REFBON",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 200,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6092,
+            "label": "bonfire",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7928,
+        "product_id": 5261,
+        "sku": "REFBEA",
+        "sku_id": 3130,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4651_source_1772213648.png",
+        "cost_price": 4.1,
+        "upc": "REFBEA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 123,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6093,
+            "label": "beach house",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7929,
+        "product_id": 5261,
+        "sku": "REFBAB",
+        "sku_id": 3131,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4652_source_1772213652.png",
+        "cost_price": 4.1,
+        "upc": "REFBAB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 188,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6094,
+            "label": "baby's butt",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7937,
+        "product_id": 5261,
+        "sku": "REFWTG",
+        "sku_id": 3139,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4660_source_1772215398.png",
+        "cost_price": 4.1,
+        "upc": "REFWTG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 179,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6059,
+            "label": "white tea & ginger",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7938,
+        "product_id": 5261,
+        "sku": "REFVAN",
+        "sku_id": 3140,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4661_source_1772215402.png",
+        "cost_price": 4.1,
+        "upc": "REFVAN",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 168,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6060,
+            "label": "warm vanilla",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7939,
+        "product_id": 5261,
+        "sku": "REFVER",
+        "sku_id": 3141,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4662_source_1772215405.png",
+        "cost_price": 4.1,
+        "upc": "REFVER",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 163,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6061,
+            "label": "verbena basil",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7940,
+        "product_id": 5261,
+        "sku": "REFVGR",
+        "sku_id": 3142,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4663_source_1772215412.png",
+        "cost_price": 4.1,
+        "upc": "REFVGR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 170,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6062,
+            "label": "vanilla grapefruit",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7941,
+        "product_id": 5261,
+        "sku": "REFROS",
+        "sku_id": 3143,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4664_source_1772215416.png",
+        "cost_price": 4.1,
+        "upc": "REFROS",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 198,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6063,
+            "label": "sterling rose",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7942,
+        "product_id": 5261,
+        "sku": "REFSPA",
+        "sku_id": 3144,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4665_source_1772215419.png",
+        "cost_price": 4.1,
+        "upc": "REFSPA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 154,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6064,
+            "label": "spa day",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7943,
+        "product_id": 5261,
+        "sku": "REFSEA",
+        "sku_id": 3145,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4666_source_1772215423.png",
+        "cost_price": 4.1,
+        "upc": "REFSEA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 149,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6065,
+            "label": "seagrass",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7944,
+        "product_id": 5261,
+        "sku": "REFSAN",
+        "sku_id": 3146,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4667_source_1772215426.png",
+        "cost_price": 4.1,
+        "upc": "REFSAN",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 175,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6066,
+            "label": "sanctuary",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7945,
+        "product_id": 5261,
+        "sku": "REFPRE",
+        "sku_id": 3147,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4668_source_1772215430.png",
+        "cost_price": 4.1,
+        "upc": "REFPRE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 197,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6067,
+            "label": "precious woods",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7946,
+        "product_id": 5261,
+        "sku": "REFOCE",
+        "sku_id": 3148,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4669_source_1772215433.png",
+        "cost_price": 4.1,
+        "upc": "REFOCE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 189,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6068,
+            "label": "ocean waves",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7948,
+        "product_id": 5261,
+        "sku": "REFNAG",
+        "sku_id": 3150,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4671_source_1772215436.png",
+        "cost_price": 4.1,
+        "upc": "REFNAG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 171,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6070,
+            "label": "nag champa",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7949,
+        "product_id": 5261,
+        "sku": "REFMOE",
+        "sku_id": 3151,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4672_source_1772215440.png",
+        "cost_price": 4.1,
+        "upc": "REFMOE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 188,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6071,
+            "label": "mother earth",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7950,
+        "product_id": 5261,
+        "sku": "REFLVY",
+        "sku_id": 3152,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4673_source_1772215444.png",
+        "cost_price": 4.1,
+        "upc": "REFLVY",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 163,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6072,
+            "label": "lovely",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7951,
+        "product_id": 5261,
+        "sku": "REFLGS",
+        "sku_id": 3153,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4674_source_1772215448.png",
+        "cost_price": 4.1,
+        "upc": "REFLGS",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 185,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6073,
+            "label": "lemongrass sage",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7953,
+        "product_id": 5261,
+        "sku": "REFLAV",
+        "sku_id": 3155,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4676_source_1772215458.png",
+        "cost_price": 4.1,
+        "upc": "REFLAV",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 168,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6075,
+            "label": "lavender dreams",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7954,
+        "product_id": 5261,
+        "sku": "REFHYM",
+        "sku_id": 3156,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4677_source_1772215461.png",
+        "cost_price": 4.1,
+        "upc": "REFHYM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 882,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6076,
+            "label": "honey mango",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7955,
+        "product_id": 5261,
+        "sku": "REFHOM",
+        "sku_id": 3157,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4678_source_1772215451.png",
+        "cost_price": 4.1,
+        "upc": "REFHOM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 195,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6077,
+            "label": "homesick",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7957,
+        "product_id": 5261,
+        "sku": "REFGOD",
+        "sku_id": 3159,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4680_source_1772214473.png",
+        "cost_price": 4.1,
+        "upc": "REFGOD",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 119,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6079,
+            "label": "goddess",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7958,
+        "product_id": 5261,
+        "sku": "REFGAR",
+        "sku_id": 3160,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4681_source_1772214476.png",
+        "cost_price": 4.1,
+        "upc": "REFGAR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 194,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6080,
+            "label": "gardenia & guava",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7959,
+        "product_id": 5261,
+        "sku": "REFFIG",
+        "sku_id": 3161,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4682_source_1772214479.png",
+        "cost_price": 4.1,
+        "upc": "REFFIG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 170,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6081,
+            "label": "fig & oak",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7960,
+        "product_id": 5261,
+        "sku": "REFESA",
+        "sku_id": 3162,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4683_source_1772214484.png",
+        "cost_price": 4.1,
+        "upc": "REFESA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 165,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6082,
+            "label": "eucalyptus sage",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 7961,
+        "product_id": 5261,
+        "sku": "REFEUC",
+        "sku_id": 3163,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4684_source_1772214487.png",
+        "cost_price": 4.1,
+        "upc": "REFEUC",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 169,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6083,
+            "label": "eucalyptus mint",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8754,
+        "product_id": 5261,
+        "sku": "REFBTH",
+        "sku_id": 3816,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5267_source_1772213644.png",
+        "cost_price": 4.1,
+        "upc": "REFBTH",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 199,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8883,
+            "label": "black tea & honey",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8755,
+        "product_id": 5261,
+        "sku": "REFVAM",
+        "sku_id": 3817,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5268_source_1772215409.png",
+        "cost_price": 4.1,
+        "upc": "REFVAM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 194,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8882,
+            "label": "vintage amber",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8878,
+        "product_id": 5261,
+        "sku": "REFHBY",
+        "sku_id": 3821,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5271_source_1772215454.png",
+        "cost_price": 4.1,
+        "upc": "REFHBY",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 198,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8887,
+            "label": "harvest berry",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8894,
+        "product_id": 5261,
+        "sku": "REFCED",
+        "sku_id": 3824,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5274_source_1772214512.png",
+        "cost_price": 4.1,
+        "upc": "REFCED",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 190,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8891,
+            "label": "cedar & sandalwood",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8900,
+        "product_id": 5261,
+        "sku": "REFCLG",
+        "sku_id": 3830,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5280_source_1772214498.png",
+        "cost_price": 4.1,
+        "upc": "REFCLG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 192,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8896,
+            "label": "coconut lemongrass",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9707,
+        "product_id": 5261,
+        "sku": "REFMYR",
+        "sku_id": 3993,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5559_source_1778078700.png",
+        "cost_price": 4.1,
+        "upc": "REFMYR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 200,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10229,
+            "label": "meyer lemon",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 16176,
+        "product_id": 5261,
+        "is_thumbnail": false,
+        "sort_order": 2,
+        "description": "",
+        "image_file": "t/884/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.80.80.PNG?c=2",
+        "date_modified": "2025-02-19T18:22:32+00:00"
+      },
+      {
+        "id": 20896,
+        "product_id": 5261,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "q/153/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.80.80.PNG?c=2",
+        "date_modified": "2026-02-03T15:36:29+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 7919,
+      "option_label": "cupcake",
+      "option_values": [
+        {
+          "id": 6084,
+          "label": "cupcake",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7919,
+        "product_id": 5261,
+        "sku": "REFCUP",
+        "sku_id": 3121,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4642_source_1772214490.png",
+        "cost_price": 4.1,
+        "upc": "REFCUP",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 197,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6084,
+            "label": "cupcake",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6373,
+      "images": [
+        {
+          "new_image_id": 21872,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21874,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7920,
+      "option_label": "coffee bean",
+      "option_values": [
+        {
+          "id": 6085,
+          "label": "coffee bean",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7920,
+        "product_id": 5261,
+        "sku": "REFCOB",
+        "sku_id": 3122,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4643_source_1772214494.png",
+        "cost_price": 4.1,
+        "upc": "REFCOB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 197,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6085,
+            "label": "coffee bean",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6376,
+      "images": [
+        {
+          "new_image_id": 21876,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21877,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7921,
+      "option_label": "clean sheet day",
+      "option_values": [
+        {
+          "id": 6086,
+          "label": "clean sheet day",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7921,
+        "product_id": 5261,
+        "sku": "REFCSD",
+        "sku_id": 3123,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4644_source_1772214501.png",
+        "cost_price": 4.1,
+        "upc": "REFCSD",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 177,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6086,
+            "label": "clean sheet day",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6377,
+      "images": [
+        {
+          "new_image_id": 21878,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21879,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7922,
+      "option_label": "citrus squeeze",
+      "option_values": [
+        {
+          "id": 6087,
+          "label": "citrus squeeze",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7922,
+        "product_id": 5261,
+        "sku": "REFCIT",
+        "sku_id": 3124,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4645_source_1772214505.png",
+        "cost_price": 4.1,
+        "upc": "REFCIT",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 174,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6087,
+            "label": "citrus squeeze",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6378,
+      "images": [
+        {
+          "new_image_id": 21880,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21881,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7923,
+      "option_label": "chamomile sage",
+      "option_values": [
+        {
+          "id": 6088,
+          "label": "chamomile sage",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7923,
+        "product_id": 5261,
+        "sku": "REFCHM",
+        "sku_id": 3125,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4646_source_1772214508.png",
+        "cost_price": 4.1,
+        "upc": "REFCHM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 192,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6088,
+            "label": "chamomile sage",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6379,
+      "images": [
+        {
+          "new_image_id": 21882,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21883,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7924,
+      "option_label": "caramel rum cake",
+      "option_values": [
+        {
+          "id": 6089,
+          "label": "caramel rum cake",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7924,
+        "product_id": 5261,
+        "sku": "REFCAR",
+        "sku_id": 3126,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4647_source_1772213630.png",
+        "cost_price": 4.1,
+        "upc": "REFCAR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 196,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6089,
+            "label": "caramel rum cake",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6380,
+      "images": [
+        {
+          "new_image_id": 21884,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21885,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7925,
+      "option_label": "bourbon vanilla",
+      "option_values": [
+        {
+          "id": 6090,
+          "label": "bourbon vanilla",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7925,
+        "product_id": 5261,
+        "sku": "REFBRB",
+        "sku_id": 3127,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4648_source_1772213633.png",
+        "cost_price": 4.1,
+        "upc": "REFBRB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 193,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6090,
+            "label": "bourbon vanilla",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6382,
+      "images": [
+        {
+          "new_image_id": 21887,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21889,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7926,
+      "option_label": "botanica",
+      "option_values": [
+        {
+          "id": 6091,
+          "label": "botanica",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7926,
+        "product_id": 5261,
+        "sku": "REFBOT",
+        "sku_id": 3128,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4649_source_1772213637.png",
+        "cost_price": 4.1,
+        "upc": "REFBOT",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 192,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6091,
+            "label": "botanica",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6383,
+      "images": [
+        {
+          "new_image_id": 21891,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21892,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7927,
+      "option_label": "bonfire",
+      "option_values": [
+        {
+          "id": 6092,
+          "label": "bonfire",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7927,
+        "product_id": 5261,
+        "sku": "REFBON",
+        "sku_id": 3129,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4650_source_1772213640.png",
+        "cost_price": 4.1,
+        "upc": "REFBON",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 200,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6092,
+            "label": "bonfire",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6385,
+      "images": [
+        {
+          "new_image_id": 21896,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21897,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7928,
+      "option_label": "beach house",
+      "option_values": [
+        {
+          "id": 6093,
+          "label": "beach house",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7928,
+        "product_id": 5261,
+        "sku": "REFBEA",
+        "sku_id": 3130,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4651_source_1772213648.png",
+        "cost_price": 4.1,
+        "upc": "REFBEA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 123,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6093,
+            "label": "beach house",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6387,
+      "images": [
+        {
+          "new_image_id": 21901,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21902,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7929,
+      "option_label": "baby's butt",
+      "option_values": [
+        {
+          "id": 6094,
+          "label": "baby's butt",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7929,
+        "product_id": 5261,
+        "sku": "REFBAB",
+        "sku_id": 3131,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4652_source_1772213652.png",
+        "cost_price": 4.1,
+        "upc": "REFBAB",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 188,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6094,
+            "label": "baby's butt",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6389,
+      "images": [
+        {
+          "new_image_id": 21906,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21907,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7937,
+      "option_label": "white tea & ginger",
+      "option_values": [
+        {
+          "id": 6059,
+          "label": "white tea & ginger",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7937,
+        "product_id": 5261,
+        "sku": "REFWTG",
+        "sku_id": 3139,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4660_source_1772215398.png",
+        "cost_price": 4.1,
+        "upc": "REFWTG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 179,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6059,
+            "label": "white tea & ginger",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6391,
+      "images": [
+        {
+          "new_image_id": 21911,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21912,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7938,
+      "option_label": "warm vanilla",
+      "option_values": [
+        {
+          "id": 6060,
+          "label": "warm vanilla",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7938,
+        "product_id": 5261,
+        "sku": "REFVAN",
+        "sku_id": 3140,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4661_source_1772215402.png",
+        "cost_price": 4.1,
+        "upc": "REFVAN",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 168,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6060,
+            "label": "warm vanilla",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6393,
+      "images": [
+        {
+          "new_image_id": 21916,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21917,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7939,
+      "option_label": "verbena basil",
+      "option_values": [
+        {
+          "id": 6061,
+          "label": "verbena basil",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7939,
+        "product_id": 5261,
+        "sku": "REFVER",
+        "sku_id": 3141,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4662_source_1772215405.png",
+        "cost_price": 4.1,
+        "upc": "REFVER",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 163,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6061,
+            "label": "verbena basil",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6395,
+      "images": [
+        {
+          "new_image_id": 21919,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21921,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7940,
+      "option_label": "vanilla grapefruit",
+      "option_values": [
+        {
+          "id": 6062,
+          "label": "vanilla grapefruit",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7940,
+        "product_id": 5261,
+        "sku": "REFVGR",
+        "sku_id": 3142,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4663_source_1772215412.png",
+        "cost_price": 4.1,
+        "upc": "REFVGR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 170,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6062,
+            "label": "vanilla grapefruit",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6396,
+      "images": [
+        {
+          "new_image_id": 21923,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21925,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7941,
+      "option_label": "sterling rose",
+      "option_values": [
+        {
+          "id": 6063,
+          "label": "sterling rose",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7941,
+        "product_id": 5261,
+        "sku": "REFROS",
+        "sku_id": 3143,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4664_source_1772215416.png",
+        "cost_price": 4.1,
+        "upc": "REFROS",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 198,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6063,
+            "label": "sterling rose",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6398,
+      "images": [
+        {
+          "new_image_id": 21928,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21929,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7942,
+      "option_label": "spa day",
+      "option_values": [
+        {
+          "id": 6064,
+          "label": "spa day",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7942,
+        "product_id": 5261,
+        "sku": "REFSPA",
+        "sku_id": 3144,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4665_source_1772215419.png",
+        "cost_price": 4.1,
+        "upc": "REFSPA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 154,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6064,
+            "label": "spa day",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6400,
+      "images": [
+        {
+          "new_image_id": 21933,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21934,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7943,
+      "option_label": "seagrass",
+      "option_values": [
+        {
+          "id": 6065,
+          "label": "seagrass",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7943,
+        "product_id": 5261,
+        "sku": "REFSEA",
+        "sku_id": 3145,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4666_source_1772215423.png",
+        "cost_price": 4.1,
+        "upc": "REFSEA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 149,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6065,
+            "label": "seagrass",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6402,
+      "images": [
+        {
+          "new_image_id": 21938,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21939,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7944,
+      "option_label": "sanctuary",
+      "option_values": [
+        {
+          "id": 6066,
+          "label": "sanctuary",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7944,
+        "product_id": 5261,
+        "sku": "REFSAN",
+        "sku_id": 3146,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4667_source_1772215426.png",
+        "cost_price": 4.1,
+        "upc": "REFSAN",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 175,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6066,
+            "label": "sanctuary",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6404,
+      "images": [
+        {
+          "new_image_id": 21943,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21944,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7945,
+      "option_label": "precious woods",
+      "option_values": [
+        {
+          "id": 6067,
+          "label": "precious woods",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7945,
+        "product_id": 5261,
+        "sku": "REFPRE",
+        "sku_id": 3147,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4668_source_1772215430.png",
+        "cost_price": 4.1,
+        "upc": "REFPRE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 197,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6067,
+            "label": "precious woods",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6406,
+      "images": [
+        {
+          "new_image_id": 21947,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21949,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7946,
+      "option_label": "ocean waves",
+      "option_values": [
+        {
+          "id": 6068,
+          "label": "ocean waves",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7946,
+        "product_id": 5261,
+        "sku": "REFOCE",
+        "sku_id": 3148,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4669_source_1772215433.png",
+        "cost_price": 4.1,
+        "upc": "REFOCE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 189,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6068,
+            "label": "ocean waves",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6408,
+      "images": [
+        {
+          "new_image_id": 21951,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21953,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7948,
+      "option_label": "nag champa",
+      "option_values": [
+        {
+          "id": 6070,
+          "label": "nag champa",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7948,
+        "product_id": 5261,
+        "sku": "REFNAG",
+        "sku_id": 3150,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4671_source_1772215436.png",
+        "cost_price": 4.1,
+        "upc": "REFNAG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 171,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6070,
+            "label": "nag champa",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6409,
+      "images": [
+        {
+          "new_image_id": 21955,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21956,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7949,
+      "option_label": "mother earth",
+      "option_values": [
+        {
+          "id": 6071,
+          "label": "mother earth",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7949,
+        "product_id": 5261,
+        "sku": "REFMOE",
+        "sku_id": 3151,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4672_source_1772215440.png",
+        "cost_price": 4.1,
+        "upc": "REFMOE",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 188,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6071,
+            "label": "mother earth",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6411,
+      "images": [
+        {
+          "new_image_id": 21960,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21961,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7950,
+      "option_label": "lovely",
+      "option_values": [
+        {
+          "id": 6072,
+          "label": "lovely",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7950,
+        "product_id": 5261,
+        "sku": "REFLVY",
+        "sku_id": 3152,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4673_source_1772215444.png",
+        "cost_price": 4.1,
+        "upc": "REFLVY",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 163,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6072,
+            "label": "lovely",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6413,
+      "images": [
+        {
+          "new_image_id": 21965,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21966,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7951,
+      "option_label": "lemongrass sage",
+      "option_values": [
+        {
+          "id": 6073,
+          "label": "lemongrass sage",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7951,
+        "product_id": 5261,
+        "sku": "REFLGS",
+        "sku_id": 3153,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4674_source_1772215448.png",
+        "cost_price": 4.1,
+        "upc": "REFLGS",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 185,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6073,
+            "label": "lemongrass sage",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6415,
+      "images": [
+        {
+          "new_image_id": 21970,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21971,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7953,
+      "option_label": "lavender dreams",
+      "option_values": [
+        {
+          "id": 6075,
+          "label": "lavender dreams",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7953,
+        "product_id": 5261,
+        "sku": "REFLAV",
+        "sku_id": 3155,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4676_source_1772215458.png",
+        "cost_price": 4.1,
+        "upc": "REFLAV",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 168,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6075,
+            "label": "lavender dreams",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6417,
+      "images": [
+        {
+          "new_image_id": 21974,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21976,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7954,
+      "option_label": "honey mango",
+      "option_values": [
+        {
+          "id": 6076,
+          "label": "honey mango",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7954,
+        "product_id": 5261,
+        "sku": "REFHYM",
+        "sku_id": 3156,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4677_source_1772215461.png",
+        "cost_price": 4.1,
+        "upc": "REFHYM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 882,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6076,
+            "label": "honey mango",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6419,
+      "images": [
+        {
+          "new_image_id": 21978,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21980,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7955,
+      "option_label": "homesick",
+      "option_values": [
+        {
+          "id": 6077,
+          "label": "homesick",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7955,
+        "product_id": 5261,
+        "sku": "REFHOM",
+        "sku_id": 3157,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4678_source_1772215451.png",
+        "cost_price": 4.1,
+        "upc": "REFHOM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 195,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6077,
+            "label": "homesick",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6420,
+      "images": [
+        {
+          "new_image_id": 21982,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21984,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7957,
+      "option_label": "goddess",
+      "option_values": [
+        {
+          "id": 6079,
+          "label": "goddess",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7957,
+        "product_id": 5261,
+        "sku": "REFGOD",
+        "sku_id": 3159,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4680_source_1772214473.png",
+        "cost_price": 4.1,
+        "upc": "REFGOD",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 119,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6079,
+            "label": "goddess",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6422,
+      "images": [
+        {
+          "new_image_id": 21987,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21988,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7958,
+      "option_label": "gardenia & guava",
+      "option_values": [
+        {
+          "id": 6080,
+          "label": "gardenia & guava",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7958,
+        "product_id": 5261,
+        "sku": "REFGAR",
+        "sku_id": 3160,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4681_source_1772214476.png",
+        "cost_price": 4.1,
+        "upc": "REFGAR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 194,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6080,
+            "label": "gardenia & guava",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6424,
+      "images": [
+        {
+          "new_image_id": 21992,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21993,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7959,
+      "option_label": "fig & oak",
+      "option_values": [
+        {
+          "id": 6081,
+          "label": "fig & oak",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7959,
+        "product_id": 5261,
+        "sku": "REFFIG",
+        "sku_id": 3161,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4682_source_1772214479.png",
+        "cost_price": 4.1,
+        "upc": "REFFIG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 170,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6081,
+            "label": "fig & oak",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6426,
+      "images": [
+        {
+          "new_image_id": 21997,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21998,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7960,
+      "option_label": "eucalyptus sage",
+      "option_values": [
+        {
+          "id": 6082,
+          "label": "eucalyptus sage",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7960,
+        "product_id": 5261,
+        "sku": "REFESA",
+        "sku_id": 3162,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4683_source_1772214484.png",
+        "cost_price": 4.1,
+        "upc": "REFESA",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 165,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6082,
+            "label": "eucalyptus sage",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6428,
+      "images": [
+        {
+          "new_image_id": 22002,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22003,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 7961,
+      "option_label": "eucalyptus mint",
+      "option_values": [
+        {
+          "id": 6083,
+          "label": "eucalyptus mint",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 7961,
+        "product_id": 5261,
+        "sku": "REFEUC",
+        "sku_id": 3163,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4684_source_1772214487.png",
+        "cost_price": 4.1,
+        "upc": "REFEUC",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 169,
+        "inventory_warning_level": 20,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6083,
+            "label": "eucalyptus mint",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6430,
+      "images": [
+        {
+          "new_image_id": 22007,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22008,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8754,
+      "option_label": "black tea & honey",
+      "option_values": [
+        {
+          "id": 8883,
+          "label": "black tea & honey",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8754,
+        "product_id": 5261,
+        "sku": "REFBTH",
+        "sku_id": 3816,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5267_source_1772213644.png",
+        "cost_price": 4.1,
+        "upc": "REFBTH",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 199,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8883,
+            "label": "black tea & honey",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6432,
+      "images": [
+        {
+          "new_image_id": 22012,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22013,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8755,
+      "option_label": "vintage amber",
+      "option_values": [
+        {
+          "id": 8882,
+          "label": "vintage amber",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8755,
+        "product_id": 5261,
+        "sku": "REFVAM",
+        "sku_id": 3817,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5268_source_1772215409.png",
+        "cost_price": 4.1,
+        "upc": "REFVAM",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 194,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8882,
+            "label": "vintage amber",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6434,
+      "images": [
+        {
+          "new_image_id": 22017,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22018,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8878,
+      "option_label": "harvest berry",
+      "option_values": [
+        {
+          "id": 8887,
+          "label": "harvest berry",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8878,
+        "product_id": 5261,
+        "sku": "REFHBY",
+        "sku_id": 3821,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5271_source_1772215454.png",
+        "cost_price": 4.1,
+        "upc": "REFHBY",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 198,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8887,
+            "label": "harvest berry",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6436,
+      "images": [
+        {
+          "new_image_id": 22021,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22023,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8894,
+      "option_label": "cedar & sandalwood",
+      "option_values": [
+        {
+          "id": 8891,
+          "label": "cedar & sandalwood",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8894,
+        "product_id": 5261,
+        "sku": "REFCED",
+        "sku_id": 3824,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5274_source_1772214512.png",
+        "cost_price": 4.1,
+        "upc": "REFCED",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 190,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8891,
+            "label": "cedar & sandalwood",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6438,
+      "images": [
+        {
+          "new_image_id": 22025,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22026,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8900,
+      "option_label": "coconut lemongrass",
+      "option_values": [
+        {
+          "id": 8896,
+          "label": "coconut lemongrass",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8900,
+        "product_id": 5261,
+        "sku": "REFCLG",
+        "sku_id": 3830,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5280_source_1772214498.png",
+        "cost_price": 4.1,
+        "upc": "REFCLG",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 192,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8896,
+            "label": "coconut lemongrass",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6439,
+      "images": [
+        {
+          "new_image_id": 22029,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22030,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9707,
+      "option_label": "meyer lemon",
+      "option_values": [
+        {
+          "id": 10229,
+          "label": "meyer lemon",
+          "option_id": 6307,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9707,
+        "product_id": 5261,
+        "sku": "REFMYR",
+        "sku_id": 3993,
+        "price": 22,
+        "calculated_price": 22,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.2,
+        "calculated_weight": 1.2,
+        "width": 3,
+        "height": 12,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5559_source_1778078700.png",
+        "cost_price": 4.1,
+        "upc": "REFMYR",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 200,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10229,
+            "label": "meyer lemon",
+            "option_id": 6307,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6441,
+      "images": [
+        {
+          "new_image_id": 22034,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/20896/bb1dc314-8690-45c9-85af-aa806a96eafa__37278.1770132989.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22035,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5261/images/16176/244a9b7c-2517-4a9c-852c-2aca34f06fbb__21270.1739989352.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

@@ -1,0 +1,1507 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T18:53:51.645353Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 2776,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 2776,
+    "name": "hand & body WASH",
+    "type": "physical",
+    "sku": "HBW",
+    "description": "<p><span style=\"font-size: medium; font-family: georgia, palatino; color: #888888;\">A wonderful natural soap for hands and body. Also works great as a bubble bath.&nbsp;Lather up and enjoy!</span></p>\r\n<p><span style=\"font-size: medium; font-family: georgia, palatino; color: #888888;\">Ingredients: Aqua (purified water), Ammonium Lauryl Sulfate, Cocamidopropyl Betaine (from coconut oil), Cetyl Betaine, Aloe Barbadensis (aloe vera), Phenoxyethanol, Citric Acid, Passiflora Edulis Seed (passion fruit) Oil, Oryza Sativa (rice) Oil, Ethylhexylglycerin, Euterpe Oleracea (a&ccedil;a&iacute; palm) Fruit Oil, Fragrance &amp; Tocopherol (vitamin E).</span></p>",
+    "weight": 0.7,
+    "width": 2.5,
+    "depth": 2.5,
+    "height": 5.5,
+    "price": 12,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 12,
+    "categories": [
+      169,
+      189,
+      170,
+      140,
+      179,
+      60,
+      223,
+      191,
+      168,
+      167,
+      188,
+      187,
+      139,
+      161,
+      164,
+      185,
+      224,
+      142,
+      171,
+      59,
+      160,
+      190,
+      145,
+      141
+    ],
+    "brand_id": 7,
+    "option_set_id": 1413,
+    "option_set_display": "right",
+    "inventory_level": 246,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 369,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-09-16T01:12:37+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "Most orders ship in 1-3 business days.",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "Hand & Body Wash ALL | lather up!| Eco Candle Co.",
+    "meta_keywords": [],
+    "meta_description": "hand & body wash ALL. A wonderful natural soap for hands and body. Also works great as a bubble bath. Lather up & enjoy! Available in your favorite Eco scents.",
+    "date_created": "2018-11-04T22:17:03+00:00",
+    "date_modified": "2026-05-06T00:27:33+00:00",
+    "view_count": 5217,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/bath-body/hand-body-wash-all/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8280,
+        "product_id": 2776,
+        "sku": "HBWBAB",
+        "sku_id": 3481,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5137_source_1772222602.png",
+        "cost_price": 3,
+        "upc": "700587115714",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 26,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6466,
+            "label": "baby's butt",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8281,
+        "product_id": 2776,
+        "sku": "HBWLAVD",
+        "sku_id": 3482,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5129_source_1772222588.png",
+        "cost_price": 3,
+        "upc": "700587115707",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6465,
+            "label": "lavender dreams",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8282,
+        "product_id": 2776,
+        "sku": "HBWLVY",
+        "sku_id": 3483,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5136_source_1772222581.png",
+        "cost_price": 3,
+        "upc": "700587115738",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6464,
+            "label": "lovely",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8283,
+        "product_id": 2776,
+        "sku": "HBWNAG",
+        "sku_id": 3484,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5135_source_1772222577.png",
+        "cost_price": 3,
+        "upc": "700587115776",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6463,
+            "label": "nag champa",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8284,
+        "product_id": 2776,
+        "sku": "HBWSPA",
+        "sku_id": 3485,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5134_source_1772222574.png",
+        "cost_price": 3,
+        "upc": "700587115745",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6462,
+            "label": "spa day",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8285,
+        "product_id": 2776,
+        "sku": "HBWWTG",
+        "sku_id": 3486,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5133_source_1772222570.png",
+        "cost_price": 3,
+        "upc": "700587115721",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6461,
+            "label": "white tea & ginger",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8287,
+        "product_id": 2776,
+        "sku": "HBWEOCAL",
+        "sku_id": 3488,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5132_source_1772222567.png",
+        "cost_price": 3,
+        "upc": "700587115660",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6459,
+            "label": "calm (pure essential oil blend)",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8289,
+        "product_id": 2776,
+        "sku": "HBWEOPAT",
+        "sku_id": 3490,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5131_source_1772222563.png",
+        "cost_price": 3,
+        "upc": "700587115813",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6457,
+            "label": "patchouli (pure essential oil blend)",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8292,
+        "product_id": 2776,
+        "sku": "HBWHYM",
+        "sku_id": 3493,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5125_source_1772222591.png",
+        "cost_price": 3,
+        "upc": "700587115653",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6454,
+            "label": "honey mango",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8296,
+        "product_id": 2776,
+        "sku": "HBWEOSOO",
+        "sku_id": 3497,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5124_source_1772222559.png",
+        "cost_price": 3,
+        "upc": "700587115806",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 37,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6450,
+            "label": "soothe (pure essential oil blend)",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8297,
+        "product_id": 2776,
+        "sku": "HBWGOD",
+        "sku_id": 3498,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5002_source_1772222595.png",
+        "cost_price": 3,
+        "upc": "700587115646",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 6,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6455,
+            "label": "goddess",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8504,
+        "product_id": 2776,
+        "sku": "HBWEUC",
+        "sku_id": 3705,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5122_source_1772222598.png",
+        "cost_price": 3,
+        "upc": "700587115820",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6452,
+            "label": "eucalyptus mint",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8505,
+        "product_id": 2776,
+        "sku": "HBWLGS",
+        "sku_id": 3706,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5123_source_1772222584.png",
+        "cost_price": 3,
+        "upc": "700587115837",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6451,
+            "label": "lemongrass sage",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8898,
+        "product_id": 2776,
+        "sku": "HBWCHM",
+        "sku_id": 3828,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5278_source_1772222536.png",
+        "cost_price": 3,
+        "upc": "700587115691",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6453,
+            "label": "chamomile sage",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8899,
+        "product_id": 2776,
+        "sku": "HBWESA",
+        "sku_id": 3829,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5279_source_1772222556.png",
+        "cost_price": 3,
+        "upc": "700587115677",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8895,
+            "label": "eucalyptus sage",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 9888,
+        "product_id": 2776,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "i/532/HANDBODYWASH__79603.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.80.80.jpg?c=2",
+        "date_modified": "2024-04-03T15:20:38+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8280,
+      "option_label": "baby's butt",
+      "option_values": [
+        {
+          "id": 6466,
+          "label": "baby's butt",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8280,
+        "product_id": 2776,
+        "sku": "HBWBAB",
+        "sku_id": 3481,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5137_source_1772222602.png",
+        "cost_price": 3,
+        "upc": "700587115714",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 26,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6466,
+            "label": "baby's butt",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6237,
+      "images": [
+        {
+          "new_image_id": 21607,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8281,
+      "option_label": "lavender dreams",
+      "option_values": [
+        {
+          "id": 6465,
+          "label": "lavender dreams",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8281,
+        "product_id": 2776,
+        "sku": "HBWLAVD",
+        "sku_id": 3482,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5129_source_1772222588.png",
+        "cost_price": 3,
+        "upc": "700587115707",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6465,
+            "label": "lavender dreams",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6238,
+      "images": [
+        {
+          "new_image_id": 21608,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8282,
+      "option_label": "lovely",
+      "option_values": [
+        {
+          "id": 6464,
+          "label": "lovely",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8282,
+        "product_id": 2776,
+        "sku": "HBWLVY",
+        "sku_id": 3483,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5136_source_1772222581.png",
+        "cost_price": 3,
+        "upc": "700587115738",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6464,
+            "label": "lovely",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6239,
+      "images": [
+        {
+          "new_image_id": 21609,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8283,
+      "option_label": "nag champa",
+      "option_values": [
+        {
+          "id": 6463,
+          "label": "nag champa",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8283,
+        "product_id": 2776,
+        "sku": "HBWNAG",
+        "sku_id": 3484,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5135_source_1772222577.png",
+        "cost_price": 3,
+        "upc": "700587115776",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6463,
+            "label": "nag champa",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6240,
+      "images": [
+        {
+          "new_image_id": 21610,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8284,
+      "option_label": "spa day",
+      "option_values": [
+        {
+          "id": 6462,
+          "label": "spa day",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8284,
+        "product_id": 2776,
+        "sku": "HBWSPA",
+        "sku_id": 3485,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5134_source_1772222574.png",
+        "cost_price": 3,
+        "upc": "700587115745",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6462,
+            "label": "spa day",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6241,
+      "images": [
+        {
+          "new_image_id": 21611,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8285,
+      "option_label": "white tea & ginger",
+      "option_values": [
+        {
+          "id": 6461,
+          "label": "white tea & ginger",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8285,
+        "product_id": 2776,
+        "sku": "HBWWTG",
+        "sku_id": 3486,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5133_source_1772222570.png",
+        "cost_price": 3,
+        "upc": "700587115721",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6461,
+            "label": "white tea & ginger",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6242,
+      "images": [
+        {
+          "new_image_id": 21612,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8287,
+      "option_label": "calm (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 6459,
+          "label": "calm (pure essential oil blend)",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8287,
+        "product_id": 2776,
+        "sku": "HBWEOCAL",
+        "sku_id": 3488,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5132_source_1772222567.png",
+        "cost_price": 3,
+        "upc": "700587115660",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6459,
+            "label": "calm (pure essential oil blend)",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6243,
+      "images": [
+        {
+          "new_image_id": 21613,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8289,
+      "option_label": "patchouli (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 6457,
+          "label": "patchouli (pure essential oil blend)",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8289,
+        "product_id": 2776,
+        "sku": "HBWEOPAT",
+        "sku_id": 3490,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5131_source_1772222563.png",
+        "cost_price": 3,
+        "upc": "700587115813",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6457,
+            "label": "patchouli (pure essential oil blend)",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6244,
+      "images": [
+        {
+          "new_image_id": 21614,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8292,
+      "option_label": "honey mango",
+      "option_values": [
+        {
+          "id": 6454,
+          "label": "honey mango",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8292,
+        "product_id": 2776,
+        "sku": "HBWHYM",
+        "sku_id": 3493,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5125_source_1772222591.png",
+        "cost_price": 3,
+        "upc": "700587115653",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6454,
+            "label": "honey mango",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6245,
+      "images": [
+        {
+          "new_image_id": 21615,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8296,
+      "option_label": "soothe (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 6450,
+          "label": "soothe (pure essential oil blend)",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8296,
+        "product_id": 2776,
+        "sku": "HBWEOSOO",
+        "sku_id": 3497,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5124_source_1772222559.png",
+        "cost_price": 3,
+        "upc": "700587115806",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 37,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6450,
+            "label": "soothe (pure essential oil blend)",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6246,
+      "images": [
+        {
+          "new_image_id": 21616,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8297,
+      "option_label": "goddess",
+      "option_values": [
+        {
+          "id": 6455,
+          "label": "goddess",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8297,
+        "product_id": 2776,
+        "sku": "HBWGOD",
+        "sku_id": 3498,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5002_source_1772222595.png",
+        "cost_price": 3,
+        "upc": "700587115646",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 6,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6455,
+            "label": "goddess",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6247,
+      "images": [
+        {
+          "new_image_id": 21617,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8504,
+      "option_label": "eucalyptus mint",
+      "option_values": [
+        {
+          "id": 6452,
+          "label": "eucalyptus mint",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8504,
+        "product_id": 2776,
+        "sku": "HBWEUC",
+        "sku_id": 3705,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5122_source_1772222598.png",
+        "cost_price": 3,
+        "upc": "700587115820",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6452,
+            "label": "eucalyptus mint",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6248,
+      "images": [
+        {
+          "new_image_id": 21618,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8505,
+      "option_label": "lemongrass sage",
+      "option_values": [
+        {
+          "id": 6451,
+          "label": "lemongrass sage",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8505,
+        "product_id": 2776,
+        "sku": "HBWLGS",
+        "sku_id": 3706,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5123_source_1772222584.png",
+        "cost_price": 3,
+        "upc": "700587115837",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6451,
+            "label": "lemongrass sage",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6249,
+      "images": [
+        {
+          "new_image_id": 21619,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8898,
+      "option_label": "chamomile sage",
+      "option_values": [
+        {
+          "id": 6453,
+          "label": "chamomile sage",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8898,
+        "product_id": 2776,
+        "sku": "HBWCHM",
+        "sku_id": 3828,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5278_source_1772222536.png",
+        "cost_price": 3,
+        "upc": "700587115691",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6453,
+            "label": "chamomile sage",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6250,
+      "images": [
+        {
+          "new_image_id": 21620,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8899,
+      "option_label": "eucalyptus sage",
+      "option_values": [
+        {
+          "id": 8895,
+          "label": "eucalyptus sage",
+          "option_id": 6446,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8899,
+        "product_id": 2776,
+        "sku": "HBWESA",
+        "sku_id": 3829,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5279_source_1772222556.png",
+        "cost_price": 3,
+        "upc": "700587115677",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8895,
+            "label": "eucalyptus sage",
+            "option_id": 6446,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6251,
+      "images": [
+        {
+          "new_image_id": 21621,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2776/images/9888/HANDBODYWASH__79603.1712157638.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

@@ -59,9 +59,16 @@ def create_picklist_modifier(
     ]
 
     payload = {
-        "type": "product_list",
+        "type": "product_list_with_images",
         "display_name": display_name,
-        "required": False,
+        "required": True,
+        "config":{
+            "product_list_adjusts_pricing": False,   # Adjust price → OFF
+            "product_list_adjusts_inventory": True,  # Adjust inventory → ON
+            "product_list_show_image": True,
+            "product_list_shipping_calc": "none",
+        },
+        "productListShowWithImages": True,
         "option_values": option_values,
     }
 

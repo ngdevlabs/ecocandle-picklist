@@ -1,0 +1,1509 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:02:27.031051Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 4634,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 4634,
+    "name": "massage & body OIL",
+    "type": "physical",
+    "sku": "BOD",
+    "description": "<p>A luxurious massge and body oil to nourish your skin.<br/><br/>Ingredients: prunus dulcis (sweet almond oil)*, carthamus tinctouius (safflower oil)*, cocos nucifera (coconut oil)*, simmondsia chinensis (jojoba oil)*, vitas vinifera (grapeseed oil), glycine has (soybean oil)*, helianthus annuus (sunflower oil)*, fragrance and/or essential oils, tocopherol (vitamin e).\u00a0</p>\n<p>*Denotes certified organic ingredient</p>",
+    "weight": 0.7,
+    "width": 2.5,
+    "depth": 2.5,
+    "height": 5.5,
+    "price": 15,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 15,
+    "categories": [
+      173,
+      146,
+      169,
+      189,
+      170,
+      140,
+      179,
+      223,
+      191,
+      168,
+      167,
+      188,
+      187,
+      139,
+      161,
+      164,
+      185,
+      224,
+      142,
+      171,
+      59,
+      160,
+      67,
+      190,
+      145,
+      141
+    ],
+    "brand_id": 7,
+    "option_set_id": 1418,
+    "option_set_display": "right",
+    "inventory_level": 325,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 36,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-03-12T22:44:22+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "massage & body OIL | Eco Candle Co. | Appleton, WI",
+    "meta_keywords": [],
+    "meta_description": "massage & body OIL | Sweet almond oil, safflower oil, coconut oil, jojoba oil, grapeseed oil, soybean oil, sunflower oil, fragrance or essential oils, vitamin e",
+    "date_created": "2023-01-19T17:10:14+00:00",
+    "date_modified": "2026-05-06T01:38:10+00:00",
+    "view_count": 706,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/bath-body/massage-body-oil/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8329,
+        "product_id": 4634,
+        "sku": "BODSOO",
+        "sku_id": 3530,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5015_source_1772222259.png",
+        "cost_price": 4,
+        "upc": "700587116957",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 13,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6419,
+            "label": "soothe (pure essential oil blend)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8331,
+        "product_id": 4634,
+        "sku": "BODCAL",
+        "sku_id": 3532,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5017_source_1772222265.png",
+        "cost_price": 4,
+        "upc": "700587117046",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6421,
+            "label": "calm (pure essential oil blend)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8333,
+        "product_id": 4634,
+        "sku": "BODPAT",
+        "sku_id": 3534,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5019_source_1772222262.png",
+        "cost_price": 4,
+        "upc": "700587117022",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6423,
+            "label": "patchouli (pure essential oil blend)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8334,
+        "product_id": 4634,
+        "sku": "BODSPA",
+        "sku_id": 3535,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5020_source_1772222271.png",
+        "cost_price": 4,
+        "upc": "700587116964",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6425,
+            "label": "spa day",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8335,
+        "product_id": 4634,
+        "sku": "BODNAG",
+        "sku_id": 3536,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5021_source_1772222274.png",
+        "cost_price": 4,
+        "upc": "700587117060",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6426,
+            "label": "nag champa",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8336,
+        "product_id": 4634,
+        "sku": "BODLVY",
+        "sku_id": 3537,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5022_source_1772222278.png",
+        "cost_price": 4,
+        "upc": "700587117039",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 34,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6427,
+            "label": "lovely",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8337,
+        "product_id": 4634,
+        "sku": "BODLGS",
+        "sku_id": 3538,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5023_source_1772222285.png",
+        "cost_price": 4,
+        "upc": "700587117435",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 33,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6428,
+            "label": "lemongrass sage",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8338,
+        "product_id": 4634,
+        "sku": "BODLAV",
+        "sku_id": 3539,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5024_source_1772222294.png",
+        "cost_price": 4,
+        "upc": "700587117008",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6429,
+            "label": "lavender dreams",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8339,
+        "product_id": 4634,
+        "sku": "BODGOD",
+        "sku_id": 3540,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5025_source_1772222297.png",
+        "cost_price": 4,
+        "upc": "700587117428",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6431,
+            "label": "goddess",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8340,
+        "product_id": 4634,
+        "sku": "BODEUC",
+        "sku_id": 3541,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5026_source_1772222300.png",
+        "cost_price": 4,
+        "upc": "700587117442",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 16,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6432,
+            "label": "eucalyptus mint",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8341,
+        "product_id": 4634,
+        "sku": "BODBAB",
+        "sku_id": 3542,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5027_source_1772222304.png",
+        "cost_price": 4,
+        "upc": "700587116988",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 33,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6433,
+            "label": "baby's butt",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8342,
+        "product_id": 4634,
+        "sku": "BODNKD",
+        "sku_id": 3543,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5028_source_1772222310.png",
+        "cost_price": 4,
+        "upc": "700587117015",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 26,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6434,
+            "label": "naked (unscented)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8343,
+        "product_id": 4634,
+        "sku": "BODHYM",
+        "sku_id": 3544,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5029_source_1772222307.png",
+        "cost_price": 4,
+        "upc": "700587116810",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6430,
+            "label": "honey mango",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8344,
+        "product_id": 4634,
+        "sku": "BODWTG",
+        "sku_id": 3545,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5030_source_1772222268.png",
+        "cost_price": 4,
+        "upc": "700587117459",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 16,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6424,
+            "label": "white tea & ginger",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8897,
+        "product_id": 4634,
+        "sku": "BODCHM",
+        "sku_id": 3827,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5277_source_1772222256.png",
+        "cost_price": 4,
+        "upc": "700587117077",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 59,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8894,
+            "label": "chamomile sage",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 14304,
+        "product_id": 4634,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "v/012/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.80.80.jpg?c=2",
+        "date_modified": "2025-02-10T20:19:16+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8329,
+      "option_label": "soothe (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 6419,
+          "label": "soothe (pure essential oil blend)",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8329,
+        "product_id": 4634,
+        "sku": "BODSOO",
+        "sku_id": 3530,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5015_source_1772222259.png",
+        "cost_price": 4,
+        "upc": "700587116957",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 13,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6419,
+            "label": "soothe (pure essential oil blend)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6267,
+      "images": [
+        {
+          "new_image_id": 21676,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8331,
+      "option_label": "calm (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 6421,
+          "label": "calm (pure essential oil blend)",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8331,
+        "product_id": 4634,
+        "sku": "BODCAL",
+        "sku_id": 3532,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5017_source_1772222265.png",
+        "cost_price": 4,
+        "upc": "700587117046",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6421,
+            "label": "calm (pure essential oil blend)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6269,
+      "images": [
+        {
+          "new_image_id": 21679,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8333,
+      "option_label": "patchouli (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 6423,
+          "label": "patchouli (pure essential oil blend)",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8333,
+        "product_id": 4634,
+        "sku": "BODPAT",
+        "sku_id": 3534,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5019_source_1772222262.png",
+        "cost_price": 4,
+        "upc": "700587117022",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6423,
+            "label": "patchouli (pure essential oil blend)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6271,
+      "images": [
+        {
+          "new_image_id": 21682,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8334,
+      "option_label": "spa day",
+      "option_values": [
+        {
+          "id": 6425,
+          "label": "spa day",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8334,
+        "product_id": 4634,
+        "sku": "BODSPA",
+        "sku_id": 3535,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5020_source_1772222271.png",
+        "cost_price": 4,
+        "upc": "700587116964",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6425,
+            "label": "spa day",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6273,
+      "images": [
+        {
+          "new_image_id": 21685,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8335,
+      "option_label": "nag champa",
+      "option_values": [
+        {
+          "id": 6426,
+          "label": "nag champa",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8335,
+        "product_id": 4634,
+        "sku": "BODNAG",
+        "sku_id": 3536,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5021_source_1772222274.png",
+        "cost_price": 4,
+        "upc": "700587117060",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6426,
+            "label": "nag champa",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6275,
+      "images": [
+        {
+          "new_image_id": 21687,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8336,
+      "option_label": "lovely",
+      "option_values": [
+        {
+          "id": 6427,
+          "label": "lovely",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8336,
+        "product_id": 4634,
+        "sku": "BODLVY",
+        "sku_id": 3537,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5022_source_1772222278.png",
+        "cost_price": 4,
+        "upc": "700587117039",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 34,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6427,
+            "label": "lovely",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6276,
+      "images": [
+        {
+          "new_image_id": 21689,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8337,
+      "option_label": "lemongrass sage",
+      "option_values": [
+        {
+          "id": 6428,
+          "label": "lemongrass sage",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8337,
+        "product_id": 4634,
+        "sku": "BODLGS",
+        "sku_id": 3538,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5023_source_1772222285.png",
+        "cost_price": 4,
+        "upc": "700587117435",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 33,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6428,
+            "label": "lemongrass sage",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6278,
+      "images": [
+        {
+          "new_image_id": 21692,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8338,
+      "option_label": "lavender dreams",
+      "option_values": [
+        {
+          "id": 6429,
+          "label": "lavender dreams",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8338,
+        "product_id": 4634,
+        "sku": "BODLAV",
+        "sku_id": 3539,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5024_source_1772222294.png",
+        "cost_price": 4,
+        "upc": "700587117008",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6429,
+            "label": "lavender dreams",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6280,
+      "images": [
+        {
+          "new_image_id": 21695,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8339,
+      "option_label": "goddess",
+      "option_values": [
+        {
+          "id": 6431,
+          "label": "goddess",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8339,
+        "product_id": 4634,
+        "sku": "BODGOD",
+        "sku_id": 3540,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5025_source_1772222297.png",
+        "cost_price": 4,
+        "upc": "700587117428",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6431,
+            "label": "goddess",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6282,
+      "images": [
+        {
+          "new_image_id": 21698,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8340,
+      "option_label": "eucalyptus mint",
+      "option_values": [
+        {
+          "id": 6432,
+          "label": "eucalyptus mint",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8340,
+        "product_id": 4634,
+        "sku": "BODEUC",
+        "sku_id": 3541,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5026_source_1772222300.png",
+        "cost_price": 4,
+        "upc": "700587117442",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 16,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6432,
+            "label": "eucalyptus mint",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6284,
+      "images": [
+        {
+          "new_image_id": 21701,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8341,
+      "option_label": "baby's butt",
+      "option_values": [
+        {
+          "id": 6433,
+          "label": "baby's butt",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8341,
+        "product_id": 4634,
+        "sku": "BODBAB",
+        "sku_id": 3542,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5027_source_1772222304.png",
+        "cost_price": 4,
+        "upc": "700587116988",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 33,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6433,
+            "label": "baby's butt",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6286,
+      "images": [
+        {
+          "new_image_id": 21704,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8342,
+      "option_label": "naked (unscented)",
+      "option_values": [
+        {
+          "id": 6434,
+          "label": "naked (unscented)",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8342,
+        "product_id": 4634,
+        "sku": "BODNKD",
+        "sku_id": 3543,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5028_source_1772222310.png",
+        "cost_price": 4,
+        "upc": "700587117015",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 26,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6434,
+            "label": "naked (unscented)",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6288,
+      "images": [
+        {
+          "new_image_id": 21706,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8343,
+      "option_label": "honey mango",
+      "option_values": [
+        {
+          "id": 6430,
+          "label": "honey mango",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8343,
+        "product_id": 4634,
+        "sku": "BODHYM",
+        "sku_id": 3544,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5029_source_1772222307.png",
+        "cost_price": 4,
+        "upc": "700587116810",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6430,
+            "label": "honey mango",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6289,
+      "images": [
+        {
+          "new_image_id": 21708,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8344,
+      "option_label": "white tea & ginger",
+      "option_values": [
+        {
+          "id": 6424,
+          "label": "white tea & ginger",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8344,
+        "product_id": 4634,
+        "sku": "BODWTG",
+        "sku_id": 3545,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5030_source_1772222268.png",
+        "cost_price": 4,
+        "upc": "700587117459",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 16,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6424,
+            "label": "white tea & ginger",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6291,
+      "images": [
+        {
+          "new_image_id": 21711,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8897,
+      "option_label": "chamomile sage",
+      "option_values": [
+        {
+          "id": 8894,
+          "label": "chamomile sage",
+          "option_id": 6443,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8897,
+        "product_id": 4634,
+        "sku": "BODCHM",
+        "sku_id": 3827,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5277_source_1772222256.png",
+        "cost_price": 4,
+        "upc": "700587117077",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 59,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8894,
+            "label": "chamomile sage",
+            "option_id": 6443,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6293,
+      "images": [
+        {
+          "new_image_id": 21714,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4634/images/14304/MASSAGE_OIL_EUPHORIA_CROPPED__20504.1642461079.380.380__98152.1739218756.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

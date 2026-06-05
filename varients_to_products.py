@@ -23,7 +23,7 @@ from client import ApiClient
 api = ApiClient()
 
 def save_manifest(manifest: dict, product_id: int, manifest_dir: str) -> str:
-    filename = f"{manifest_dir}/rollback_{product_id}.json"
+    filename = f"{manifest_dir}/rollback/{product_id}.json"
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
     return filename
@@ -42,6 +42,8 @@ def build_new_product_payload(original: dict, variant: dict) -> dict:
     option_label = " / ".join(ov["label"] for ov in option_values) if option_values else ""
     new_name = f"{original['name']} - {option_label}" if option_label else original["name"]
 
+    print(variant.get("inventory_level") or original.get("inventory_level", 0), 'varienttt', variant.get("inventory_warning_level") or original.get("inventory_warning_level", 0))
+
     payload = {
         "name": new_name,
         "type": "physical",
@@ -54,12 +56,12 @@ def build_new_product_payload(original: dict, variant: dict) -> dict:
         "inventory_warning_level": (
             variant.get("inventory_warning_level") or original.get("inventory_warning_level", 0)
         ),
-        "inventory_tracking": "variant",
+        "inventory_tracking": "product",
         "weight": float(variant.get("weight") or original.get("weight", 0)),
         "width":  float(variant.get("width")  or original.get("width", 0)),
         "height": float(variant.get("height") or original.get("height", 0)),
         "depth":  float(variant.get("depth")  or original.get("depth", 0)),
-        "is_visible": original.get("is_visible", True),
+        "is_visible": False,
         "availability": original.get("availability", "available"),
         "condition": original.get("condition", "New"),
         "is_condition_shown": original.get("is_condition_shown", False),
@@ -217,7 +219,6 @@ def convert_variants_to_products(
 
             split_entry["images"] = copy_images(product_id, new_id, variant, dry_run)
             split_entry["custom_fields"] = copy_custom_fields(product_id, new_id, dry_run)
-            print()
 
         manifest["split_products"].append(split_entry)
 

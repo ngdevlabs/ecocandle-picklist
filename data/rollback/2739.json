@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T18:50:56.056883Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 2739,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 2739,
+    "name": "mineral soak SLEEPY TIME",
+    "type": "physical",
+    "sku": "MSKSLP",
+    "description": "<div class=\"powr-chat\" id=\"fa409859_1652894558\"></div>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #3e3e3e;\"><strong>SLEEPY TIME mineral soak: relax your body and mind with pure lavender essential oil and Pacific sea salts. </strong></span></p>\r\n<p><span style=\"font-family: georgia, palatino; font-size: small; color: #3e3e3e;\"><strong>1lb 2oz / 510 g </strong></span></p>\r\n<p><span style=\"font-family: georgia, palatino; font-size: small; color: #3e3e3e;\"><strong>Ingredients: Pacific Sea Salt, Lavandin Hybrida Grosso (Lavender) Essential Oil, Glycerin (Vegetable Glycerin), Tocopherol (Vitamin E), Aloe Barbadensis (Aloe Vera) Leaf Juice, Ultramarine Violet (Colorant). </strong></span></p>\r\n<p><span style=\"font-family: georgia, palatino; font-size: small; color: #3e3e3e;\"><strong>Add 1-2 large handfuls to a warm bath and soak for 20 minutes.&nbsp;</strong></span></p>",
+    "weight": 1.8,
+    "width": 3,
+    "depth": 3,
+    "height": 5.5,
+    "price": 15,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 15,
+    "categories": [
+      61,
+      59
+    ],
+    "brand_id": 7,
+    "option_set_id": 1424,
+    "option_set_display": "right",
+    "inventory_level": 18,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 41,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-03-12T20:35:07+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "Most orders ship in 1-3 business days.",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 838,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "mineral soak SLEEPY TIME | Eco Candle Co. | Bath Soak",
+    "meta_keywords": [
+      "New"
+    ],
+    "meta_description": "N",
+    "date_created": "2018-08-02T22:54:21+00:00",
+    "date_modified": "2025-11-28T20:23:05+00:00",
+    "view_count": 3915,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/bath-body/mineral-soak-sleepy-time/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8362,
+        "product_id": 2739,
+        "sku": "MSKSLP18",
+        "sku_id": 3563,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5047_source_1711141189.jpeg",
+        "cost_price": 4.4,
+        "upc": "700587118968",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8075,
+            "label": "small 18oz",
+            "option_id": 6468,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      },
+      {
+        "id": 8363,
+        "product_id": 2739,
+        "sku": "MSKSLP30",
+        "sku_id": 3564,
+        "price": 20,
+        "calculated_price": 20,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 4.4,
+        "upc": "700587118975",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 8,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8074,
+            "label": "large 30oz",
+            "option_id": 6468,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 15157,
+        "product_id": 2739,
+        "is_thumbnail": false,
+        "sort_order": 2,
+        "description": "",
+        "image_file": "r/522/9e0df122-263b-400b-aff1-00ca1470b82b__22417.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/15157/9e0df122-263b-400b-aff1-00ca1470b82b__22417.1711141187.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/15157/9e0df122-263b-400b-aff1-00ca1470b82b__22417.1711141187.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/15157/9e0df122-263b-400b-aff1-00ca1470b82b__22417.1711141187.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/15157/9e0df122-263b-400b-aff1-00ca1470b82b__22417.1711141187.80.80.jpg?c=2",
+        "date_modified": "2024-03-22T20:59:47+00:00"
+      },
+      {
+        "id": 9885,
+        "product_id": 2739,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "v/656/SLEEPYTIMEMINERALSOAK__03749.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/9885/SLEEPYTIMEMINERALSOAK__03749.1711141187.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/9885/SLEEPYTIMEMINERALSOAK__03749.1711141187.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/9885/SLEEPYTIMEMINERALSOAK__03749.1711141187.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/9885/SLEEPYTIMEMINERALSOAK__03749.1711141187.80.80.jpg?c=2",
+        "date_modified": "2024-03-22T20:59:47+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8362,
+      "option_label": "small 18oz",
+      "option_values": [
+        {
+          "id": 8075,
+          "label": "small 18oz",
+          "option_id": 6468,
+          "option_display_name": "Choose your size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8362,
+        "product_id": 2739,
+        "sku": "MSKSLP18",
+        "sku_id": 3563,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5047_source_1711141189.jpeg",
+        "cost_price": 4.4,
+        "upc": "700587118968",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8075,
+            "label": "small 18oz",
+            "option_id": 6468,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      },
+      "new_product_id": 6233,
+      "images": [
+        {
+          "new_image_id": 21599,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/9885/SLEEPYTIMEMINERALSOAK__03749.1711141187.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21600,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/15157/9e0df122-263b-400b-aff1-00ca1470b82b__22417.1711141187.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8363,
+      "option_label": "large 30oz",
+      "option_values": [
+        {
+          "id": 8074,
+          "label": "large 30oz",
+          "option_id": 6468,
+          "option_display_name": "Choose your size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8363,
+        "product_id": 2739,
+        "sku": "MSKSLP30",
+        "sku_id": 3564,
+        "price": 20,
+        "calculated_price": 20,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 4.4,
+        "upc": "700587118975",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 8,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8074,
+            "label": "large 30oz",
+            "option_id": 6468,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      },
+      "new_product_id": 6234,
+      "images": [
+        {
+          "new_image_id": 21601,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/9885/SLEEPYTIMEMINERALSOAK__03749.1711141187.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21602,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2739/images/15157/9e0df122-263b-400b-aff1-00ca1470b82b__22417.1711141187.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

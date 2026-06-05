@@ -1,0 +1,3263 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:08:10.936841Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 5276,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 5276,
+    "name": "goat's milk & glycerin CHUNK SOAP",
+    "type": "physical",
+    "sku": "GG",
+    "description": "<p style=\"font-weight: 400;\">A natural, glycerin-rich soap that will leave your skin feeling soft and refreshed. Makes a wonderful shaving soap!</p>\n<p style=\"font-weight: 400;\">&nbsp;- 100% vegetarian ingredients. All our products are cruelty free... tested on friends, not animals.</p>\n<p style=\"font-weight: 400;\">&nbsp;- Handmade in Appleton, WI</p>\n<p style=\"font-weight: 400;\">&nbsp;- No parabens or phthalates.</p>\n<p style=\"font-weight: 400;\">&nbsp;- Size: 2.5\" x 3.5\" x 1\" / approximately 5oz</p>\n<p style=\"font-weight: 400;\">Ingredients: saponified oils of coconut, palm, castor and safflower, vegetable glycerin, purified water, goat's milk, sorbitol, sorbitan oleate, soy protein, titanium dioxide, fragrance &amp; color.</p>\n<p style=\"font-weight: 400;\">&nbsp;<br />***Wholesale Customers ***</p>\n<p style=\"font-weight: 400;\">Goat's Milk &amp; Glycerin Chunk Soaps must be ordered in case packs of 6 per fragrance.</p>",
+    "weight": 0.4,
+    "width": 2.5,
+    "depth": 3.5,
+    "height": 1,
+    "price": 6.5,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 6.5,
+    "categories": [
+      173,
+      146,
+      155,
+      180,
+      189,
+      170,
+      140,
+      154,
+      175,
+      179,
+      177,
+      60,
+      223,
+      191,
+      168,
+      163,
+      167,
+      187,
+      188,
+      148,
+      139,
+      161,
+      164,
+      181,
+      185,
+      224,
+      142,
+      171,
+      59,
+      160,
+      190,
+      145,
+      157,
+      141
+    ],
+    "brand_id": 7,
+    "option_set_id": 1580,
+    "option_set_display": "right",
+    "inventory_level": 451,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 842,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": null,
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "",
+    "meta_keywords": [],
+    "meta_description": "",
+    "date_created": "2024-04-03T20:35:36+00:00",
+    "date_modified": "2026-05-20T16:28:47+00:00",
+    "view_count": 0,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/bath-body-soap/goats-milk-glycerin-chunk-soap/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8526,
+        "product_id": 5276,
+        "sku": "GGWTG",
+        "sku_id": 3717,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5170_source_1772219138.png",
+        "cost_price": 2.5,
+        "upc": "632930396702",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 13,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8273,
+            "label": "white tea & ginger",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8529,
+        "product_id": 5276,
+        "sku": "GGVGR",
+        "sku_id": 3720,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5173_source_1772219141.png",
+        "cost_price": 2.5,
+        "upc": "700587117947",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8276,
+            "label": "vanilla grapefruit",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8530,
+        "product_id": 5276,
+        "sku": "GGROS",
+        "sku_id": 3721,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5174_source_1772219145.png",
+        "cost_price": 2.5,
+        "upc": "700587123948",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8277,
+            "label": "sterling rose",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8531,
+        "product_id": 5276,
+        "sku": "GGSPA",
+        "sku_id": 3722,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5175_source_1772219149.png",
+        "cost_price": 2.5,
+        "upc": "632930396733",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8278,
+            "label": "spa day",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8532,
+        "product_id": 5276,
+        "sku": "GGEOSOO",
+        "sku_id": 3723,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5176_source_1772219152.png",
+        "cost_price": 2.5,
+        "upc": "700587117879",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8279,
+            "label": "soothe (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8533,
+        "product_id": 5276,
+        "sku": "GGSAN",
+        "sku_id": 3724,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5177_source_1772219155.png",
+        "cost_price": 2.5,
+        "upc": "700587123900",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 3,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8280,
+            "label": "sanctuary",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8534,
+        "product_id": 5276,
+        "sku": "GGEOREF",
+        "sku_id": 3725,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5178_source_1772219159.png",
+        "cost_price": 2.5,
+        "upc": "700587117893",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8281,
+            "label": "refresh (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8537,
+        "product_id": 5276,
+        "sku": "GGEOPAT",
+        "sku_id": 3728,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5181_source_1772219163.png",
+        "cost_price": 2.5,
+        "upc": "700587117862",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 15,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8284,
+            "label": "patchouli (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8538,
+        "product_id": 5276,
+        "sku": "GGOCE",
+        "sku_id": 3729,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5182_source_1772219166.png",
+        "cost_price": 2.5,
+        "upc": "700587118081",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8285,
+            "label": "ocean waves",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8540,
+        "product_id": 5276,
+        "sku": "GGNKD",
+        "sku_id": 3731,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5184_source_1772219169.png",
+        "cost_price": 2.5,
+        "upc": "700587117930",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8287,
+            "label": "naked (unscented)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8541,
+        "product_id": 5276,
+        "sku": "GGNAG",
+        "sku_id": 3732,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5185_source_1772219173.png",
+        "cost_price": 2.5,
+        "upc": "632930401567",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8288,
+            "label": "nag champa",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8543,
+        "product_id": 5276,
+        "sku": "GGLVY",
+        "sku_id": 3734,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5187_source_1772219176.png",
+        "cost_price": 2.5,
+        "upc": "632930401581",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8290,
+            "label": "lovely",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8544,
+        "product_id": 5276,
+        "sku": "GGLGS",
+        "sku_id": 3735,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5188_source_1772219179.png",
+        "cost_price": 2.5,
+        "upc": "632930401598",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8291,
+            "label": "lemongrass sage",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8547,
+        "product_id": 5276,
+        "sku": "GGLAV",
+        "sku_id": 3738,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5191_source_1772219183.png",
+        "cost_price": 2.5,
+        "upc": "632930399789",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8294,
+            "label": "lavender dreams",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8548,
+        "product_id": 5276,
+        "sku": "GGHYM",
+        "sku_id": 3739,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5192_source_1772219186.png",
+        "cost_price": 2.5,
+        "upc": "632930399802",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 22,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8295,
+            "label": "honey mango",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8550,
+        "product_id": 5276,
+        "sku": "GGGOD",
+        "sku_id": 3741,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5194_source_1772219190.png",
+        "cost_price": 2.5,
+        "upc": "700587119132",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8297,
+            "label": "goddess",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8551,
+        "product_id": 5276,
+        "sku": "GGGAR",
+        "sku_id": 3742,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5195_source_1772219193.png",
+        "cost_price": 2.5,
+        "upc": "700587118005",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 16,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8298,
+            "label": "gardenia & guava",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8552,
+        "product_id": 5276,
+        "sku": "GGEOEUP",
+        "sku_id": 3743,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5196_source_1772219196.png",
+        "cost_price": 2.5,
+        "upc": "700587117886",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8299,
+            "label": "euphoria (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8553,
+        "product_id": 5276,
+        "sku": "GGESA",
+        "sku_id": 3744,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5197_source_1772219200.png",
+        "cost_price": 2.5,
+        "upc": "700587118067",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8300,
+            "label": "eucalyptus sage",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8554,
+        "product_id": 5276,
+        "sku": "GGEUC",
+        "sku_id": 3745,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5198_source_1772219203.png",
+        "cost_price": 2.5,
+        "upc": "632930396764",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 8,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8301,
+            "label": "eucalyptus mint",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8555,
+        "product_id": 5276,
+        "sku": "GGCLG",
+        "sku_id": 3746,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5199_source_1772219207.png",
+        "cost_price": 2.5,
+        "upc": "700587118104",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 22,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8302,
+            "label": "coconut lemongrass",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8556,
+        "product_id": 5276,
+        "sku": "GGCIT",
+        "sku_id": 3747,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5200_source_1772219210.png",
+        "cost_price": 2.5,
+        "upc": "700587118128",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8303,
+            "label": "citrus squeeze",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8557,
+        "product_id": 5276,
+        "sku": "GGCHM",
+        "sku_id": 3748,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5201_source_1772219213.png",
+        "cost_price": 2.5,
+        "upc": "700587118111",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8304,
+            "label": "chamomile sage",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8558,
+        "product_id": 5276,
+        "sku": "GGEOCAL",
+        "sku_id": 3749,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5202_source_1772219216.png",
+        "cost_price": 2.5,
+        "upc": "700587117909",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 24,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8305,
+            "label": "calm (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8560,
+        "product_id": 5276,
+        "sku": "GGBEA",
+        "sku_id": 3751,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5204_source_1772219220.png",
+        "cost_price": 2.5,
+        "upc": "700587118098",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 15,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8307,
+            "label": "beach house",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8562,
+        "product_id": 5276,
+        "sku": "GGBAB",
+        "sku_id": 3753,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5206_source_1772219223.png",
+        "cost_price": 2.5,
+        "upc": "632930397877",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8309,
+            "label": "baby's butt",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8563,
+        "product_id": 5276,
+        "sku": "GGEOAWA",
+        "sku_id": 3754,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5207_source_1772219227.png",
+        "cost_price": 2.5,
+        "upc": "700587117923",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8310,
+            "label": "awaken (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8564,
+        "product_id": 5276,
+        "sku": "GGAST",
+        "sku_id": 3755,
+        "price": 5.5,
+        "calculated_price": 5.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5208_source_1739996429.png",
+        "cost_price": 2.5,
+        "upc": "700587123924",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8311,
+            "label": "assorted soap ends",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9498,
+        "product_id": 5276,
+        "sku": "GGPEA",
+        "sku_id": 3946,
+        "price": 6.5,
+        "calculated_price": 3.25,
+        "sale_price": 3.25,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5507_source_1772219134.png",
+        "cost_price": 2.5,
+        "upc": "700587118050",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10015,
+            "label": "peace (seasonal )",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9599,
+        "product_id": 5276,
+        "sku": "GGPLC",
+        "sku_id": 3986,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5548_source_1772219131.png",
+        "cost_price": 2.5,
+        "upc": "700587117831",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10213,
+            "label": "pure lilac (seasonal)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9600,
+        "product_id": 5276,
+        "sku": "GGBUM",
+        "sku_id": 3987,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5549_source_1772219125.png",
+        "cost_price": 2.5,
+        "upc": "700587118142",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10212,
+            "label": "beach bum (seasonal)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 16233,
+        "product_id": 5276,
+        "is_thumbnail": false,
+        "sort_order": 2,
+        "description": "",
+        "image_file": "f/145/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.80.80.jpg?c=2",
+        "date_modified": "2025-02-19T20:19:00+00:00"
+      },
+      {
+        "id": 16234,
+        "product_id": 5276,
+        "is_thumbnail": false,
+        "sort_order": 3,
+        "description": "",
+        "image_file": "y/510/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.80.80.jpg?c=2",
+        "date_modified": "2025-02-19T20:19:01+00:00"
+      },
+      {
+        "id": 17187,
+        "product_id": 5276,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "l/420/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.80.80.PNG?c=2",
+        "date_modified": "2025-02-19T20:19:01+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8526,
+      "option_label": "white tea & ginger",
+      "option_values": [
+        {
+          "id": 8273,
+          "label": "white tea & ginger",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8526,
+        "product_id": 5276,
+        "sku": "GGWTG",
+        "sku_id": 3717,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5170_source_1772219138.png",
+        "cost_price": 2.5,
+        "upc": "632930396702",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 13,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8273,
+            "label": "white tea & ginger",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6381,
+      "images": [
+        {
+          "new_image_id": 21886,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21888,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21890,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8529,
+      "option_label": "vanilla grapefruit",
+      "option_values": [
+        {
+          "id": 8276,
+          "label": "vanilla grapefruit",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8529,
+        "product_id": 5276,
+        "sku": "GGVGR",
+        "sku_id": 3720,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5173_source_1772219141.png",
+        "cost_price": 2.5,
+        "upc": "700587117947",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8276,
+            "label": "vanilla grapefruit",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6384,
+      "images": [
+        {
+          "new_image_id": 21893,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21894,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21895,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8530,
+      "option_label": "sterling rose",
+      "option_values": [
+        {
+          "id": 8277,
+          "label": "sterling rose",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8530,
+        "product_id": 5276,
+        "sku": "GGROS",
+        "sku_id": 3721,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5174_source_1772219145.png",
+        "cost_price": 2.5,
+        "upc": "700587123948",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8277,
+            "label": "sterling rose",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6386,
+      "images": [
+        {
+          "new_image_id": 21898,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21899,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21900,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8531,
+      "option_label": "spa day",
+      "option_values": [
+        {
+          "id": 8278,
+          "label": "spa day",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8531,
+        "product_id": 5276,
+        "sku": "GGSPA",
+        "sku_id": 3722,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5175_source_1772219149.png",
+        "cost_price": 2.5,
+        "upc": "632930396733",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8278,
+            "label": "spa day",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6388,
+      "images": [
+        {
+          "new_image_id": 21903,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21904,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21905,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8532,
+      "option_label": "soothe (essential oil blend)",
+      "option_values": [
+        {
+          "id": 8279,
+          "label": "soothe (essential oil blend)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8532,
+        "product_id": 5276,
+        "sku": "GGEOSOO",
+        "sku_id": 3723,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5176_source_1772219152.png",
+        "cost_price": 2.5,
+        "upc": "700587117879",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8279,
+            "label": "soothe (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6390,
+      "images": [
+        {
+          "new_image_id": 21908,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21909,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21910,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8533,
+      "option_label": "sanctuary",
+      "option_values": [
+        {
+          "id": 8280,
+          "label": "sanctuary",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8533,
+        "product_id": 5276,
+        "sku": "GGSAN",
+        "sku_id": 3724,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5177_source_1772219155.png",
+        "cost_price": 2.5,
+        "upc": "700587123900",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 3,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8280,
+            "label": "sanctuary",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6392,
+      "images": [
+        {
+          "new_image_id": 21913,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21914,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21915,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8534,
+      "option_label": "refresh (essential oil blend)",
+      "option_values": [
+        {
+          "id": 8281,
+          "label": "refresh (essential oil blend)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8534,
+        "product_id": 5276,
+        "sku": "GGEOREF",
+        "sku_id": 3725,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5178_source_1772219159.png",
+        "cost_price": 2.5,
+        "upc": "700587117893",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8281,
+            "label": "refresh (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6394,
+      "images": [
+        {
+          "new_image_id": 21918,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21920,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21922,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8537,
+      "option_label": "patchouli (essential oil blend)",
+      "option_values": [
+        {
+          "id": 8284,
+          "label": "patchouli (essential oil blend)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8537,
+        "product_id": 5276,
+        "sku": "GGEOPAT",
+        "sku_id": 3728,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5181_source_1772219163.png",
+        "cost_price": 2.5,
+        "upc": "700587117862",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 15,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8284,
+            "label": "patchouli (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6397,
+      "images": [
+        {
+          "new_image_id": 21924,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21926,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21927,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8538,
+      "option_label": "ocean waves",
+      "option_values": [
+        {
+          "id": 8285,
+          "label": "ocean waves",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8538,
+        "product_id": 5276,
+        "sku": "GGOCE",
+        "sku_id": 3729,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5182_source_1772219166.png",
+        "cost_price": 2.5,
+        "upc": "700587118081",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8285,
+            "label": "ocean waves",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6399,
+      "images": [
+        {
+          "new_image_id": 21930,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21931,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21932,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8540,
+      "option_label": "naked (unscented)",
+      "option_values": [
+        {
+          "id": 8287,
+          "label": "naked (unscented)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8540,
+        "product_id": 5276,
+        "sku": "GGNKD",
+        "sku_id": 3731,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5184_source_1772219169.png",
+        "cost_price": 2.5,
+        "upc": "700587117930",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8287,
+            "label": "naked (unscented)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6401,
+      "images": [
+        {
+          "new_image_id": 21935,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21936,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21937,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8541,
+      "option_label": "nag champa",
+      "option_values": [
+        {
+          "id": 8288,
+          "label": "nag champa",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8541,
+        "product_id": 5276,
+        "sku": "GGNAG",
+        "sku_id": 3732,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5185_source_1772219173.png",
+        "cost_price": 2.5,
+        "upc": "632930401567",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8288,
+            "label": "nag champa",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6403,
+      "images": [
+        {
+          "new_image_id": 21940,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21941,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21942,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8543,
+      "option_label": "lovely",
+      "option_values": [
+        {
+          "id": 8290,
+          "label": "lovely",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8543,
+        "product_id": 5276,
+        "sku": "GGLVY",
+        "sku_id": 3734,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5187_source_1772219176.png",
+        "cost_price": 2.5,
+        "upc": "632930401581",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8290,
+            "label": "lovely",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6405,
+      "images": [
+        {
+          "new_image_id": 21945,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21946,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21948,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8544,
+      "option_label": "lemongrass sage",
+      "option_values": [
+        {
+          "id": 8291,
+          "label": "lemongrass sage",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8544,
+        "product_id": 5276,
+        "sku": "GGLGS",
+        "sku_id": 3735,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5188_source_1772219179.png",
+        "cost_price": 2.5,
+        "upc": "632930401598",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8291,
+            "label": "lemongrass sage",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6407,
+      "images": [
+        {
+          "new_image_id": 21950,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21952,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21954,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8547,
+      "option_label": "lavender dreams",
+      "option_values": [
+        {
+          "id": 8294,
+          "label": "lavender dreams",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8547,
+        "product_id": 5276,
+        "sku": "GGLAV",
+        "sku_id": 3738,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5191_source_1772219183.png",
+        "cost_price": 2.5,
+        "upc": "632930399789",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 18,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8294,
+            "label": "lavender dreams",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6410,
+      "images": [
+        {
+          "new_image_id": 21957,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21958,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21959,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8548,
+      "option_label": "honey mango",
+      "option_values": [
+        {
+          "id": 8295,
+          "label": "honey mango",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8548,
+        "product_id": 5276,
+        "sku": "GGHYM",
+        "sku_id": 3739,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5192_source_1772219186.png",
+        "cost_price": 2.5,
+        "upc": "632930399802",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 22,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8295,
+            "label": "honey mango",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6412,
+      "images": [
+        {
+          "new_image_id": 21962,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21963,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21964,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8550,
+      "option_label": "goddess",
+      "option_values": [
+        {
+          "id": 8297,
+          "label": "goddess",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8550,
+        "product_id": 5276,
+        "sku": "GGGOD",
+        "sku_id": 3741,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5194_source_1772219190.png",
+        "cost_price": 2.5,
+        "upc": "700587119132",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8297,
+            "label": "goddess",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6414,
+      "images": [
+        {
+          "new_image_id": 21967,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21968,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21969,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8551,
+      "option_label": "gardenia & guava",
+      "option_values": [
+        {
+          "id": 8298,
+          "label": "gardenia & guava",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8551,
+        "product_id": 5276,
+        "sku": "GGGAR",
+        "sku_id": 3742,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5195_source_1772219193.png",
+        "cost_price": 2.5,
+        "upc": "700587118005",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 16,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8298,
+            "label": "gardenia & guava",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6416,
+      "images": [
+        {
+          "new_image_id": 21972,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21973,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21975,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8552,
+      "option_label": "euphoria (essential oil blend)",
+      "option_values": [
+        {
+          "id": 8299,
+          "label": "euphoria (essential oil blend)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8552,
+        "product_id": 5276,
+        "sku": "GGEOEUP",
+        "sku_id": 3743,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5196_source_1772219196.png",
+        "cost_price": 2.5,
+        "upc": "700587117886",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8299,
+            "label": "euphoria (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6418,
+      "images": [
+        {
+          "new_image_id": 21977,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21979,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21981,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8553,
+      "option_label": "eucalyptus sage",
+      "option_values": [
+        {
+          "id": 8300,
+          "label": "eucalyptus sage",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8553,
+        "product_id": 5276,
+        "sku": "GGESA",
+        "sku_id": 3744,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5197_source_1772219200.png",
+        "cost_price": 2.5,
+        "upc": "700587118067",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8300,
+            "label": "eucalyptus sage",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6421,
+      "images": [
+        {
+          "new_image_id": 21983,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21985,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21986,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8554,
+      "option_label": "eucalyptus mint",
+      "option_values": [
+        {
+          "id": 8301,
+          "label": "eucalyptus mint",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8554,
+        "product_id": 5276,
+        "sku": "GGEUC",
+        "sku_id": 3745,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5198_source_1772219203.png",
+        "cost_price": 2.5,
+        "upc": "632930396764",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 8,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8301,
+            "label": "eucalyptus mint",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6423,
+      "images": [
+        {
+          "new_image_id": 21989,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21990,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21991,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8555,
+      "option_label": "coconut lemongrass",
+      "option_values": [
+        {
+          "id": 8302,
+          "label": "coconut lemongrass",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8555,
+        "product_id": 5276,
+        "sku": "GGCLG",
+        "sku_id": 3746,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5199_source_1772219207.png",
+        "cost_price": 2.5,
+        "upc": "700587118104",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 22,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8302,
+            "label": "coconut lemongrass",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6425,
+      "images": [
+        {
+          "new_image_id": 21994,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21995,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21996,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8556,
+      "option_label": "citrus squeeze",
+      "option_values": [
+        {
+          "id": 8303,
+          "label": "citrus squeeze",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8556,
+        "product_id": 5276,
+        "sku": "GGCIT",
+        "sku_id": 3747,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5200_source_1772219210.png",
+        "cost_price": 2.5,
+        "upc": "700587118128",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8303,
+            "label": "citrus squeeze",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6427,
+      "images": [
+        {
+          "new_image_id": 21999,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22000,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22001,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8557,
+      "option_label": "chamomile sage",
+      "option_values": [
+        {
+          "id": 8304,
+          "label": "chamomile sage",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8557,
+        "product_id": 5276,
+        "sku": "GGCHM",
+        "sku_id": 3748,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5201_source_1772219213.png",
+        "cost_price": 2.5,
+        "upc": "700587118111",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8304,
+            "label": "chamomile sage",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6429,
+      "images": [
+        {
+          "new_image_id": 22004,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22005,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22006,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8558,
+      "option_label": "calm (essential oil blend)",
+      "option_values": [
+        {
+          "id": 8305,
+          "label": "calm (essential oil blend)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8558,
+        "product_id": 5276,
+        "sku": "GGEOCAL",
+        "sku_id": 3749,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5202_source_1772219216.png",
+        "cost_price": 2.5,
+        "upc": "700587117909",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 24,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8305,
+            "label": "calm (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6431,
+      "images": [
+        {
+          "new_image_id": 22009,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22010,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22011,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8560,
+      "option_label": "beach house",
+      "option_values": [
+        {
+          "id": 8307,
+          "label": "beach house",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8560,
+        "product_id": 5276,
+        "sku": "GGBEA",
+        "sku_id": 3751,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5204_source_1772219220.png",
+        "cost_price": 2.5,
+        "upc": "700587118098",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 15,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8307,
+            "label": "beach house",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6433,
+      "images": [
+        {
+          "new_image_id": 22014,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22015,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22016,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8562,
+      "option_label": "baby's butt",
+      "option_values": [
+        {
+          "id": 8309,
+          "label": "baby's butt",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8562,
+        "product_id": 5276,
+        "sku": "GGBAB",
+        "sku_id": 3753,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5206_source_1772219223.png",
+        "cost_price": 2.5,
+        "upc": "632930397877",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8309,
+            "label": "baby's butt",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6435,
+      "images": [
+        {
+          "new_image_id": 22019,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22020,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22022,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8563,
+      "option_label": "awaken (essential oil blend)",
+      "option_values": [
+        {
+          "id": 8310,
+          "label": "awaken (essential oil blend)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8563,
+        "product_id": 5276,
+        "sku": "GGEOAWA",
+        "sku_id": 3754,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5207_source_1772219227.png",
+        "cost_price": 2.5,
+        "upc": "700587117923",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8310,
+            "label": "awaken (essential oil blend)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6437,
+      "images": [
+        {
+          "new_image_id": 22024,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22027,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22028,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8564,
+      "option_label": "assorted soap ends",
+      "option_values": [
+        {
+          "id": 8311,
+          "label": "assorted soap ends",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8564,
+        "product_id": 5276,
+        "sku": "GGAST",
+        "sku_id": 3755,
+        "price": 5.5,
+        "calculated_price": 5.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5208_source_1739996429.png",
+        "cost_price": 2.5,
+        "upc": "700587123924",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8311,
+            "label": "assorted soap ends",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6440,
+      "images": [
+        {
+          "new_image_id": 22031,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22032,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22033,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9498,
+      "option_label": "peace (seasonal )",
+      "option_values": [
+        {
+          "id": 10015,
+          "label": "peace (seasonal )",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9498,
+        "product_id": 5276,
+        "sku": "GGPEA",
+        "sku_id": 3946,
+        "price": 6.5,
+        "calculated_price": 3.25,
+        "sale_price": 3.25,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5507_source_1772219134.png",
+        "cost_price": 2.5,
+        "upc": "700587118050",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10015,
+            "label": "peace (seasonal )",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6442,
+      "images": [
+        {
+          "new_image_id": 22036,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22037,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22038,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9599,
+      "option_label": "pure lilac (seasonal)",
+      "option_values": [
+        {
+          "id": 10213,
+          "label": "pure lilac (seasonal)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9599,
+        "product_id": 5276,
+        "sku": "GGPLC",
+        "sku_id": 3986,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5548_source_1772219131.png",
+        "cost_price": 2.5,
+        "upc": "700587117831",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10213,
+            "label": "pure lilac (seasonal)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6443,
+      "images": [
+        {
+          "new_image_id": 22039,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22040,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22041,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9600,
+      "option_label": "beach bum (seasonal)",
+      "option_values": [
+        {
+          "id": 10212,
+          "label": "beach bum (seasonal)",
+          "option_id": 6533,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9600,
+        "product_id": 5276,
+        "sku": "GGBUM",
+        "sku_id": 3987,
+        "price": 6.5,
+        "calculated_price": 6.5,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.4,
+        "calculated_weight": 0.4,
+        "width": 2.5,
+        "height": 1,
+        "depth": 3.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5549_source_1772219125.png",
+        "cost_price": 2.5,
+        "upc": "700587118142",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 11,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10212,
+            "label": "beach bum (seasonal)",
+            "option_id": 6533,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6444,
+      "images": [
+        {
+          "new_image_id": 22042,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/17187/c7813e5a-c756-4a97-80a4-275f3c4540a1__62325.1739996341.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 22043,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16233/7f2e6a1a-238e-4db1-ae16-608bcf7a142c__64802.1739996340.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 22044,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/5276/images/16234/c461d75a-2c33-4f1e-bb10-4ac9ffa27ea0__96183.1739996341.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

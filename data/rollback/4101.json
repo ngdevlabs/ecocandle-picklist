@@ -1,0 +1,1679 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:02:08.268295Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 4101,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 4101,
+    "name": "organic body LOTION",
+    "type": "physical",
+    "sku": "LOT",
+    "description": "<div id=\"fa409859_1652894558\" class=\"powr-chat\"><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">A very moisturizing blend containing certified organic oils including sunflower, shea, jojoba &amp; olive and organic extracts of chamomile, green tea, lavender and aloe vera to make the ultimate luxury lotion - your skin will love you for it! </span></div>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">- 100% vegetarian ingredients.&nbsp;All our products are cruelty free... tested on friends, not animals.</span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">- No&nbsp;<span style=\"caret-color: #3e3e3e;\">parabens</span>&nbsp;or phthalates.</span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">- Packaged in an amber bottle with a pump top </span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">- Size: 8 fl oz / 236 mL</span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">*scents marked with an asterisk are our pure essential oil blends. &nbsp;</span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">Ingredients: Purified water with infusion of certified organic botanical extracts of Lavandula Angustifolia (lavender)*, Matricaria Recutita (chamomile)*, Calendula Officinalis (calendula)*, Camellia Sinensis (green tea)*, Aloe Barbadensis (aloe leaf juice)*, Helianthus Annuus (sunflower oil)*, Butyrospermum Parkii (shea butter)*, Olea Europaea (olive oil)*, Linum Usitatissimum (flax seed oil)*, Simmondsia Chinensis (jojoba oil)*, Sesamum Indicum (sesame oil)*, Octyl Palmitate (esther of palm oil), Vegetable Glycerin, Glyceryl Stearate, Cetyl Alcohol, Stearyl Alcohol, Fragrance, Ceteareth-20, Tocopherol (vitamin E), Polysorbate 60, Dimethicone, Triethanolamine (pH neutralizer), Diazolidinyl Urea and Iodopropynyl Butylcarbamate. * Denotes certified organic ingredient</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">****Wholesale customers&nbsp;****</span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #888888;\">Lotion must be ordered in case packs of 6 per fragrance.&nbsp;</span></p>",
+    "weight": 0.7,
+    "width": 2.5,
+    "depth": 2.5,
+    "height": 5.5,
+    "price": 16,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 16,
+    "categories": [
+      155,
+      187,
+      224,
+      171,
+      169,
+      223,
+      168,
+      59,
+      164,
+      140,
+      154,
+      173,
+      145,
+      146,
+      191,
+      170,
+      167,
+      189,
+      172,
+      179,
+      142,
+      141,
+      161,
+      67,
+      160,
+      185,
+      139
+    ],
+    "brand_id": 7,
+    "option_set_id": 1408,
+    "option_set_display": "right",
+    "inventory_level": 296,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 532,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-03-12T22:27:46+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "Most orders ship in 2-4 business days.",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "organic hand & body lotion ALL | Eco Candle Co.",
+    "meta_keywords": [],
+    "meta_description": "organic hand & body lotion ALL| 100% vegetarian ingredients. All our products are cruelty free...tested on friends, not animals. your skin will love you for it!",
+    "date_created": "2022-04-19T18:51:58+00:00",
+    "date_modified": "2026-05-03T23:39:52+00:00",
+    "view_count": 5098,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/bath-body/organic-hand-body-lotion-all/",
+      "is_customized": true
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8256,
+        "product_id": 4101,
+        "sku": "LOTCHM",
+        "sku_id": 3457,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4978_source_1771619313.png",
+        "cost_price": 4,
+        "upc": "632930398003",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5980,
+            "label": "chamomile sage",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8257,
+        "product_id": 4101,
+        "sku": "LOTNKD",
+        "sku_id": 3458,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4979_source_1771619327.png",
+        "cost_price": 4,
+        "upc": "632930398089",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5998,
+            "label": "naked (unscented)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8259,
+        "product_id": 4101,
+        "sku": "LOTEOSOO",
+        "sku_id": 3460,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4981_source_1771619255.png",
+        "cost_price": 4,
+        "upc": "632930397952",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 25,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5983,
+            "label": "soothe (pure essential oil blend)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8260,
+        "product_id": 4101,
+        "sku": "LOTEUC",
+        "sku_id": 3461,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4982_source_1771619310.png",
+        "cost_price": 4,
+        "upc": "632930398027",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 25,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5996,
+            "label": "eucalyptus mint",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8262,
+        "product_id": 4101,
+        "sku": "LOTEOCAL",
+        "sku_id": 3463,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4984_source_1771619284.png",
+        "cost_price": 4,
+        "upc": "632930397976",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5985,
+            "label": "calm (pure essential oil blend)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8265,
+        "product_id": 4101,
+        "sku": "LOTESA",
+        "sku_id": 3466,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4987_source_1771619306.png",
+        "cost_price": 4,
+        "upc": "632930394883",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5976,
+            "label": "eucalyptus sage",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8266,
+        "product_id": 4101,
+        "sku": "LOTEOPAT",
+        "sku_id": 3467,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4988_source_1771619280.png",
+        "cost_price": 4,
+        "upc": "632930397938",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 13,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5987,
+            "label": "patchouli (pure essential oil blend)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8268,
+        "product_id": 4101,
+        "sku": "LOTHYM",
+        "sku_id": 3469,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4990_source_1771619316.png",
+        "cost_price": 4,
+        "upc": "632930398034",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5994,
+            "label": "honey mango",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8269,
+        "product_id": 4101,
+        "sku": "LOTLGS",
+        "sku_id": 3470,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4991_source_1771619300.png",
+        "cost_price": 4,
+        "upc": "632930398058",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5992,
+            "label": "lemongrass sage",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8270,
+        "product_id": 4101,
+        "sku": "LOTWTG",
+        "sku_id": 3471,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4992_source_1771619287.png",
+        "cost_price": 4,
+        "upc": "632930398133",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 15,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5988,
+            "label": "white tea & ginger",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8271,
+        "product_id": 4101,
+        "sku": "LOTLAV",
+        "sku_id": 3472,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4993_source_1771619303.png",
+        "cost_price": 4,
+        "upc": "632930398041",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5993,
+            "label": "lavender dreams",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8273,
+        "product_id": 4101,
+        "sku": "LOTGOD",
+        "sku_id": 3474,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4995_source_1771619320.png",
+        "cost_price": 4,
+        "upc": "632930396528",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 24,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5995,
+            "label": "goddess",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8274,
+        "product_id": 4101,
+        "sku": "LOTBAB",
+        "sku_id": 3475,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4996_source_1771619324.png",
+        "cost_price": 4,
+        "upc": "632930397990",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5997,
+            "label": "baby's butt",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8275,
+        "product_id": 4101,
+        "sku": "LOTLVY",
+        "sku_id": 3476,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4997_source_1771619296.png",
+        "cost_price": 4,
+        "upc": "632930398065",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5991,
+            "label": "lovely",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8278,
+        "product_id": 4101,
+        "sku": "LOTNAG",
+        "sku_id": 3479,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5000_source_1771619293.png",
+        "cost_price": 4,
+        "upc": "632930398072",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5990,
+            "label": "nag champa",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8279,
+        "product_id": 4101,
+        "sku": "LOTSPA",
+        "sku_id": 3480,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5001_source_1771619290.png",
+        "cost_price": 4,
+        "upc": "632930398096",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5989,
+            "label": "spa day",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 13291,
+        "product_id": 4101,
+        "is_thumbnail": false,
+        "sort_order": 2,
+        "description": "",
+        "image_file": "h/093/c1308279-f800-4c04-80b1-ba227ee46a55__46256.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.80.80.jpg?c=2",
+        "date_modified": "2024-12-23T21:23:53+00:00"
+      },
+      {
+        "id": 19298,
+        "product_id": 4101,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "a/713/dc911887-896e-424f-aac0-53d7e403dc30__60684.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.80.80.PNG?c=2",
+        "date_modified": "2024-12-23T21:23:53+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8256,
+      "option_label": "chamomile sage",
+      "option_values": [
+        {
+          "id": 5980,
+          "label": "chamomile sage",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8256,
+        "product_id": 4101,
+        "sku": "LOTCHM",
+        "sku_id": 3457,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4978_source_1771619313.png",
+        "cost_price": 4,
+        "upc": "632930398003",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5980,
+            "label": "chamomile sage",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6264,
+      "images": [
+        {
+          "new_image_id": 21670,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21671,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8257,
+      "option_label": "naked (unscented)",
+      "option_values": [
+        {
+          "id": 5998,
+          "label": "naked (unscented)",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8257,
+        "product_id": 4101,
+        "sku": "LOTNKD",
+        "sku_id": 3458,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4979_source_1771619327.png",
+        "cost_price": 4,
+        "upc": "632930398089",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5998,
+            "label": "naked (unscented)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6265,
+      "images": [
+        {
+          "new_image_id": 21672,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21673,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8259,
+      "option_label": "soothe (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 5983,
+          "label": "soothe (pure essential oil blend)",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8259,
+        "product_id": 4101,
+        "sku": "LOTEOSOO",
+        "sku_id": 3460,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4981_source_1771619255.png",
+        "cost_price": 4,
+        "upc": "632930397952",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 25,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5983,
+            "label": "soothe (pure essential oil blend)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6266,
+      "images": [
+        {
+          "new_image_id": 21674,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21675,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8260,
+      "option_label": "eucalyptus mint",
+      "option_values": [
+        {
+          "id": 5996,
+          "label": "eucalyptus mint",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8260,
+        "product_id": 4101,
+        "sku": "LOTEUC",
+        "sku_id": 3461,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4982_source_1771619310.png",
+        "cost_price": 4,
+        "upc": "632930398027",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 25,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5996,
+            "label": "eucalyptus mint",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6268,
+      "images": [
+        {
+          "new_image_id": 21677,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21678,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8262,
+      "option_label": "calm (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 5985,
+          "label": "calm (pure essential oil blend)",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8262,
+        "product_id": 4101,
+        "sku": "LOTEOCAL",
+        "sku_id": 3463,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4984_source_1771619284.png",
+        "cost_price": 4,
+        "upc": "632930397976",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 20,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5985,
+            "label": "calm (pure essential oil blend)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6270,
+      "images": [
+        {
+          "new_image_id": 21680,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21681,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8265,
+      "option_label": "eucalyptus sage",
+      "option_values": [
+        {
+          "id": 5976,
+          "label": "eucalyptus sage",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8265,
+        "product_id": 4101,
+        "sku": "LOTESA",
+        "sku_id": 3466,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4987_source_1771619306.png",
+        "cost_price": 4,
+        "upc": "632930394883",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 12,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5976,
+            "label": "eucalyptus sage",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6272,
+      "images": [
+        {
+          "new_image_id": 21683,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21684,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8266,
+      "option_label": "patchouli (pure essential oil blend)",
+      "option_values": [
+        {
+          "id": 5987,
+          "label": "patchouli (pure essential oil blend)",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8266,
+        "product_id": 4101,
+        "sku": "LOTEOPAT",
+        "sku_id": 3467,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4988_source_1771619280.png",
+        "cost_price": 4,
+        "upc": "632930397938",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 13,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5987,
+            "label": "patchouli (pure essential oil blend)",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6274,
+      "images": [
+        {
+          "new_image_id": 21686,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21688,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8268,
+      "option_label": "honey mango",
+      "option_values": [
+        {
+          "id": 5994,
+          "label": "honey mango",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8268,
+        "product_id": 4101,
+        "sku": "LOTHYM",
+        "sku_id": 3469,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4990_source_1771619316.png",
+        "cost_price": 4,
+        "upc": "632930398034",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 14,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5994,
+            "label": "honey mango",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6277,
+      "images": [
+        {
+          "new_image_id": 21690,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21691,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8269,
+      "option_label": "lemongrass sage",
+      "option_values": [
+        {
+          "id": 5992,
+          "label": "lemongrass sage",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8269,
+        "product_id": 4101,
+        "sku": "LOTLGS",
+        "sku_id": 3470,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4991_source_1771619300.png",
+        "cost_price": 4,
+        "upc": "632930398058",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5992,
+            "label": "lemongrass sage",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6279,
+      "images": [
+        {
+          "new_image_id": 21693,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21694,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8270,
+      "option_label": "white tea & ginger",
+      "option_values": [
+        {
+          "id": 5988,
+          "label": "white tea & ginger",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8270,
+        "product_id": 4101,
+        "sku": "LOTWTG",
+        "sku_id": 3471,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4992_source_1771619287.png",
+        "cost_price": 4,
+        "upc": "632930398133",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 15,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5988,
+            "label": "white tea & ginger",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6281,
+      "images": [
+        {
+          "new_image_id": 21696,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21697,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8271,
+      "option_label": "lavender dreams",
+      "option_values": [
+        {
+          "id": 5993,
+          "label": "lavender dreams",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8271,
+        "product_id": 4101,
+        "sku": "LOTLAV",
+        "sku_id": 3472,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4993_source_1771619303.png",
+        "cost_price": 4,
+        "upc": "632930398041",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5993,
+            "label": "lavender dreams",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6283,
+      "images": [
+        {
+          "new_image_id": 21699,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21700,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8273,
+      "option_label": "goddess",
+      "option_values": [
+        {
+          "id": 5995,
+          "label": "goddess",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8273,
+        "product_id": 4101,
+        "sku": "LOTGOD",
+        "sku_id": 3474,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4995_source_1771619320.png",
+        "cost_price": 4,
+        "upc": "632930396528",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 24,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5995,
+            "label": "goddess",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6285,
+      "images": [
+        {
+          "new_image_id": 21702,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21703,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8274,
+      "option_label": "baby's butt",
+      "option_values": [
+        {
+          "id": 5997,
+          "label": "baby's butt",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8274,
+        "product_id": 4101,
+        "sku": "LOTBAB",
+        "sku_id": 3475,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4996_source_1771619324.png",
+        "cost_price": 4,
+        "upc": "632930397990",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 23,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5997,
+            "label": "baby's butt",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6287,
+      "images": [
+        {
+          "new_image_id": 21705,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21707,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8275,
+      "option_label": "lovely",
+      "option_values": [
+        {
+          "id": 5991,
+          "label": "lovely",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8275,
+        "product_id": 4101,
+        "sku": "LOTLVY",
+        "sku_id": 3476,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4997_source_1771619296.png",
+        "cost_price": 4,
+        "upc": "632930398065",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 19,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5991,
+            "label": "lovely",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6290,
+      "images": [
+        {
+          "new_image_id": 21709,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21710,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8278,
+      "option_label": "nag champa",
+      "option_values": [
+        {
+          "id": 5990,
+          "label": "nag champa",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8278,
+        "product_id": 4101,
+        "sku": "LOTNAG",
+        "sku_id": 3479,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5000_source_1771619293.png",
+        "cost_price": 4,
+        "upc": "632930398072",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 17,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5990,
+            "label": "nag champa",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6292,
+      "images": [
+        {
+          "new_image_id": 21712,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21713,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8279,
+      "option_label": "spa day",
+      "option_values": [
+        {
+          "id": 5989,
+          "label": "spa day",
+          "option_id": 2277,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8279,
+        "product_id": 4101,
+        "sku": "LOTSPA",
+        "sku_id": 3480,
+        "price": 16,
+        "calculated_price": 16,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.7,
+        "calculated_weight": 0.7,
+        "width": 2.5,
+        "height": 5.5,
+        "depth": 2.5,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5001_source_1771619290.png",
+        "cost_price": 4,
+        "upc": "632930398096",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 10,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 5989,
+            "label": "spa day",
+            "option_id": 2277,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6294,
+      "images": [
+        {
+          "new_image_id": 21715,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/19298/dc911887-896e-424f-aac0-53d7e403dc30__60684.1734989033.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21716,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4101/images/13291/c1308279-f800-4c04-80b1-ba227ee46a55__46256.1734989033.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

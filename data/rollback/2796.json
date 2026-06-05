@@ -1,0 +1,455 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:00:16.492845Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 2796,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 2796,
+    "name": "bunny bag DONATION",
+    "type": "physical",
+    "sku": "BUN",
+    "description": "<p style=\"text-align: center;\">Our popular Spring Fundraiser is back! Help a wonderful local organization with the purchase of our adorable bunny grab bags! <br /><br /><strong>This bag is a great option for kids!<br /><br /></strong>**Please note that photos don't necessarily represent what will be in the bag. Please see descriptions below for accurate contents. Muslin bunny bag designs vary.&nbsp;<strong><br /></strong><strong><br />BADGER SLEEP&nbsp;BALM </strong>bag contains: a mini Badger Sleep Balm&nbsp;tin along with an Eco Candle Co. tea light, stickers and soap sample. All packaged in a reusable muslin bunny bag.<br /><strong><br />LIP BALM </strong>bag contains: a Crazy Rumors vegan lip balm along with an Eco Candle Co. soap sample, stickers, a mini rubber duck, a micro rubber duck and seed paper to plant&nbsp;your very own wildflower garden. All packaged in a reusable muslin bunny bag. A great Easter basket stuffer&nbsp;for kids!<strong><br /></strong><br /><strong>INCENSE MATCHES </strong>bag contains: a book of incense matches, an Aromaland essential oil tester (*note this is a partially filled bottle to sample), an Eco Candle Co. soap sample, matchbook, stickers and two soy&nbsp;tea lights. All packaged in a reusable muslin bunny bag.&nbsp;<br /><br />All bags contain at least $12 worth of product and ALL the profits go to <a href=\"https://krsmallanimal.com\" target=\"_blank\" rel=\"noopener noreferrer\">K&amp;R Small Animal Sanctuary</a> in Appleton, WI! K&amp;R rescues, rehabilitates, and re-homes rabbits, guinea pigs, and other little critters. They depend solely on donations and volunteers to do this work and we are thrilled&nbsp;to give back to this great, local organization. Our owner's bunny, Feta, was&nbsp;from K&amp;R!&nbsp;&nbsp;<br /><br />We only have a limited quantity, so grab 'em before they are gone!&nbsp;</p>",
+    "weight": 0.3,
+    "width": 3,
+    "depth": 2,
+    "height": 7,
+    "price": 12,
+    "cost_price": 10,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 12,
+    "categories": [
+      113
+    ],
+    "brand_id": 1,
+    "option_set_id": 1598,
+    "option_set_display": "right",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 500,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": false,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-09-16T01:12:37+00:00",
+    "search_keywords": "bunny, easter, basket, bag, donation, giving back, animal, sanctuary, rescue, grab bag, gift, animal lover",
+    "availability": "available",
+    "availability_description": "Most orders ship in 1-3 business days.",
+    "gift_wrapping_options_type": "none",
+    "gift_wrapping_options_list": [],
+    "sort_order": -100,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "bunny bag DONATION. | Bunny Grab Bags for a Good Cause!",
+    "meta_keywords": [],
+    "meta_description": "bunny bag DONATION All profits are donated to K&R Small Animal Sanctuary in Appleton, WI where our owner's bunny \"Feta\" was adopted from!",
+    "date_created": "2019-04-19T19:37:31+00:00",
+    "date_modified": "2026-03-08T13:07:44+00:00",
+    "view_count": 6421,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/new-seasonal/bunny-bag-donation/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8947,
+        "product_id": 2796,
+        "sku": "BUN2",
+        "sku_id": 3835,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.3,
+        "calculated_weight": 0.3,
+        "width": 3,
+        "height": 7,
+        "depth": 2,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 5,
+        "upc": "BUN2",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 9189,
+            "label": "INCENSE MATCHES",
+            "option_id": 6550,
+            "option_display_name": "Variant"
+          }
+        ]
+      },
+      {
+        "id": 8948,
+        "product_id": 2796,
+        "sku": "BUN1",
+        "sku_id": 3836,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.3,
+        "calculated_weight": 0.3,
+        "width": 3,
+        "height": 7,
+        "depth": 2,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 5,
+        "upc": "BUN1",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 9190,
+            "label": "LIP BALM",
+            "option_id": 6550,
+            "option_display_name": "Variant"
+          }
+        ]
+      },
+      {
+        "id": 8949,
+        "product_id": 2796,
+        "sku": "BUN3",
+        "sku_id": 3837,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.3,
+        "calculated_weight": 0.3,
+        "width": 3,
+        "height": 7,
+        "depth": 2,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 5,
+        "upc": "BUN3",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 9188,
+            "label": "SLEEP BALM",
+            "option_id": 6550,
+            "option_display_name": "Variant"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 14600,
+        "product_id": 2796,
+        "is_thumbnail": false,
+        "sort_order": 2,
+        "description": "",
+        "image_file": "k/616/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14600/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.1709919463.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14600/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.1709919463.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14600/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.1709919463.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14600/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.1709919463.80.80.PNG?c=2",
+        "date_modified": "2024-03-08T17:37:43+00:00"
+      },
+      {
+        "id": 14602,
+        "product_id": 2796,
+        "is_thumbnail": false,
+        "sort_order": 4,
+        "description": "",
+        "image_file": "z/490/89ced98d-799b-4722-92ab-835a1a5ef560__18711.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14602/89ced98d-799b-4722-92ab-835a1a5ef560__18711.1709919463.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14602/89ced98d-799b-4722-92ab-835a1a5ef560__18711.1709919463.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14602/89ced98d-799b-4722-92ab-835a1a5ef560__18711.1709919463.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14602/89ced98d-799b-4722-92ab-835a1a5ef560__18711.1709919463.80.80.PNG?c=2",
+        "date_modified": "2024-03-08T17:37:43+00:00"
+      },
+      {
+        "id": 16158,
+        "product_id": 2796,
+        "is_thumbnail": false,
+        "sort_order": 3,
+        "description": "",
+        "image_file": "w/140/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16158/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.1709919464.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16158/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.1709919464.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16158/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.1709919464.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16158/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.1709919464.80.80.PNG?c=2",
+        "date_modified": "2024-03-08T17:37:44+00:00"
+      },
+      {
+        "id": 16159,
+        "product_id": 2796,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "z/781/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16159/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.1709919465.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16159/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.1709919465.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16159/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.1709919465.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16159/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.1709919465.80.80.PNG?c=2",
+        "date_modified": "2024-03-08T17:37:45+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8947,
+      "option_label": "INCENSE MATCHES",
+      "option_values": [
+        {
+          "id": 9189,
+          "label": "INCENSE MATCHES",
+          "option_id": 6550,
+          "option_display_name": "Variant"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8947,
+        "product_id": 2796,
+        "sku": "BUN2",
+        "sku_id": 3835,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.3,
+        "calculated_weight": 0.3,
+        "width": 3,
+        "height": 7,
+        "depth": 2,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 5,
+        "upc": "BUN2",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 9189,
+            "label": "INCENSE MATCHES",
+            "option_id": 6550,
+            "option_display_name": "Variant"
+          }
+        ]
+      },
+      "new_product_id": 6261,
+      "images": [
+        {
+          "new_image_id": 21658,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16159/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.1709919465.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21659,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14600/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.1709919463.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21660,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16158/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.1709919464.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21661,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14602/89ced98d-799b-4722-92ab-835a1a5ef560__18711.1709919463.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8948,
+      "option_label": "LIP BALM",
+      "option_values": [
+        {
+          "id": 9190,
+          "label": "LIP BALM",
+          "option_id": 6550,
+          "option_display_name": "Variant"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8948,
+        "product_id": 2796,
+        "sku": "BUN1",
+        "sku_id": 3836,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.3,
+        "calculated_weight": 0.3,
+        "width": 3,
+        "height": 7,
+        "depth": 2,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 5,
+        "upc": "BUN1",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 9190,
+            "label": "LIP BALM",
+            "option_id": 6550,
+            "option_display_name": "Variant"
+          }
+        ]
+      },
+      "new_product_id": 6262,
+      "images": [
+        {
+          "new_image_id": 21662,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16159/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.1709919465.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21663,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14600/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.1709919463.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21664,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16158/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.1709919464.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21665,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14602/89ced98d-799b-4722-92ab-835a1a5ef560__18711.1709919463.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8949,
+      "option_label": "SLEEP BALM",
+      "option_values": [
+        {
+          "id": 9188,
+          "label": "SLEEP BALM",
+          "option_id": 6550,
+          "option_display_name": "Variant"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8949,
+        "product_id": 2796,
+        "sku": "BUN3",
+        "sku_id": 3837,
+        "price": 12,
+        "calculated_price": 12,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.3,
+        "calculated_weight": 0.3,
+        "width": 3,
+        "height": 7,
+        "depth": 2,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 5,
+        "upc": "BUN3",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 9188,
+            "label": "SLEEP BALM",
+            "option_id": 6550,
+            "option_display_name": "Variant"
+          }
+        ]
+      },
+      "new_product_id": 6263,
+      "images": [
+        {
+          "new_image_id": 21666,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16159/1075e588-8778-4d5f-806e-6b2b77cd3b0c__60232.1709919465.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21667,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14600/31eb1be7-57d5-4582-83da-7c89ccc58e93__68722.1709919463.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21668,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/16158/9a644b8b-8fe8-4e6b-aa73-6aa7492e2f85__31676.1709919464.380.380.PNG?c=2"
+        },
+        {
+          "new_image_id": 21669,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2796/images/14602/89ced98d-799b-4722-92ab-835a1a5ef560__18711.1709919463.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

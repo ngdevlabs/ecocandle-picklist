@@ -1,0 +1,14 @@
+2026-06-01 13:46:11,609 [INFO] ============================================================
+2026-06-01 13:46:11,610 [INFO]   Square → BigCommerce Migration Started
+2026-06-01 13:46:11,610 [INFO] ============================================================
+2026-06-01 13:46:11,610 [INFO] Starting Square customer fetch …
+2026-06-01 13:46:12,405 [ERROR] Square API error on page 1: 401 Client Error: Unauthorized for url: https://connect.squareup.com/v2/customers?limit=100
+2026-06-01 13:46:12,405 [INFO] Square fetch complete — 0 customers retrieved.
+2026-06-01 13:46:12,407 [WARNING] No customers found in Square. Exiting.
+2026-06-02 00:00:10,647 [INFO] ============================================================
+2026-06-02 00:00:10,647 [INFO]   Square → BigCommerce Migration Started
+2026-06-02 00:00:10,647 [INFO] ============================================================
+2026-06-02 00:00:10,647 [INFO] Starting Square customer fetch …
+2026-06-02 00:00:11,486 [ERROR] Square API error on page 1: 401 Client Error: Unauthorized for url: https://connect.squareup.com/v2/customers?limit=100
+2026-06-02 00:00:11,486 [INFO] Square fetch complete — 0 customers retrieved.
+2026-06-02 00:00:11,488 [WARNING] No customers found in Square. Exiting.

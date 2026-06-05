@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T18:52:13.424972Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 2740,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 2740,
+    "name": "mineral soak VITAMIN",
+    "type": "physical",
+    "sku": "MSKVIT",
+    "description": "<div class=\"powr-chat\" id=\"fa409859_1652894558\"></div>\n<p><span style=\"font-family: georgia, palatino; font-size: medium; color: #808080;\"><strong>VITAMIN mineral soak: kick those cold and flu symptoms with an antioxidant rich blend in relaxing Pacific sea salts.</strong></span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: small; color: #808080;\"><strong> 1lb 2oz / 510 g</strong></span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: small; color: #808080;\"><strong>Ingredients: Pacific Sea Salt, Ascorbic Acid (Vitamin C), Citrus Limon (Lemon) Essential Oil, Eucalyptus Globulus (Eucalyptus) Essential Oil, Melaleuca Alternifolia (Tea Tree) Essential Oil, Rosa Canina (Rose Hips) Powder, Hibiscus Sabdariffa (Hibiscus) Petal Powder, Echinacea Purpurea (Echinacea) Root Powder, Eleutherococcus Senticosus (Ginseng) Root Powder. </strong></span></p>\n<p><span style=\"font-family: georgia, palatino; font-size: small; color: #808080;\"><strong>Add 1-2 large handfuls to a warm bath and soak for 20 minutes.&nbsp;</strong></span></p>",
+    "weight": 1.8,
+    "width": 3,
+    "depth": 3,
+    "height": 5.5,
+    "price": 20,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 20,
+    "categories": [
+      61,
+      59
+    ],
+    "brand_id": 7,
+    "option_set_id": 1563,
+    "option_set_display": "right",
+    "inventory_level": 15,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 23,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-03-12T20:35:07+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "Most orders ship in 1-3 business days.",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 839,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "mineral soak VITAMIN | Eco Candle Co. | Bath soaks",
+    "meta_keywords": [
+      "New"
+    ],
+    "meta_description": "N",
+    "date_created": "2018-08-02T22:54:21+00:00",
+    "date_modified": "2025-11-29T19:39:01+00:00",
+    "view_count": 3990,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/bath-body/mineral-soak-vitamin/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8360,
+        "product_id": 2740,
+        "sku": "MSKVIT30",
+        "sku_id": 3561,
+        "price": 20,
+        "calculated_price": 20,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 7.3,
+        "upc": "700587119002",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 6,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8072,
+            "label": "large 30oz",
+            "option_id": 6467,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      },
+      {
+        "id": 8361,
+        "product_id": 2740,
+        "sku": "MSKVIT18",
+        "sku_id": 3562,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5037_source_1710439844.jpeg",
+        "cost_price": 4.4,
+        "upc": "700587119019",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8073,
+            "label": "small 18oz",
+            "option_id": 6467,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 15159,
+        "product_id": 2740,
+        "is_thumbnail": false,
+        "sort_order": 2,
+        "description": "",
+        "image_file": "w/384/263cb76f-91c6-4b46-a0dc-72574bd6a061__17708.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/15159/263cb76f-91c6-4b46-a0dc-72574bd6a061__17708.1710439831.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/15159/263cb76f-91c6-4b46-a0dc-72574bd6a061__17708.1710439831.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/15159/263cb76f-91c6-4b46-a0dc-72574bd6a061__17708.1710439831.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/15159/263cb76f-91c6-4b46-a0dc-72574bd6a061__17708.1710439831.80.80.jpg?c=2",
+        "date_modified": "2024-03-14T18:10:31+00:00"
+      },
+      {
+        "id": 9884,
+        "product_id": 2740,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "y/579/VITAMINMINERALSOAK__19816.jpg",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/9884/VITAMINMINERALSOAK__19816.1710439831.1280.1280.jpg?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/9884/VITAMINMINERALSOAK__19816.1710439831.380.380.jpg?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/9884/VITAMINMINERALSOAK__19816.1710439831.328.245.jpg?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/9884/VITAMINMINERALSOAK__19816.1710439831.80.80.jpg?c=2",
+        "date_modified": "2024-03-14T18:10:31+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8360,
+      "option_label": "large 30oz",
+      "option_values": [
+        {
+          "id": 8072,
+          "label": "large 30oz",
+          "option_id": 6467,
+          "option_display_name": "Choose your size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8360,
+        "product_id": 2740,
+        "sku": "MSKVIT30",
+        "sku_id": 3561,
+        "price": 20,
+        "calculated_price": 20,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "",
+        "cost_price": 7.3,
+        "upc": "700587119002",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 6,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8072,
+            "label": "large 30oz",
+            "option_id": 6467,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      },
+      "new_product_id": 6235,
+      "images": [
+        {
+          "new_image_id": 21603,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/9884/VITAMINMINERALSOAK__19816.1710439831.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21604,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/15159/263cb76f-91c6-4b46-a0dc-72574bd6a061__17708.1710439831.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8361,
+      "option_label": "small 18oz",
+      "option_values": [
+        {
+          "id": 8073,
+          "label": "small 18oz",
+          "option_id": 6467,
+          "option_display_name": "Choose your size"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8361,
+        "product_id": 2740,
+        "sku": "MSKVIT18",
+        "sku_id": 3562,
+        "price": 15,
+        "calculated_price": 15,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 1.8,
+        "calculated_weight": 1.8,
+        "width": 3,
+        "height": 5.5,
+        "depth": 3,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5037_source_1710439844.jpeg",
+        "cost_price": 4.4,
+        "upc": "700587119019",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 9,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8073,
+            "label": "small 18oz",
+            "option_id": 6467,
+            "option_display_name": "Choose your size"
+          }
+        ]
+      },
+      "new_product_id": 6236,
+      "images": [
+        {
+          "new_image_id": 21605,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/9884/VITAMINMINERALSOAK__19816.1710439831.380.380.jpg?c=2"
+        },
+        {
+          "new_image_id": 21606,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/2740/images/15159/263cb76f-91c6-4b46-a0dc-72574bd6a061__17708.1710439831.380.380.jpg?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

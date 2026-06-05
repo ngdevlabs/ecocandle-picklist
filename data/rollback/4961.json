@@ -1,0 +1,2359 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:06:03.847519Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 4961,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 4961,
+    "name": "scented sachet YEAR-ROUND",
+    "type": "physical",
+    "sku": "SACH",
+    "description": "Scented beads in a decorative organza bag for use in your vehicle, drawers, storage chests, closets, lockers, gym bags or anywhere you'd like a fresh scent!",
+    "weight": 0.1,
+    "width": 3,
+    "depth": 1,
+    "height": 4,
+    "price": 4,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 0,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 4,
+    "categories": [
+      234,
+      184,
+      162,
+      93,
+      145,
+      225,
+      142,
+      168,
+      180,
+      154,
+      149,
+      183,
+      156,
+      170,
+      176,
+      235,
+      185,
+      167,
+      181,
+      153,
+      171,
+      224,
+      140,
+      151,
+      148,
+      155,
+      177,
+      159,
+      141,
+      182,
+      164,
+      150,
+      175,
+      1,
+      172,
+      161,
+      163,
+      179,
+      157,
+      166,
+      178,
+      223,
+      160,
+      139,
+      152,
+      158,
+      254,
+      143
+    ],
+    "brand_id": 1,
+    "option_set_id": 1421,
+    "option_set_display": "right",
+    "inventory_level": 22024,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 906,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "product.html",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": "2024-03-12T22:55:14+00:00",
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "scented SACHET | Eco Candle Co.",
+    "meta_keywords": [],
+    "meta_description": "Scented sachets are the perfect scented companion to use anywhere - from duffel bags, to drawers and closets, to automobiles. Add a fresh scent anywhere!",
+    "date_created": "2023-08-07T18:05:19+00:00",
+    "date_modified": "2026-05-11T21:05:22+00:00",
+    "view_count": 287,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/home-fragrance/scented-sachet/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 8224,
+        "product_id": 4961,
+        "sku": "SACHLAV",
+        "sku_id": 3426,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4958_source_1772223549.png",
+        "cost_price": 1.4,
+        "upc": "632930393480",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 903,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6398,
+            "label": "lavender dreams",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8225,
+        "product_id": 4961,
+        "sku": "SACHHYM",
+        "sku_id": 3427,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4959_source_1772223553.png",
+        "cost_price": 1.4,
+        "upc": "632930399437",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 989,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6399,
+            "label": "honey mango",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8226,
+        "product_id": 4961,
+        "sku": "SACHHOM",
+        "sku_id": 3428,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4960_source_1772223556.png",
+        "cost_price": 1.4,
+        "upc": "632930397105",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 973,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6400,
+            "label": "homesick",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8228,
+        "product_id": 4961,
+        "sku": "SACHGOD",
+        "sku_id": 3430,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4962_source_1772223564.png",
+        "cost_price": 1.4,
+        "upc": "632930401147",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 794,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6402,
+            "label": "goddess",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8229,
+        "product_id": 4961,
+        "sku": "SACHGAR",
+        "sku_id": 3431,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4963_source_1772223568.png",
+        "cost_price": 1.4,
+        "upc": "700587118630",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6403,
+            "label": "gardenia & guava",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8230,
+        "product_id": 4961,
+        "sku": "SACHFIG",
+        "sku_id": 3432,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4964_source_1772223571.png",
+        "cost_price": 1.4,
+        "upc": "632930396559",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 959,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6404,
+            "label": "fig & oak",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8231,
+        "product_id": 4961,
+        "sku": "SACHESA",
+        "sku_id": 3433,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4965_source_1772223575.png",
+        "cost_price": 1.4,
+        "upc": "700587118647",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 928,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6405,
+            "label": "eucalyptus sage",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8232,
+        "product_id": 4961,
+        "sku": "SACHEUC",
+        "sku_id": 3434,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4966_source_1772223579.png",
+        "cost_price": 1.4,
+        "upc": "632930392940",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 954,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6406,
+            "label": "eucalyptus mint",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8233,
+        "product_id": 4961,
+        "sku": "SACHCUP",
+        "sku_id": 3435,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4967_source_1772223582.png",
+        "cost_price": 1.4,
+        "upc": "632930397075",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 975,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6407,
+            "label": "cupcake",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8234,
+        "product_id": 4961,
+        "sku": "SACHCOB",
+        "sku_id": 3436,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4968_source_1772223586.png",
+        "cost_price": 1.4,
+        "upc": "632930399482",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 986,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6408,
+            "label": "coffee bean",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8235,
+        "product_id": 4961,
+        "sku": "SACHCSD",
+        "sku_id": 3437,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4969_source_1772223594.png",
+        "cost_price": 1.4,
+        "upc": "632930392551",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 856,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6409,
+            "label": "clean sheet day",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8236,
+        "product_id": 4961,
+        "sku": "SACHCIT",
+        "sku_id": 3438,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4970_source_1772223598.png",
+        "cost_price": 1.4,
+        "upc": "632930392445",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 940,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6410,
+            "label": "citrus squeeze",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8237,
+        "product_id": 4961,
+        "sku": "SACHCHM",
+        "sku_id": 3439,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4971_source_1772223602.png",
+        "cost_price": 1.4,
+        "upc": "632930392117",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 926,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6411,
+            "label": "chamomile sage",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8238,
+        "product_id": 4961,
+        "sku": "SACHBOT",
+        "sku_id": 3440,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4972_source_1772223614.png",
+        "cost_price": 1.4,
+        "upc": "632930396306",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 976,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6379,
+            "label": "botanica",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8239,
+        "product_id": 4961,
+        "sku": "SACHBRB",
+        "sku_id": 3441,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4973_source_1772223618.png",
+        "cost_price": 1.4,
+        "upc": "700587118654",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 965,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6412,
+            "label": "bourbon vanilla",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8240,
+        "product_id": 4961,
+        "sku": "SACHBON",
+        "sku_id": 3442,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4974_source_1772223621.png",
+        "cost_price": 1.4,
+        "upc": "632930394487",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 987,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6380,
+            "label": "bonfire",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8241,
+        "product_id": 4961,
+        "sku": "SACHBEA",
+        "sku_id": 3443,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4975_source_1772223628.png",
+        "cost_price": 1.4,
+        "upc": "632930392001",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 1944,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6413,
+            "label": "beach house",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8242,
+        "product_id": 4961,
+        "sku": "SACHBAB",
+        "sku_id": 3444,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4976_source_1772223631.png",
+        "cost_price": 1.4,
+        "upc": "632930391899",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 920,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6414,
+            "label": "baby\u2019s butt",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8566,
+        "product_id": 4961,
+        "sku": "SACHBTH",
+        "sku_id": 3757,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5210_source_1772223625.png",
+        "cost_price": 1.4,
+        "upc": "632930394210",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 989,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8315,
+            "label": "black tea & honey",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8569,
+        "product_id": 4961,
+        "sku": "SACHCLG",
+        "sku_id": 3760,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5213_source_1772223590.png",
+        "cost_price": 1.4,
+        "upc": "632930399475",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8313,
+            "label": "coconut lemongrass",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8570,
+        "product_id": 4961,
+        "sku": "SACHCAR",
+        "sku_id": 3761,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5214_source_1772223611.png",
+        "cost_price": 1.4,
+        "upc": "632930397532",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8314,
+            "label": "caramel rum cake",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8879,
+        "product_id": 4961,
+        "sku": "SACHHBY",
+        "sku_id": 3822,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5272_source_1772223560.png",
+        "cost_price": 1.4,
+        "upc": "632930395972",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 77,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8888,
+            "label": "harvest berry",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 8893,
+        "product_id": 4961,
+        "sku": "SACHCED",
+        "sku_id": 3823,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5273_source_1772223607.png",
+        "cost_price": 1.4,
+        "upc": "632930399529",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 57,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8889,
+            "label": "cedar & sandalwood",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9685,
+        "product_id": 4961,
+        "sku": "SACHMYR",
+        "sku_id": 3990,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5556_source_1778079545.png",
+        "cost_price": 1.4,
+        "upc": "632930401451",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 998,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10226,
+            "label": "meyer lemon",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 19151,
+        "product_id": 4961,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "l/608/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.80.80.PNG?c=2",
+        "date_modified": "2024-12-18T19:15:04+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 8224,
+      "option_label": "lavender dreams",
+      "option_values": [
+        {
+          "id": 6398,
+          "label": "lavender dreams",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8224,
+        "product_id": 4961,
+        "sku": "SACHLAV",
+        "sku_id": 3426,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4958_source_1772223549.png",
+        "cost_price": 1.4,
+        "upc": "632930393480",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 903,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6398,
+            "label": "lavender dreams",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6337,
+      "images": [
+        {
+          "new_image_id": 21837,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8225,
+      "option_label": "honey mango",
+      "option_values": [
+        {
+          "id": 6399,
+          "label": "honey mango",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8225,
+        "product_id": 4961,
+        "sku": "SACHHYM",
+        "sku_id": 3427,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4959_source_1772223553.png",
+        "cost_price": 1.4,
+        "upc": "632930399437",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 989,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6399,
+            "label": "honey mango",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6338,
+      "images": [
+        {
+          "new_image_id": 21838,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8226,
+      "option_label": "homesick",
+      "option_values": [
+        {
+          "id": 6400,
+          "label": "homesick",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8226,
+        "product_id": 4961,
+        "sku": "SACHHOM",
+        "sku_id": 3428,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4960_source_1772223556.png",
+        "cost_price": 1.4,
+        "upc": "632930397105",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 973,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6400,
+            "label": "homesick",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6339,
+      "images": [
+        {
+          "new_image_id": 21839,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8228,
+      "option_label": "goddess",
+      "option_values": [
+        {
+          "id": 6402,
+          "label": "goddess",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8228,
+        "product_id": 4961,
+        "sku": "SACHGOD",
+        "sku_id": 3430,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4962_source_1772223564.png",
+        "cost_price": 1.4,
+        "upc": "632930401147",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 794,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6402,
+            "label": "goddess",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6340,
+      "images": [
+        {
+          "new_image_id": 21840,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8229,
+      "option_label": "gardenia & guava",
+      "option_values": [
+        {
+          "id": 6403,
+          "label": "gardenia & guava",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8229,
+        "product_id": 4961,
+        "sku": "SACHGAR",
+        "sku_id": 3431,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4963_source_1772223568.png",
+        "cost_price": 1.4,
+        "upc": "700587118630",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6403,
+            "label": "gardenia & guava",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6342,
+      "images": [
+        {
+          "new_image_id": 21842,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8230,
+      "option_label": "fig & oak",
+      "option_values": [
+        {
+          "id": 6404,
+          "label": "fig & oak",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8230,
+        "product_id": 4961,
+        "sku": "SACHFIG",
+        "sku_id": 3432,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4964_source_1772223571.png",
+        "cost_price": 1.4,
+        "upc": "632930396559",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 959,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6404,
+            "label": "fig & oak",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6344,
+      "images": [
+        {
+          "new_image_id": 21844,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8231,
+      "option_label": "eucalyptus sage",
+      "option_values": [
+        {
+          "id": 6405,
+          "label": "eucalyptus sage",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8231,
+        "product_id": 4961,
+        "sku": "SACHESA",
+        "sku_id": 3433,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4965_source_1772223575.png",
+        "cost_price": 1.4,
+        "upc": "700587118647",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 928,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6405,
+            "label": "eucalyptus sage",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6346,
+      "images": [
+        {
+          "new_image_id": 21846,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8232,
+      "option_label": "eucalyptus mint",
+      "option_values": [
+        {
+          "id": 6406,
+          "label": "eucalyptus mint",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8232,
+        "product_id": 4961,
+        "sku": "SACHEUC",
+        "sku_id": 3434,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4966_source_1772223579.png",
+        "cost_price": 1.4,
+        "upc": "632930392940",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 954,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6406,
+            "label": "eucalyptus mint",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6348,
+      "images": [
+        {
+          "new_image_id": 21848,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8233,
+      "option_label": "cupcake",
+      "option_values": [
+        {
+          "id": 6407,
+          "label": "cupcake",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8233,
+        "product_id": 4961,
+        "sku": "SACHCUP",
+        "sku_id": 3435,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4967_source_1772223582.png",
+        "cost_price": 1.4,
+        "upc": "632930397075",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 975,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6407,
+            "label": "cupcake",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6350,
+      "images": [
+        {
+          "new_image_id": 21850,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8234,
+      "option_label": "coffee bean",
+      "option_values": [
+        {
+          "id": 6408,
+          "label": "coffee bean",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8234,
+        "product_id": 4961,
+        "sku": "SACHCOB",
+        "sku_id": 3436,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4968_source_1772223586.png",
+        "cost_price": 1.4,
+        "upc": "632930399482",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 986,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6408,
+            "label": "coffee bean",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6352,
+      "images": [
+        {
+          "new_image_id": 21852,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8235,
+      "option_label": "clean sheet day",
+      "option_values": [
+        {
+          "id": 6409,
+          "label": "clean sheet day",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8235,
+        "product_id": 4961,
+        "sku": "SACHCSD",
+        "sku_id": 3437,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4969_source_1772223594.png",
+        "cost_price": 1.4,
+        "upc": "632930392551",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 856,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6409,
+            "label": "clean sheet day",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6354,
+      "images": [
+        {
+          "new_image_id": 21853,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8236,
+      "option_label": "citrus squeeze",
+      "option_values": [
+        {
+          "id": 6410,
+          "label": "citrus squeeze",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8236,
+        "product_id": 4961,
+        "sku": "SACHCIT",
+        "sku_id": 3438,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4970_source_1772223598.png",
+        "cost_price": 1.4,
+        "upc": "632930392445",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 940,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6410,
+            "label": "citrus squeeze",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6355,
+      "images": [
+        {
+          "new_image_id": 21855,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8237,
+      "option_label": "chamomile sage",
+      "option_values": [
+        {
+          "id": 6411,
+          "label": "chamomile sage",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8237,
+        "product_id": 4961,
+        "sku": "SACHCHM",
+        "sku_id": 3439,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4971_source_1772223602.png",
+        "cost_price": 1.4,
+        "upc": "632930392117",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 926,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6411,
+            "label": "chamomile sage",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6357,
+      "images": [
+        {
+          "new_image_id": 21857,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8238,
+      "option_label": "botanica",
+      "option_values": [
+        {
+          "id": 6379,
+          "label": "botanica",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8238,
+        "product_id": 4961,
+        "sku": "SACHBOT",
+        "sku_id": 3440,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4972_source_1772223614.png",
+        "cost_price": 1.4,
+        "upc": "632930396306",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 976,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6379,
+            "label": "botanica",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6359,
+      "images": [
+        {
+          "new_image_id": 21859,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8239,
+      "option_label": "bourbon vanilla",
+      "option_values": [
+        {
+          "id": 6412,
+          "label": "bourbon vanilla",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8239,
+        "product_id": 4961,
+        "sku": "SACHBRB",
+        "sku_id": 3441,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4973_source_1772223618.png",
+        "cost_price": 1.4,
+        "upc": "700587118654",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 965,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6412,
+            "label": "bourbon vanilla",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6361,
+      "images": [
+        {
+          "new_image_id": 21861,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8240,
+      "option_label": "bonfire",
+      "option_values": [
+        {
+          "id": 6380,
+          "label": "bonfire",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8240,
+        "product_id": 4961,
+        "sku": "SACHBON",
+        "sku_id": 3442,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4974_source_1772223621.png",
+        "cost_price": 1.4,
+        "upc": "632930394487",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 987,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6380,
+            "label": "bonfire",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6363,
+      "images": [
+        {
+          "new_image_id": 21863,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8241,
+      "option_label": "beach house",
+      "option_values": [
+        {
+          "id": 6413,
+          "label": "beach house",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8241,
+        "product_id": 4961,
+        "sku": "SACHBEA",
+        "sku_id": 3443,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4975_source_1772223628.png",
+        "cost_price": 1.4,
+        "upc": "632930392001",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 1944,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6413,
+            "label": "beach house",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6365,
+      "images": [
+        {
+          "new_image_id": 21866,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8242,
+      "option_label": "baby\u2019s butt",
+      "option_values": [
+        {
+          "id": 6414,
+          "label": "baby\u2019s butt",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8242,
+        "product_id": 4961,
+        "sku": "SACHBAB",
+        "sku_id": 3444,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/4976_source_1772223631.png",
+        "cost_price": 1.4,
+        "upc": "632930391899",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 920,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 6414,
+            "label": "baby\u2019s butt",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6368,
+      "images": [
+        {
+          "new_image_id": 21867,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8566,
+      "option_label": "black tea & honey",
+      "option_values": [
+        {
+          "id": 8315,
+          "label": "black tea & honey",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8566,
+        "product_id": 4961,
+        "sku": "SACHBTH",
+        "sku_id": 3757,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5210_source_1772223625.png",
+        "cost_price": 1.4,
+        "upc": "632930394210",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 989,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8315,
+            "label": "black tea & honey",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6369,
+      "images": [
+        {
+          "new_image_id": 21868,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8569,
+      "option_label": "coconut lemongrass",
+      "option_values": [
+        {
+          "id": 8313,
+          "label": "coconut lemongrass",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8569,
+        "product_id": 4961,
+        "sku": "SACHCLG",
+        "sku_id": 3760,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5213_source_1772223590.png",
+        "cost_price": 1.4,
+        "upc": "632930399475",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 972,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8313,
+            "label": "coconut lemongrass",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6370,
+      "images": [
+        {
+          "new_image_id": 21869,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8570,
+      "option_label": "caramel rum cake",
+      "option_values": [
+        {
+          "id": 8314,
+          "label": "caramel rum cake",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8570,
+        "product_id": 4961,
+        "sku": "SACHCAR",
+        "sku_id": 3761,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5214_source_1772223611.png",
+        "cost_price": 1.4,
+        "upc": "632930397532",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 984,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8314,
+            "label": "caramel rum cake",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6371,
+      "images": [
+        {
+          "new_image_id": 21870,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8879,
+      "option_label": "harvest berry",
+      "option_values": [
+        {
+          "id": 8888,
+          "label": "harvest berry",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8879,
+        "product_id": 4961,
+        "sku": "SACHHBY",
+        "sku_id": 3822,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5272_source_1772223560.png",
+        "cost_price": 1.4,
+        "upc": "632930395972",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 77,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8888,
+            "label": "harvest berry",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6372,
+      "images": [
+        {
+          "new_image_id": 21871,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 8893,
+      "option_label": "cedar & sandalwood",
+      "option_values": [
+        {
+          "id": 8889,
+          "label": "cedar & sandalwood",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 8893,
+        "product_id": 4961,
+        "sku": "SACHCED",
+        "sku_id": 3823,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5273_source_1772223607.png",
+        "cost_price": 1.4,
+        "upc": "632930399529",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 57,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 8889,
+            "label": "cedar & sandalwood",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6374,
+      "images": [
+        {
+          "new_image_id": 21873,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9685,
+      "option_label": "meyer lemon",
+      "option_values": [
+        {
+          "id": 10226,
+          "label": "meyer lemon",
+          "option_id": 6442,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9685,
+        "product_id": 4961,
+        "sku": "SACHMYR",
+        "sku_id": 3990,
+        "price": 4,
+        "calculated_price": 4,
+        "sale_price": null,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5556_source_1778079545.png",
+        "cost_price": 1.4,
+        "upc": "632930401451",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 998,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10226,
+            "label": "meyer lemon",
+            "option_id": 6442,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6375,
+      "images": [
+        {
+          "new_image_id": 21875,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/4961/images/19151/458cdc7d-cf35-4262-a137-b081b2ac75a9__85106.1734549304.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

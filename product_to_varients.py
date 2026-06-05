@@ -135,5 +135,5 @@ def revert(backup_path: str):
 # ── entry point ───────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    backup_file = 'data/rollback_124.json'
+    backup_file = 'data/rollback/2724.json'
     revert(backup_file)

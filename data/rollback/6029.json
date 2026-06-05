@@ -1,0 +1,933 @@
+{
+  "schema_version": "1.0",
+  "created_at": "2026-05-22T19:39:02.759460Z",
+  "store_hash": "m1lvy",
+  "original_product_id": 6029,
+  "original_product_deleted": false,
+  "original_product_snapshot": {
+    "id": 6029,
+    "name": "scented sachet HOLIDAY",
+    "type": "physical",
+    "sku": "SACHH",
+    "description": "<p>Scented beads in a decorative organza bag for use in your vehicle, drawers, storage chests, closets, lockers, gym bags or anywhere you'd like a fresh scent!</p>",
+    "weight": 0.1,
+    "width": 3,
+    "depth": 1,
+    "height": 4,
+    "price": 4,
+    "cost_price": 0,
+    "retail_price": 0,
+    "sale_price": 2,
+    "map_price": 0,
+    "tax_class_id": 0,
+    "product_tax_code": "",
+    "calculated_price": 2,
+    "categories": [
+      130,
+      128
+    ],
+    "brand_id": 1,
+    "option_set_id": 1702,
+    "option_set_display": "right",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "inventory_tracking": "variant",
+    "reviews_rating_sum": 0,
+    "reviews_count": 0,
+    "total_sold": 14,
+    "fixed_cost_shipping_price": 0,
+    "is_free_shipping": false,
+    "is_visible": true,
+    "is_featured": false,
+    "related_products": [
+      -1
+    ],
+    "warranty": "",
+    "bin_picking_number": "",
+    "layout_file": "",
+    "upc": "",
+    "mpn": "",
+    "gtin": "",
+    "date_last_imported": null,
+    "search_keywords": "",
+    "availability": "available",
+    "availability_description": "",
+    "gift_wrapping_options_type": "any",
+    "gift_wrapping_options_list": [],
+    "sort_order": 0,
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "page_title": "",
+    "meta_keywords": [],
+    "meta_description": "",
+    "date_created": "2026-01-04T21:29:18+00:00",
+    "date_modified": "2026-03-03T15:24:15+00:00",
+    "view_count": 0,
+    "preorder_release_date": null,
+    "preorder_message": "",
+    "is_preorder_only": false,
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "custom_url": {
+      "url": "/cedar-sandalwood/scented-sachet-holiday/",
+      "is_customized": false
+    },
+    "base_variant_id": null,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "open_graph_use_meta_description": true,
+    "open_graph_use_product_name": true,
+    "open_graph_use_image": true,
+    "variants": [
+      {
+        "id": 9511,
+        "product_id": 6029,
+        "sku": "SACHATM",
+        "sku_id": 3949,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5511_source_1771957155.png",
+        "cost_price": 1.4,
+        "upc": "632930395644",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10019,
+            "label": "autumn equinox",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9512,
+        "product_id": 6029,
+        "sku": "SACHBLC",
+        "sku_id": 3950,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5512_source_1771957153.png",
+        "cost_price": 1.4,
+        "upc": "632930398997",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10020,
+            "label": "blue christmas",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9513,
+        "product_id": 6029,
+        "sku": "SACHCCR",
+        "sku_id": 3951,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5513_source_1771957150.png",
+        "cost_price": 1.4,
+        "upc": "632930394746",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10021,
+            "label": "crushed cranberry",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9514,
+        "product_id": 6029,
+        "sku": "SACHEGG",
+        "sku_id": 3952,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5514_source_1771957147.png",
+        "cost_price": 1.4,
+        "upc": "632930398423",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10022,
+            "label": "eggnog",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9515,
+        "product_id": 6029,
+        "sku": "SACHORG",
+        "sku_id": 3953,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5515_source_1771957160.png",
+        "cost_price": 1.4,
+        "upc": "632930393053",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10023,
+            "label": "orange clove",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9516,
+        "product_id": 6029,
+        "sku": "SACHPUM",
+        "sku_id": 3954,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5516_source_1771957145.png",
+        "cost_price": 1.4,
+        "upc": "632930395002",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10024,
+            "label": "pumpkin pecan",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9517,
+        "product_id": 6029,
+        "sku": "SACHSNO",
+        "sku_id": 3955,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5517_source_1771957158.png",
+        "cost_price": 1.4,
+        "upc": "632930395040",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10025,
+            "label": "snowflakes",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9518,
+        "product_id": 6029,
+        "sku": "SACHSLR",
+        "sku_id": 3956,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5518_source_1771957142.png",
+        "cost_price": 1.4,
+        "upc": "632930395033",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10026,
+            "label": "sleigh ride",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      {
+        "id": 9519,
+        "product_id": 6029,
+        "sku": "SACHWWL",
+        "sku_id": 3957,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5519_source_1771957139.png",
+        "cost_price": 1.4,
+        "upc": "632930395026",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10027,
+            "label": "winter wonderland",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "id": 20807,
+        "product_id": 6029,
+        "is_thumbnail": true,
+        "sort_order": 1,
+        "description": "",
+        "image_file": "g/443/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.PNG",
+        "url_zoom": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.1280.1280.PNG?c=2",
+        "url_standard": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2",
+        "url_thumbnail": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.328.245.PNG?c=2",
+        "url_tiny": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.80.80.PNG?c=2",
+        "date_modified": "2026-01-04T21:29:22+00:00"
+      }
+    ],
+    "custom_fields": []
+  },
+  "split_products": [
+    {
+      "variant_id": 9511,
+      "option_label": "autumn equinox",
+      "option_values": [
+        {
+          "id": 10019,
+          "label": "autumn equinox",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9511,
+        "product_id": 6029,
+        "sku": "SACHATM",
+        "sku_id": 3949,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5511_source_1771957155.png",
+        "cost_price": 1.4,
+        "upc": "632930395644",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10019,
+            "label": "autumn equinox",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6453,
+      "images": [
+        {
+          "new_image_id": 22061,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9512,
+      "option_label": "blue christmas",
+      "option_values": [
+        {
+          "id": 10020,
+          "label": "blue christmas",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9512,
+        "product_id": 6029,
+        "sku": "SACHBLC",
+        "sku_id": 3950,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5512_source_1771957153.png",
+        "cost_price": 1.4,
+        "upc": "632930398997",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10020,
+            "label": "blue christmas",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6454,
+      "images": [
+        {
+          "new_image_id": 22062,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9513,
+      "option_label": "crushed cranberry",
+      "option_values": [
+        {
+          "id": 10021,
+          "label": "crushed cranberry",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9513,
+        "product_id": 6029,
+        "sku": "SACHCCR",
+        "sku_id": 3951,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5513_source_1771957150.png",
+        "cost_price": 1.4,
+        "upc": "632930394746",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10021,
+            "label": "crushed cranberry",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6455,
+      "images": [
+        {
+          "new_image_id": 22063,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9514,
+      "option_label": "eggnog",
+      "option_values": [
+        {
+          "id": 10022,
+          "label": "eggnog",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9514,
+        "product_id": 6029,
+        "sku": "SACHEGG",
+        "sku_id": 3952,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5514_source_1771957147.png",
+        "cost_price": 1.4,
+        "upc": "632930398423",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10022,
+            "label": "eggnog",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6456,
+      "images": [
+        {
+          "new_image_id": 22064,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9515,
+      "option_label": "orange clove",
+      "option_values": [
+        {
+          "id": 10023,
+          "label": "orange clove",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9515,
+        "product_id": 6029,
+        "sku": "SACHORG",
+        "sku_id": 3953,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5515_source_1771957160.png",
+        "cost_price": 1.4,
+        "upc": "632930393053",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10023,
+            "label": "orange clove",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6457,
+      "images": [
+        {
+          "new_image_id": 22065,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9516,
+      "option_label": "pumpkin pecan",
+      "option_values": [
+        {
+          "id": 10024,
+          "label": "pumpkin pecan",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9516,
+        "product_id": 6029,
+        "sku": "SACHPUM",
+        "sku_id": 3954,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5516_source_1771957145.png",
+        "cost_price": 1.4,
+        "upc": "632930395002",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10024,
+            "label": "pumpkin pecan",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6458,
+      "images": [
+        {
+          "new_image_id": 22066,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9517,
+      "option_label": "snowflakes",
+      "option_values": [
+        {
+          "id": 10025,
+          "label": "snowflakes",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9517,
+        "product_id": 6029,
+        "sku": "SACHSNO",
+        "sku_id": 3955,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5517_source_1771957158.png",
+        "cost_price": 1.4,
+        "upc": "632930395040",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10025,
+            "label": "snowflakes",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6459,
+      "images": [
+        {
+          "new_image_id": 22067,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9518,
+      "option_label": "sleigh ride",
+      "option_values": [
+        {
+          "id": 10026,
+          "label": "sleigh ride",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9518,
+        "product_id": 6029,
+        "sku": "SACHSLR",
+        "sku_id": 3956,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5518_source_1771957142.png",
+        "cost_price": 1.4,
+        "upc": "632930395033",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10026,
+            "label": "sleigh ride",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6460,
+      "images": [
+        {
+          "new_image_id": 22068,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    },
+    {
+      "variant_id": 9519,
+      "option_label": "winter wonderland",
+      "option_values": [
+        {
+          "id": 10027,
+          "label": "winter wonderland",
+          "option_id": 6669,
+          "option_display_name": "choose your fragrance"
+        }
+      ],
+      "original_variant_snapshot": {
+        "id": 9519,
+        "product_id": 6029,
+        "sku": "SACHWWL",
+        "sku_id": 3957,
+        "price": 4,
+        "calculated_price": 2,
+        "sale_price": 2,
+        "retail_price": null,
+        "map_price": null,
+        "weight": 0.1,
+        "calculated_weight": 0.1,
+        "width": 3,
+        "height": 4,
+        "depth": 1,
+        "is_free_shipping": false,
+        "fixed_cost_shipping_price": null,
+        "purchasing_disabled": false,
+        "purchasing_disabled_message": "",
+        "image_url": "https://cdn11.bigcommerce.com/s-m1lvy/product_images/attribute_rule_images/5519_source_1771957139.png",
+        "cost_price": 1.4,
+        "upc": "632930395026",
+        "mpn": "",
+        "gtin": "",
+        "inventory_level": 0,
+        "inventory_warning_level": 0,
+        "bin_picking_number": "",
+        "option_values": [
+          {
+            "id": 10027,
+            "label": "winter wonderland",
+            "option_id": 6669,
+            "option_display_name": "choose your fragrance"
+          }
+        ]
+      },
+      "new_product_id": 6461,
+      "images": [
+        {
+          "new_image_id": 22069,
+          "url": "https://cdn11.bigcommerce.com/s-m1lvy/products/6029/images/20807/458cdc7d-cf35-4262-a137-b081b2ac75a9__83644.1767562162.380.380.PNG?c=2"
+        }
+      ],
+      "custom_fields": []
+    }
+  ]
+}

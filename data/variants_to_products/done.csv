@@ -1,0 +1,234 @@
+product_id,product_name,variant_id,variant_sku,variant_price,option_values
+2724,kraft diffuser BOX ONLY,7917,KDB1,2,quantity: single boxes
+2724,kraft diffuser BOX ONLY,7918,KDB250,425,quantity: case of 250
+2738,mineral soak DETOX,8389,MSKDET18,15,Choose your size: small 18oz
+2738,mineral soak DETOX,8390,MSKDET30,20,Choose your size: large 30oz
+2739,mineral soak SLEEPY TIME,8362,MSKSLP18,15,Choose your size: small 18oz
+2739,mineral soak SLEEPY TIME,8363,MSKSLP30,20,Choose your size: large 30oz
+2740,mineral soak VITAMIN,8360,MSKVIT30,20,Choose your size: large 30oz
+2740,mineral soak VITAMIN,8361,MSKVIT18,15,Choose your size: small 18oz
+2776,hand & body WASH,8280,HBWBAB,12,choose your fragrance: baby's butt
+2776,hand & body WASH,8281,HBWLAVD,12,choose your fragrance: lavender dreams
+2776,hand & body WASH,8282,HBWLVY,12,choose your fragrance: lovely
+2776,hand & body WASH,8283,HBWNAG,12,choose your fragrance: nag champa
+2776,hand & body WASH,8284,HBWSPA,12,choose your fragrance: spa day
+2776,hand & body WASH,8285,HBWWTG,12,choose your fragrance: white tea & ginger
+2776,hand & body WASH,8287,HBWEOCAL,12,choose your fragrance: calm (pure essential oil blend)
+2776,hand & body WASH,8289,HBWEOPAT,12,choose your fragrance: patchouli (pure essential oil blend)
+2776,hand & body WASH,8292,HBWHYM,12,choose your fragrance: honey mango
+2776,hand & body WASH,8296,HBWEOSOO,12,choose your fragrance: soothe (pure essential oil blend)
+2776,hand & body WASH,8297,HBWGOD,12,choose your fragrance: goddess
+2776,hand & body WASH,8504,HBWEUC,12,choose your fragrance: eucalyptus mint
+2776,hand & body WASH,8505,HBWLGS,12,choose your fragrance: lemongrass sage
+2776,hand & body WASH,8898,HBWCHM,12,choose your fragrance: chamomile sage
+2776,hand & body WASH,8899,HBWESA,12,choose your fragrance: eucalyptus sage
+2782,dead sea & himalayan MINERAL SCRUB,8299,MSEOCAL,16,choose your fragrance: calm (essential oil blend)
+2782,dead sea & himalayan MINERAL SCRUB,8301,MSHYM,16,choose your fragrance: honey mango
+2782,dead sea & himalayan MINERAL SCRUB,8302,MSGOD,16,choose your fragrance: goddess
+2782,dead sea & himalayan MINERAL SCRUB,8303,MSEUC,16,choose your fragrance: eucalyptus mint
+2782,dead sea & himalayan MINERAL SCRUB,8304,MSLAV,16,choose your fragrance: lavender dreams
+2782,dead sea & himalayan MINERAL SCRUB,8305,MSSPA,16,choose your fragrance: spa day
+2782,dead sea & himalayan MINERAL SCRUB,8306,MSLVY,16,choose your fragrance: lovely
+2782,dead sea & himalayan MINERAL SCRUB,8307,MSNAG,16,choose your fragrance: nag champa
+2782,dead sea & himalayan MINERAL SCRUB,8308,MSBAB,16,choose your fragrance: baby's butt
+2796,bunny bag DONATION,8947,BUN2,12,Variant: INCENSE MATCHES
+2796,bunny bag DONATION,8948,BUN1,12,Variant: LIP BALM
+2796,bunny bag DONATION,8949,BUN3,12,Variant: SLEEP BALM
+4101,organic body LOTION,8256,LOTCHM,16,choose your fragrance: chamomile sage
+4101,organic body LOTION,8257,LOTNKD,16,choose your fragrance: naked (unscented)
+4101,organic body LOTION,8259,LOTEOSOO,16,choose your fragrance: soothe (pure essential oil blend)
+4101,organic body LOTION,8260,LOTEUC,16,choose your fragrance: eucalyptus mint
+4101,organic body LOTION,8262,LOTEOCAL,16,choose your fragrance: calm (pure essential oil blend)
+4101,organic body LOTION,8265,LOTESA,16,choose your fragrance: eucalyptus sage
+4101,organic body LOTION,8266,LOTEOPAT,16,choose your fragrance: patchouli (pure essential oil blend)
+4101,organic body LOTION,8268,LOTHYM,16,choose your fragrance: honey mango
+4101,organic body LOTION,8269,LOTLGS,16,choose your fragrance: lemongrass sage
+4101,organic body LOTION,8270,LOTWTG,16,choose your fragrance: white tea & ginger
+4101,organic body LOTION,8271,LOTLAV,16,choose your fragrance: lavender dreams
+4101,organic body LOTION,8273,LOTGOD,16,choose your fragrance: goddess
+4101,organic body LOTION,8274,LOTBAB,16,choose your fragrance: baby's butt
+4101,organic body LOTION,8275,LOTLVY,16,choose your fragrance: lovely
+4101,organic body LOTION,8278,LOTNAG,16,choose your fragrance: nag champa
+4101,organic body LOTION,8279,LOTSPA,16,choose your fragrance: spa day
+4634,massage & body OIL,8329,BODSOO,15,choose your fragrance: soothe (pure essential oil blend)
+4634,massage & body OIL,8331,BODCAL,15,choose your fragrance: calm (pure essential oil blend)
+4634,massage & body OIL,8333,BODPAT,15,choose your fragrance: patchouli (pure essential oil blend)
+4634,massage & body OIL,8334,BODSPA,15,choose your fragrance: spa day
+4634,massage & body OIL,8335,BODNAG,15,choose your fragrance: nag champa
+4634,massage & body OIL,8336,BODLVY,15,choose your fragrance: lovely
+4634,massage & body OIL,8337,BODLGS,15,choose your fragrance: lemongrass sage
+4634,massage & body OIL,8338,BODLAV,15,choose your fragrance: lavender dreams
+4634,massage & body OIL,8339,BODGOD,15,choose your fragrance: goddess
+4634,massage & body OIL,8340,BODEUC,15,choose your fragrance: eucalyptus mint
+4634,massage & body OIL,8341,BODBAB,15,choose your fragrance: baby's butt
+4634,massage & body OIL,8342,BODNKD,15,choose your fragrance: naked (unscented)
+4634,massage & body OIL,8343,BODHYM,15,choose your fragrance: honey mango
+4634,massage & body OIL,8344,BODWTG,15,choose your fragrance: white tea & ginger
+4634,massage & body OIL,8897,BODCHM,15,choose your fragrance: chamomile sage
+4960,hand-dipped incense 10pk,8345,INCBRB,2.5,choose your fragrance: bourbon vanilla
+4960,hand-dipped incense 10pk,8346,INCCHM,2.5,choose your fragrance: chamomile sage
+4960,hand-dipped incense 10pk,8347,INCESA,2.5,choose your fragrance: eucalyptus sage
+4960,hand-dipped incense 10pk,8348,INCGOD,2.5,choose your fragrance: goddess
+4960,hand-dipped incense 10pk,8350,INCLVY,2.5,choose your fragrance: lovely
+4960,hand-dipped incense 10pk,8351,INCMOE,2.5,choose your fragrance: mother earth
+4960,hand-dipped incense 10pk,8352,INCNAG,2.5,choose your fragrance: nag champa
+4960,hand-dipped incense 10pk,8353,INCOCE,2.5,choose your fragrance: ocean waves
+4960,hand-dipped incense 10pk,8354,INCPRE,2.5,choose your fragrance: precious woods
+4960,hand-dipped incense 10pk,8355,INCSPA,2.5,choose your fragrance: spa day
+4960,hand-dipped incense 10pk,8356,INCVER,2.5,choose your fragrance: verbena basil
+4960,hand-dipped incense 10pk,8357,INCLAV,2.5,choose your fragrance: lavender dreams
+4960,hand-dipped incense 10pk,8358,INCVAM,2.5,choose your fragrance: vintage amber
+4960,hand-dipped incense 10pk,8359,INCWTG,2.5,choose your fragrance: white tea & ginger
+4960,hand-dipped incense 10pk,9629,INCCED,2.5,choose your fragrance: cedar & sandalwood
+4960,hand-dipped incense 10pk,9630,INCBOT,2.5,choose your fragrance: botanica
+4961,scented sachet YEAR-ROUND,8207,SACHWTG,4,choose your fragrance: white tea & ginger
+4961,scented sachet YEAR-ROUND,8208,SACHVAN,4,choose your fragrance: warm vanilla
+4961,scented sachet YEAR-ROUND,8209,SACHVAM,4,choose your fragrance: vintage amber
+4961,scented sachet YEAR-ROUND,8210,SACHVER,4,choose your fragrance: verbena basil
+4961,scented sachet YEAR-ROUND,8211,SACHVGR,4,choose your fragrance: vanilla grapefruit
+4961,scented sachet YEAR-ROUND,8212,SACHROS,4,choose your fragrance: sterling rose
+4961,scented sachet YEAR-ROUND,8213,SACHSPA,4,choose your fragrance: spa day
+4961,scented sachet YEAR-ROUND,8214,SACHSEA,4,choose your fragrance: seagrass
+4961,scented sachet YEAR-ROUND,8215,SACHSAN,4,choose your fragrance: sanctuary
+4961,scented sachet YEAR-ROUND,8216,SACHPRE,4,choose your fragrance: precious woods
+4961,scented sachet YEAR-ROUND,8217,SACHOCE,4,choose your fragrance: ocean waves
+4961,scented sachet YEAR-ROUND,8219,SACHNAG,4,choose your fragrance: nag champa
+4961,scented sachet YEAR-ROUND,8220,SACHMOE,4,choose your fragrance: mother earth
+4961,scented sachet YEAR-ROUND,8221,SACHLVY,4,choose your fragrance: lovely
+4961,scented sachet YEAR-ROUND,8222,SACHLGS,4,choose your fragrance: lemongrass sage
+4961,scented sachet YEAR-ROUND,8224,SACHLAV,4,choose your fragrance: lavender dreams
+4961,scented sachet YEAR-ROUND,8225,SACHHYM,4,choose your fragrance: honey mango
+4961,scented sachet YEAR-ROUND,8226,SACHHOM,4,choose your fragrance: homesick
+4961,scented sachet YEAR-ROUND,8228,SACHGOD,4,choose your fragrance: goddess
+4961,scented sachet YEAR-ROUND,8229,SACHGAR,4,choose your fragrance: gardenia & guava
+4961,scented sachet YEAR-ROUND,8230,SACHFIG,4,choose your fragrance: fig & oak
+4961,scented sachet YEAR-ROUND,8231,SACHESA,4,choose your fragrance: eucalyptus sage
+4961,scented sachet YEAR-ROUND,8232,SACHEUC,4,choose your fragrance: eucalyptus mint
+4961,scented sachet YEAR-ROUND,8233,SACHCUP,4,choose your fragrance: cupcake
+4961,scented sachet YEAR-ROUND,8234,SACHCOB,4,choose your fragrance: coffee bean
+4961,scented sachet YEAR-ROUND,8235,SACHCSD,4,choose your fragrance: clean sheet day
+4961,scented sachet YEAR-ROUND,8236,SACHCIT,4,choose your fragrance: citrus squeeze
+4961,scented sachet YEAR-ROUND,8237,SACHCHM,4,choose your fragrance: chamomile sage
+4961,scented sachet YEAR-ROUND,8238,SACHBOT,4,choose your fragrance: botanica
+4961,scented sachet YEAR-ROUND,8239,SACHBRB,4,choose your fragrance: bourbon vanilla
+4961,scented sachet YEAR-ROUND,8240,SACHBON,4,choose your fragrance: bonfire
+4961,scented sachet YEAR-ROUND,8241,SACHBEA,4,choose your fragrance: beach house
+4961,scented sachet YEAR-ROUND,8242,SACHBAB,4,choose your fragrance: baby’s butt
+4961,scented sachet YEAR-ROUND,8566,SACHBTH,4,choose your fragrance: black tea & honey
+4961,scented sachet YEAR-ROUND,8569,SACHCLG,4,choose your fragrance: coconut lemongrass
+4961,scented sachet YEAR-ROUND,8570,SACHCAR,4,choose your fragrance: caramel rum cake
+4961,scented sachet YEAR-ROUND,8879,SACHHBY,4,choose your fragrance: harvest berry
+4961,scented sachet YEAR-ROUND,8893,SACHCED,4,choose your fragrance: cedar & sandalwood
+4961,scented sachet YEAR-ROUND,9685,SACHMYR,4,choose your fragrance: meyer lemon
+5260,MANdle SNIFFER,8371,SNIFFMS,1,choose your MANdle scent: Mr. Sensitive | wine & roses
+5260,MANdle SNIFFER,8372,SNIFFMB,1,choose your MANdle scent: Mr. Moneybags | cash
+5260,MANdle SNIFFER,8373,SNIFFMO,1,choose your MANdle scent: Mr. Mom | diaper wipes
+5260,MANdle SNIFFER,8374,SNIFFMM,1,choose your MANdle scent: Mountain Man | pine forest
+5260,MANdle SNIFFER,8375,SNIFFMA,1,choose your MANdle scent: Mama's Boy | laundry
+5260,MANdle SNIFFER,8376,SNIFFLM,1,choose your MANdle scent: Ladies Man | cologne
+5260,MANdle SNIFFER,8377,SNIFFHI,1,choose your MANdle scent: Hipster | coffee
+5260,MANdle SNIFFER,8378,SNIFFHC,1,choose your MANdle scent: Happy Camper | campfire
+5260,MANdle SNIFFER,8379,SNIFFHM,1,choose your MANdle scent: Handyman | sawdust
+5260,MANdle SNIFFER,8380,SNIFFGU,1,choose your MANdle scent: Guido | cologne
+5260,MANdle SNIFFER,8381,SNIFFGM,1,"choose your MANdle scent: Grease Monkey | WD-40, oil"
+5260,MANdle SNIFFER,8382,SNIFFGD,1,choose your MANdle scent: Game Day | grass
+5260,MANdle SNIFFER,8383,SNIFFFA,1,choose your MANdle scent: Farmer | dirt
+5260,MANdle SNIFFER,8384,SNIFFDH,1,choose your MANdle scent: Dirty Hippie | nag champa
+5260,MANdle SNIFFER,8385,SNIFFDB,1,choose your MANdle scent: Dirtbag | odor eliminator
+5260,MANdle SNIFFER,8386,SNIFFCB,1,"choose your MANdle scent: Country Bumpkin | pine, cinnamon"
+5260,MANdle SNIFFER,8387,SNIFFTC,1,choose your MANdle scent: The Carnivore | bacon
+5260,MANdle SNIFFER,8388,SNIFFTB,1,choose your MANdle scent: The Biker | leather
+5260,MANdle SNIFFER,8364,SNIFFWI,1,choose your MANdle scent: Wino | red wine
+5260,MANdle SNIFFER,8365,SNIFFTH,1,"choose your MANdle scent: TreeHugger | teak, sandalwood"
+5260,MANdle SNIFFER,8366,SNIFFSD,1,choose your MANdle scent: Surfer Dude | ocean
+5260,MANdle SNIFFER,8367,SNIFFST,1,choose your MANdle scent: Stoner | marijauna
+5260,MANdle SNIFFER,8368,SNIFFPG,1,"choose your MANdle scent: Perfect Gentleman | bourbon, sandalwood"
+5260,MANdle SNIFFER,8369,SNIFFOU,1,choose your MANdle scent: Outdoorsman | gunpowder
+5260,MANdle SNIFFER,8370,SNIFFOG,1,choose your MANdle scent: Old Geezer | cherry pipe
+5261,diffuser oil refill + reeds YEAR-ROUND,7919,REFCUP,22,choose your fragrance: cupcake
+5261,diffuser oil refill + reeds YEAR-ROUND,7920,REFCOB,22,choose your fragrance: coffee bean
+5261,diffuser oil refill + reeds YEAR-ROUND,7921,REFCSD,22,choose your fragrance: clean sheet day
+5261,diffuser oil refill + reeds YEAR-ROUND,7922,REFCIT,22,choose your fragrance: citrus squeeze
+5261,diffuser oil refill + reeds YEAR-ROUND,7923,REFCHM,22,choose your fragrance: chamomile sage
+5261,diffuser oil refill + reeds YEAR-ROUND,7924,REFCAR,22,choose your fragrance: caramel rum cake
+5261,diffuser oil refill + reeds YEAR-ROUND,7925,REFBRB,22,choose your fragrance: bourbon vanilla
+5261,diffuser oil refill + reeds YEAR-ROUND,7926,REFBOT,22,choose your fragrance: botanica
+5261,diffuser oil refill + reeds YEAR-ROUND,7927,REFBON,22,choose your fragrance: bonfire
+5261,diffuser oil refill + reeds YEAR-ROUND,7928,REFBEA,22,choose your fragrance: beach house
+5261,diffuser oil refill + reeds YEAR-ROUND,7929,REFBAB,22,choose your fragrance: baby's butt
+5261,diffuser oil refill + reeds YEAR-ROUND,7937,REFWTG,22,choose your fragrance: white tea & ginger
+5261,diffuser oil refill + reeds YEAR-ROUND,7938,REFVAN,22,choose your fragrance: warm vanilla
+5261,diffuser oil refill + reeds YEAR-ROUND,7939,REFVER,22,choose your fragrance: verbena basil
+5261,diffuser oil refill + reeds YEAR-ROUND,7940,REFVGR,22,choose your fragrance: vanilla grapefruit
+5261,diffuser oil refill + reeds YEAR-ROUND,7941,REFROS,22,choose your fragrance: sterling rose
+5261,diffuser oil refill + reeds YEAR-ROUND,7942,REFSPA,22,choose your fragrance: spa day
+5261,diffuser oil refill + reeds YEAR-ROUND,7943,REFSEA,22,choose your fragrance: seagrass
+5261,diffuser oil refill + reeds YEAR-ROUND,7944,REFSAN,22,choose your fragrance: sanctuary
+5261,diffuser oil refill + reeds YEAR-ROUND,7945,REFPRE,22,choose your fragrance: precious woods
+5261,diffuser oil refill + reeds YEAR-ROUND,7946,REFOCE,22,choose your fragrance: ocean waves
+5261,diffuser oil refill + reeds YEAR-ROUND,7948,REFNAG,22,choose your fragrance: nag champa
+5261,diffuser oil refill + reeds YEAR-ROUND,7949,REFMOE,22,choose your fragrance: mother earth
+5261,diffuser oil refill + reeds YEAR-ROUND,7950,REFLVY,22,choose your fragrance: lovely
+5261,diffuser oil refill + reeds YEAR-ROUND,7951,REFLGS,22,choose your fragrance: lemongrass sage
+5261,diffuser oil refill + reeds YEAR-ROUND,7953,REFLAV,22,choose your fragrance: lavender dreams
+5261,diffuser oil refill + reeds YEAR-ROUND,7954,REFHYM,22,choose your fragrance: honey mango
+5261,diffuser oil refill + reeds YEAR-ROUND,7955,REFHOM,22,choose your fragrance: homesick
+5261,diffuser oil refill + reeds YEAR-ROUND,7957,REFGOD,22,choose your fragrance: goddess
+5261,diffuser oil refill + reeds YEAR-ROUND,7958,REFGAR,22,choose your fragrance: gardenia & guava
+5261,diffuser oil refill + reeds YEAR-ROUND,7959,REFFIG,22,choose your fragrance: fig & oak
+5261,diffuser oil refill + reeds YEAR-ROUND,7960,REFESA,22,choose your fragrance: eucalyptus sage
+5261,diffuser oil refill + reeds YEAR-ROUND,7961,REFEUC,22,choose your fragrance: eucalyptus mint
+5261,diffuser oil refill + reeds YEAR-ROUND,8754,REFBTH,22,choose your fragrance: black tea & honey
+5261,diffuser oil refill + reeds YEAR-ROUND,8755,REFVAM,22,choose your fragrance: vintage amber
+5261,diffuser oil refill + reeds YEAR-ROUND,8878,REFHBY,22,choose your fragrance: harvest berry
+5261,diffuser oil refill + reeds YEAR-ROUND,8894,REFCED,22,choose your fragrance: cedar & sandalwood
+5261,diffuser oil refill + reeds YEAR-ROUND,8900,REFCLG,22,choose your fragrance: coconut lemongrass
+5261,diffuser oil refill + reeds YEAR-ROUND,9707,REFMYR,22,choose your fragrance: meyer lemon
+5276,goat's milk & glycerin CHUNK SOAP,8526,GGWTG,6.5,choose your fragrance: white tea & ginger
+5276,goat's milk & glycerin CHUNK SOAP,8529,GGVGR,6.5,choose your fragrance: vanilla grapefruit
+5276,goat's milk & glycerin CHUNK SOAP,8530,GGROS,6.5,choose your fragrance: sterling rose
+5276,goat's milk & glycerin CHUNK SOAP,8531,GGSPA,6.5,choose your fragrance: spa day
+5276,goat's milk & glycerin CHUNK SOAP,8532,GGEOSOO,6.5,choose your fragrance: soothe (essential oil blend)
+5276,goat's milk & glycerin CHUNK SOAP,8533,GGSAN,6.5,choose your fragrance: sanctuary
+5276,goat's milk & glycerin CHUNK SOAP,8534,GGEOREF,6.5,choose your fragrance: refresh (essential oil blend)
+5276,goat's milk & glycerin CHUNK SOAP,8537,GGEOPAT,6.5,choose your fragrance: patchouli (essential oil blend)
+5276,goat's milk & glycerin CHUNK SOAP,8538,GGOCE,6.5,choose your fragrance: ocean waves
+5276,goat's milk & glycerin CHUNK SOAP,8540,GGNKD,6.5,choose your fragrance: naked (unscented)
+5276,goat's milk & glycerin CHUNK SOAP,8541,GGNAG,6.5,choose your fragrance: nag champa
+5276,goat's milk & glycerin CHUNK SOAP,8543,GGLVY,6.5,choose your fragrance: lovely
+5276,goat's milk & glycerin CHUNK SOAP,8544,GGLGS,6.5,choose your fragrance: lemongrass sage
+5276,goat's milk & glycerin CHUNK SOAP,8547,GGLAV,6.5,choose your fragrance: lavender dreams
+5276,goat's milk & glycerin CHUNK SOAP,8548,GGHYM,6.5,choose your fragrance: honey mango
+5276,goat's milk & glycerin CHUNK SOAP,8550,GGGOD,6.5,choose your fragrance: goddess
+5276,goat's milk & glycerin CHUNK SOAP,8551,GGGAR,6.5,choose your fragrance: gardenia & guava
+5276,goat's milk & glycerin CHUNK SOAP,8552,GGEOEUP,6.5,choose your fragrance: euphoria (essential oil blend)
+5276,goat's milk & glycerin CHUNK SOAP,8553,GGESA,6.5,choose your fragrance: eucalyptus sage
+5276,goat's milk & glycerin CHUNK SOAP,8554,GGEUC,6.5,choose your fragrance: eucalyptus mint
+5276,goat's milk & glycerin CHUNK SOAP,8555,GGCLG,6.5,choose your fragrance: coconut lemongrass
+5276,goat's milk & glycerin CHUNK SOAP,8556,GGCIT,6.5,choose your fragrance: citrus squeeze
+5276,goat's milk & glycerin CHUNK SOAP,8557,GGCHM,6.5,choose your fragrance: chamomile sage
+5276,goat's milk & glycerin CHUNK SOAP,8558,GGEOCAL,6.5,choose your fragrance: calm (essential oil blend)
+5276,goat's milk & glycerin CHUNK SOAP,8560,GGBEA,6.5,choose your fragrance: beach house
+5276,goat's milk & glycerin CHUNK SOAP,8562,GGBAB,6.5,choose your fragrance: baby's butt
+5276,goat's milk & glycerin CHUNK SOAP,8563,GGEOAWA,6.5,choose your fragrance: awaken (essential oil blend)
+5276,goat's milk & glycerin CHUNK SOAP,8564,GGAST,5.5,choose your fragrance: assorted soap ends
+5276,goat's milk & glycerin CHUNK SOAP,9498,GGPEA,6.5,choose your fragrance: peace (seasonal )
+5276,goat's milk & glycerin CHUNK SOAP,9599,GGPLC,6.5,choose your fragrance: pure lilac (seasonal)
+5276,goat's milk & glycerin CHUNK SOAP,9600,GGBUM,6.5,choose your fragrance: beach bum (seasonal)
+5787,scented sachet SUMMER,9224,SACHBUM,4,choose your fragrance: beach bum
+5787,scented sachet SUMMER,9232,SACHPLC,4,choose your fragrance: pure lilac
+5787,scented sachet SUMMER,9233,SACHBLS,4,choose your fragrance: blueberry shortcake
+5787,scented sachet SUMMER,9235,SACHSNS,4,choose your fragrance: sunshower
+5787,scented sachet SUMMER,9529,SACHGRS,4,choose your fragrance: grass stain
+5787,scented sachet SUMMER,9698,SACHSDZ,4,choose your fragrance: sundazed
+5787,scented sachet SUMMER,9699,SACHMOR,4,choose your fragrance: morning blooms
+5787,scented sachet SUMMER,9757,SACHHOR,4,choose your fragrance: tropical horizon
+6029,scented sachet HOLIDAY,9511,SACHATM,4,choose your fragrance: autumn equinox
+6029,scented sachet HOLIDAY,9512,SACHBLC,4,choose your fragrance: blue christmas
+6029,scented sachet HOLIDAY,9513,SACHCCR,4,choose your fragrance: crushed cranberry
+6029,scented sachet HOLIDAY,9514,SACHEGG,4,choose your fragrance: eggnog
+6029,scented sachet HOLIDAY,9515,SACHORG,4,choose your fragrance: orange clove
+6029,scented sachet HOLIDAY,9516,SACHPUM,4,choose your fragrance: pumpkin pecan
+6029,scented sachet HOLIDAY,9517,SACHSNO,4,choose your fragrance: snowflakes
+6029,scented sachet HOLIDAY,9518,SACHSLR,4,choose your fragrance: sleigh ride
+6029,scented sachet HOLIDAY,9519,SACHWWL,4,choose your fragrance: winter wonderland
