@@ -3,9 +3,11 @@ from square.environment import SquareEnvironment
 from config import SQUARE_APP_TOKEN
 from client import ApiClient
 import csv
+import json
 
 
 api = ApiClient()
+
 
 def main():
 
@@ -15,11 +17,25 @@ def main():
     )
 
     cursor = None
-    dummy_counter = 40433
+    dummy_counter = 10000
     bigC_customers = []
     square_customers = []
 
-    with open("data/loyalty4.csv", "w", newline="", encoding="utf-8") as f:
+    customers_in_file = {}
+
+    with open('data/production/loyalty/square_customers.json', "r", encoding='utf-8') as j:
+        customers_in_file: dict = json.load(j)
+
+        if not customers_in_file:
+            customers_in_file = {}
+
+    with open("data/counter.txt", "r", encoding="utf-8") as counter:
+        dummy_counter = int(counter.read().strip())
+
+        if not dummy_counter:
+            dummy_counter = 10000
+
+    with open("data/production/loyalty/loyalty2.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
 
         while True:
@@ -47,7 +63,6 @@ def main():
 
             accounts = accounts.loyalty_accounts or []
 
-
             for customer in customers:
 
                 email = customer.email_address
@@ -61,12 +76,19 @@ def main():
                 if not email:
                     email = f"requestemailaddress{dummy_counter}@domain.com"
                     dummy_counter += 1
+                    with open("data/counter.txt", 'w', newline="", encoding='utf-8') as counter:
+                        counter.write(str(dummy_counter))
 
                 address = {}
                 if customer.address:
                     address = customer.address.dict()
 
                 customer = customer.dict()
+
+                customers_in_file[email] = {**customer, "email": email, "points": points}
+
+                with open("data/production/loyalty/square_customers.json", "w") as j:
+                    json.dump(customers_in_file, j, indent=4)
 
                 bigC_customers.append({
                     "email": email,
@@ -108,10 +130,10 @@ def main():
                 print(f"wrote: {len(square_customers)}")
                 square_customers = []
 
-            if bigC_customers:
-                api.post('/customers', bigC_customers)
-                print(f"{len(bigC_customers)} Customer Created")
-                bigC_customers = []
+            # if bigC_customers:
+            #     api.post('/customers', bigC_customers)
+            #     print(f"{len(bigC_customers)} Customer Created")
+            #     bigC_customers = []
 
             with open('data/cursor.txt', 'w', newline="", encoding='utf-8') as c:
                 c.write(cursor)

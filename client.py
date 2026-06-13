@@ -1,5 +1,6 @@
 from config import BIGC_HEADERS as HEADERS, BASE_URL
 import requests
+import re
 
 class ApiClient:
 
@@ -14,7 +15,21 @@ class ApiClient:
     def post(self, endpoint: str, payload):
         r = requests.post(f"{self.base}{endpoint}", headers=HEADERS, json=payload)
         if r.status_code == 422:
-            print(r.text)
+            print("Error occured during creation")
+            text = r.json().get('errors', {}).get(".customer_create", '')
+
+            if not text:
+                print(f"Error: {r.text}")
+                return
+            
+            print(f"email in use error, {text}")
+            match = re.search(r'email\s+(\S+@\S+)', text)
+            if match:
+                email = match.group(1)
+                print(f"{email} already in use, removing and calling post again")
+                payload = [entity for entity in payload if entity.get('email', '') != email]
+                self.post(endpoint, payload)
+
             return 
         r.raise_for_status()
         return r.json()["data"]
