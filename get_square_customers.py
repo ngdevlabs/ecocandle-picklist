@@ -130,10 +130,10 @@ def main():
                 print(f"wrote: {len(square_customers)}")
                 square_customers = []
 
-            # if bigC_customers:
-            #     api.post('/customers', bigC_customers)
-            #     print(f"{len(bigC_customers)} Customer Created")
-            #     bigC_customers = []
+            if bigC_customers:
+                api.post('/customers', bigC_customers)
+                print(f"{len(bigC_customers)} Customer Created")
+                bigC_customers = []
 
             with open('data/cursor.txt', 'w', newline="", encoding='utf-8') as c:
                 c.write(cursor)

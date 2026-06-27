@@ -1,11 +1,10 @@
 from client import ApiClient
-from datetime import datetime
 
 api = ApiClient()
 
 def main():
 
-    page = 6844
+    page = 1
     limit = 250
 
     while True:
@@ -15,6 +14,9 @@ def main():
         ids = []
 
         print('checking customers ', len(customers))
+        if len(customers) is 0:
+            break
+
         for customer in customers:
             email: str = customer.get('email')
             phone: str = customer.get('phone')
@@ -30,6 +32,8 @@ def main():
             ids = []
 
         page += 1
+
+    print('-------------------------DONE------------------------')
 
 if __name__ == '__main__':
     main()
