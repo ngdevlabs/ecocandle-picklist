@@ -2,14 +2,61 @@ from square.client import Square
 from square.environment import SquareEnvironment
 from config import SQUARE_APP_TOKEN
 from client import ApiClient
+from datetime import date, datetime
+import argparse
 import csv
 import json
+import os
 
 
 api = ApiClient()
 
+RANGE_FILE = "data/loyalty_range.txt"
+
+
+def to_iso(text, label):
+    try:
+        return datetime.strptime(text.strip(), "%d/%m/%Y").strftime("%Y-%m-%dT00:00:00Z")
+    except ValueError:
+        raise SystemExit(f"{label} must be DD/MM/YYYY, got {text!r}")
+
+
+def date_range():
+    parser = argparse.ArgumentParser(description="Export Square loyalty points and create the customers in BigCommerce.")
+    parser.add_argument("--start", help="DD/MM/YYYY")
+    parser.add_argument("--end", help="DD/MM/YYYY, defaults to today")
+    args = parser.parse_args()
+
+    start = args.start or input("Start date (DD/MM/YYYY): ")
+    end = args.end or date.today().strftime("%d/%m/%Y")
+    start, end = to_iso(start, "Start date"), to_iso(end, "End date")
+
+    if start >= end:
+        raise SystemExit("Start date must be before end date.")
+
+    return start, end
+
+
+def read_cursor(window):
+    last = ""
+
+    if os.path.exists(RANGE_FILE):
+        with open(RANGE_FILE, encoding="utf-8") as r:
+            last = r.read().strip()
+
+    if last != window:
+        with open("data/cursor.txt", "w", encoding="utf-8") as c:
+            c.write("")
+
+        with open(RANGE_FILE, "w", encoding="utf-8") as r:
+            r.write(window)
+
 
 def main():
+
+    start, end = date_range()
+    read_cursor(f"{start} {end}")
+    print(f"Square customers created from {start[:10]} to {end[:10]}")
 
     client = Square(
         token=SQUARE_APP_TOKEN,
@@ -46,11 +93,20 @@ def main():
             if not cursor:
                 cursor = None
 
-            response = client.customers.list(cursor=cursor, limit=10)
+            response = client.customers.search(
+                cursor=cursor,
+                limit=10,
+                query={
+                    "filter": {"created_at": {"start_at": start, "end_at": end}},
+                    "sort": {"field": "CREATED_AT", "order": "ASC"},
+                },
+            )
 
-            customers = response.response.customers
-                
-            cursor = response.response.cursor
+            body = getattr(response, "response", response)
+
+            customers = body.customers
+
+            cursor = body.cursor
             
             if not customers:
                 break
@@ -136,7 +192,7 @@ def main():
                 bigC_customers = []
 
             with open('data/cursor.txt', 'w', newline="", encoding='utf-8') as c:
-                c.write(cursor)
+                c.write(cursor or "")
 
             f.flush()
 
